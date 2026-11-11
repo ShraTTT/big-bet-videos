@@ -7,6 +7,7 @@ Auftrag: queue/<id>.json = {"id", "branch", "video", "thumb", "sha256", "when", 
          "sofort" (sofort oeffentlich) oder "privat" (bleibt privat, fuer Tests)
 Die Mediendateien holt das Skript selbst aus dem genannten Branch. Nummerierte Branches (handoff-quiz-...) werden nach
 erfolgreichem Upload geloescht, damit das Repository klein bleibt.
+Nur Vorschaubild setzen: {"id", "type": "thumbnail", "videoId", "branch", "thumb"}
 Ergebnis: results/<id>.json (Erfolg, wird nie zweimal hochgeladen) oder results/<id>.fehler.json (Grund des Fehlschlags).
 """
 import hashlib, json, os, re, subprocess, sys, tempfile, urllib.error, urllib.parse, urllib.request
@@ -78,6 +79,25 @@ def pruefsumme(path):
         for block in iter(lambda: f.read(1 << 20), b""): h.update(block)
     return h.hexdigest()
 
+def vorschaubild(tok, vid, branch, name, media):
+    """Setzt das Vorschaubild eines Videos; gibt "ok" oder den Ablehnungsgrund zurueck (bricht nie ab)."""
+    try:
+        tp = holen(branch, name, media / name)
+    except Fehler:
+        return "Datei fehlt"
+    req = urllib.request.Request(f"{UPLOAD}/thumbnails/set?videoId={vid}&uploadType=media", data=tp.read_bytes(),
+                                 headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"}, method="POST")
+    try:
+        urllib.request.urlopen(req, timeout=120).read(); return "ok"
+    except urllib.error.HTTPError as e:
+        try:
+            msg = json.loads(e.read().decode("utf-8", "replace"))["error"]["message"]
+        except Exception:
+            msg = ""
+        return f"abgelehnt (HTTP {e.code}): {msg[:200]}"
+    except urllib.error.URLError as e:
+        return f"nicht gesetzt ({e.reason})"
+
 def hochladen(tok, job, media):
     meta = job["meta"]; branch = job.get("branch", "handoff-quiz"); media.mkdir(exist_ok=True)
     video = holen(branch, job["video"], media / job["video"])
@@ -113,19 +133,7 @@ def hochladen(tok, job, media):
     res = {"id": job["id"], "videoId": vid, "url": f"https://www.youtube.com/watch?v={vid}", "privacy": status["privacyStatus"],
            "publishAt": status.get("publishAt"), "uploaded_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "thumbnail": "keins"}
     if job.get("thumb"):
-        try:
-            tp = holen(branch, job["thumb"], media / job["thumb"])
-        except Fehler:
-            tp = None
-        if tp is not None:
-            req = urllib.request.Request(f"{UPLOAD}/thumbnails/set?videoId={vid}&uploadType=media", data=tp.read_bytes(),
-                                         headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"}, method="POST")
-            try:
-                urllib.request.urlopen(req, timeout=120).read(); res["thumbnail"] = "ok"
-            except urllib.error.HTTPError as e:
-                res["thumbnail"] = f"abgelehnt (HTTP {e.code}) - Kanal per Telefon bestaetigen: youtube.com/verify"
-        else:
-            res["thumbnail"] = "Datei fehlt"
+        res["thumbnail"] = vorschaubild(tok, vid, branch, job["thumb"], media)
     if re.fullmatch(r"handoff-quiz-[\w\-]+", branch):     # nummerierter Branch: nach dem Upload entfernen
         subprocess.run(["git", "push", "-q", "origin", "--delete", branch], capture_output=True)
     return res
@@ -143,6 +151,14 @@ def main():
             if job.get("id") != p.stem: raise Fehler("id im Auftrag passt nicht zum Dateinamen")
             if tok is None:
                 tok = token(); title, uploads, long_ok = kanal(tok); print(f"Kanal: {title}, lange Videos: {long_ok}")
+            if job.get("type") == "thumbnail":          # nur das Vorschaubild eines vorhandenen Videos (neu) setzen
+                media.mkdir(exist_ok=True)
+                res = {"id": job["id"], "videoId": job["videoId"], "url": f"https://www.youtube.com/watch?v={job['videoId']}",
+                       "thumbnail": vorschaubild(tok, job["videoId"], job.get("branch", "handoff-quiz"), job["thumb"], media),
+                       "at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
+                (root / "results" / p.name).write_text(json.dumps(res, ensure_ascii=False, indent=1) + "\n")
+                print(f"{job['id']}: Vorschaubild {res['thumbnail']}")
+                continue
             vid = schon_da(tok, uploads, job["meta"]["title"])
             if vid:
                 res = {"id": job["id"], "videoId": vid, "url": f"https://www.youtube.com/watch?v={vid}", "note": "war bereits hochgeladen - nicht doppelt gesendet"}
