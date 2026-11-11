@@ -1,0 +1,18 @@
+{
+ "id": "test_001",
+ "branch": "handoff-quiz",
+ "video": "test_upload_b.mp4",
+ "thumb": "test_thumb_b.jpg",
+ "sha256": "c86a9ed73c471feaefc214fca13fbe4bf0bc97ae10c886418ad9a43f7c1ba396",
+ "when": "privat",
+ "meta": {
+  "title": "Testupload Feierabendquiz (privat, kann gelöscht werden)",
+  "description": "Technischer Test des automatischen Uploads. Dieses Video ist privat und kann gelöscht werden.",
+  "tags": [
+   "Test"
+  ],
+  "categoryId": 27,
+  "lang": "de",
+  "synthetic": true
+ }
+}
