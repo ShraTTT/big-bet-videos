@@ -1,19 +1,22 @@
 """Laedt eingereihte Videos zu YouTube hoch. Laeuft in GitHub Actions; die Zugangsdaten kommen aus den Repository-Secrets
 YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN und werden nie ausgegeben.
 
-Auftrag: queue/<id>.json = {"id", "video", "thumb", "sha256", "when", "meta": {"title", "description", "tags", "categoryId", "lang"}}
+Auftrag: queue/<id>.json = {"id", "branch", "video", "thumb", "sha256", "when", "meta": {"title", "description", "tags", "categoryId", "lang"}}
+  branch = Branch dieses Repositorys, in dem Video und Vorschaubild liegen (Standard: handoff-quiz)
   when = ISO-Zeit mit Versatz (wird zu diesem Termin oeffentlich; liegt sie schon in der Vergangenheit: sofort oeffentlich),
          "sofort" (sofort oeffentlich) oder "privat" (bleibt privat, fuer Tests)
-Mediendateien liegen im Ordner media/ (Checkout des Branches handoff-quiz).
+Die Mediendateien holt das Skript selbst aus dem genannten Branch. Nummerierte Branches (handoff-quiz-...) werden nach
+erfolgreichem Upload geloescht, damit das Repository klein bleibt.
 Ergebnis: results/<id>.json (Erfolg, wird nie zweimal hochgeladen) oder results/<id>.fehler.json (Grund des Fehlschlags).
 """
-import hashlib, json, os, subprocess, sys, tempfile, urllib.error, urllib.parse, urllib.request
+import hashlib, json, os, re, subprocess, sys, tempfile, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
 KANAL = "UCr0YDQrupcIcmU_y8vv67SA"      # @BirdParadiseTube - es wird nur auf diesen Kanal hochgeladen
 API = "https://youtube.googleapis.com/youtube/v3"
 UPLOAD = "https://www.googleapis.com/upload/youtube/v3"
+RAW = "https://raw.githubusercontent.com/" + os.environ.get("GITHUB_REPOSITORY", "ShraTTT/big-bet-videos")
 
 class Fehler(Exception):
     pass
@@ -62,12 +65,25 @@ def schon_da(tok, uploads, title):
             return it["snippet"]["resourceId"]["videoId"]
     return None
 
+def holen(branch, name, dest):
+    """Laedt eine Datei aus einem Branch dieses (oeffentlichen) Repositorys."""
+    if not re.fullmatch(r"[\w.\-]+", name) or not re.fullmatch(r"[\w.\-/]+", branch): raise Fehler("Unzulaessiger Datei- oder Branchname im Auftrag")
+    r = subprocess.run(["curl", "-sSfL", "--retry", "3", "-m", "900", "-o", str(dest), f"{RAW}/{branch}/{name}"], capture_output=True, text=True)
+    if r.returncode != 0 or not dest.exists(): raise Fehler(f"Datei {name} im Branch {branch} nicht gefunden")
+    return dest
+
+def pruefsumme(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""): h.update(block)
+    return h.hexdigest()
+
 def hochladen(tok, job, media):
-    meta = job["meta"]; video = media / job["video"]
-    if not video.exists(): raise Fehler(f"Videodatei {job['video']} fehlt im Branch handoff-quiz")
-    if job.get("sha256"):
-        h = hashlib.sha256(video.read_bytes()).hexdigest()
-        if h != job["sha256"]: raise Fehler("Videodatei passt nicht zum Auftrag (Pruefsumme) - Branch handoff-quiz wurde inzwischen ueberschrieben")
+    meta = job["meta"]; branch = job.get("branch", "handoff-quiz"); media.mkdir(exist_ok=True)
+    video = holen(branch, job["video"], media / job["video"])
+    if video.stat().st_size < 100000: raise Fehler("Videodatei ist leer")
+    if job.get("sha256") and pruefsumme(video) != job["sha256"]:
+        raise Fehler(f"Videodatei passt nicht zum Auftrag (Pruefsumme) - Branch {branch} wurde inzwischen ueberschrieben")
     status = {"selfDeclaredMadeForKids": False, "containsSyntheticMedia": bool(meta.get("synthetic", True))}
     when = job.get("when", "privat")
     if when == "sofort": status["privacyStatus"] = "public"
@@ -97,8 +113,11 @@ def hochladen(tok, job, media):
     res = {"id": job["id"], "videoId": vid, "url": f"https://www.youtube.com/watch?v={vid}", "privacy": status["privacyStatus"],
            "publishAt": status.get("publishAt"), "uploaded_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "thumbnail": "keins"}
     if job.get("thumb"):
-        tp = media / job["thumb"]
-        if tp.exists():
+        try:
+            tp = holen(branch, job["thumb"], media / job["thumb"])
+        except Fehler:
+            tp = None
+        if tp is not None:
             req = urllib.request.Request(f"{UPLOAD}/thumbnails/set?videoId={vid}&uploadType=media", data=tp.read_bytes(),
                                          headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/jpeg"}, method="POST")
             try:
@@ -107,10 +126,12 @@ def hochladen(tok, job, media):
                 res["thumbnail"] = f"abgelehnt (HTTP {e.code}) - Kanal per Telefon bestaetigen: youtube.com/verify"
         else:
             res["thumbnail"] = "Datei fehlt"
+    if re.fullmatch(r"handoff-quiz-[\w\-]+", branch):     # nummerierter Branch: nach dem Upload entfernen
+        subprocess.run(["git", "push", "-q", "origin", "--delete", branch], capture_output=True)
     return res
 
 def main():
-    root = Path("."); media = root / "media"; (root / "results").mkdir(exist_ok=True)
+    root = Path("."); media = Path(tempfile.mkdtemp()); (root / "results").mkdir(exist_ok=True)
     jobs = [p for p in sorted((root / "queue").glob("*.json")) if not (root / "results" / p.name).exists()]
     if not jobs:
         print("Keine offenen Auftraege."); return 0

@@ -22,11 +22,6 @@ jobs:
     steps:
       - name: Auftraege und Skript holen
         uses: actions/checkout@v4
-      - name: Videodateien holen
-        uses: actions/checkout@v4
-        with:
-          ref: handoff-quiz
-          path: media
       - name: Zu YouTube hochladen
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
