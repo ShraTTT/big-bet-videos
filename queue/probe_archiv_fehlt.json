@@ -1,0 +1,6 @@
+{
+ "id": "probe_archiv_fehlt",
+ "type": "archivprobe",
+ "episode": "qz_999",
+ "note": "Selbsttest der Archiv-Sperre: ohne Archiv-Eintrag - erwartet: gesperrt. Kein Upload."
+}

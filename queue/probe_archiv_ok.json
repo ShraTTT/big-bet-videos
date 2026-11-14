@@ -1,0 +1,6 @@
+{
+ "id": "probe_archiv_ok",
+ "type": "archivprobe",
+ "episode": "qz_002",
+ "note": "Selbsttest der Archiv-Sperre: Folge 2 kollidiert mit nichts - erwartet: ok. Kein Upload."
+}
