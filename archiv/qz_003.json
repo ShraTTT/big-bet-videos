@@ -1,0 +1,250 @@
+{
+ "id": "qz_003",
+ "nr": 3,
+ "datum": "2026-11-14",
+ "titel": "Wahr oder falsch? 30 Behauptungen – schaffst du 24?",
+ "format": "wahr_falsch",
+ "thema": "Wahr oder falsch – bunt gemischt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Erdkunde",
+   "thema": "Mount Everest",
+   "q": "Der Mount Everest ist der höchste Berg der Erde über dem Meeresspiegel.",
+   "a": "wahr",
+   "fakt": "Sein Gipfel liegt rund 8.849 Meter über dem Meer. Als Erste standen 1953 Edmund Hillary und Tenzing Norgay oben."
+  },
+  {
+   "n": 2,
+   "kat": "Natur",
+   "thema": "Pinguin",
+   "q": "Pinguine leben in freier Wildbahn am Nordpol.",
+   "a": "falsch",
+   "fakt": "Pinguine leben fast nur auf der Südhalbkugel, etwa in der Antarktis. In der Arktis lebt dafür der Eisbär."
+  },
+  {
+   "n": 3,
+   "kat": "Körper",
+   "thema": "Zähne",
+   "q": "Das vollständige Gebiss eines Erwachsenen hat 32 Zähne.",
+   "a": "wahr",
+   "fakt": "Dazu zählen vier Weisheitszähne, die aber nicht bei jedem durchbrechen. Das Milchgebiss hat nur 20 Zähne."
+  },
+  {
+   "n": 4,
+   "kat": "Geschichte",
+   "thema": "Mondlandung",
+   "q": "Der erste Mensch betrat den Mond im Jahr 1969.",
+   "a": "wahr",
+   "fakt": "Neil Armstrong betrat im Juli 1969 als Erster den Mond. Bis 1972 folgten ihm elf weitere Astronauten."
+  },
+  {
+   "n": 5,
+   "kat": "Erdkunde",
+   "thema": "Bern",
+   "q": "Die Hauptstadt der Schweiz ist Zürich.",
+   "a": "falsch",
+   "fakt": "Regierung und Parlament sitzen in Bern, der sogenannten Bundesstadt. Zürich ist die größte Stadt des Landes."
+  },
+  {
+   "n": 6,
+   "kat": "Alltag",
+   "thema": "Schaltjahr",
+   "q": "Ein Schaltjahr hat 366 Tage.",
+   "a": "wahr",
+   "fakt": "Der zusätzliche Tag ist der 29. Februar. Er gleicht aus, dass die Erde knapp sechs Stunden länger als 365 Tage um die Sonne braucht."
+  },
+  {
+   "n": 7,
+   "kat": "Natur",
+   "thema": "Delfin",
+   "q": "Delfine sind Fische.",
+   "a": "falsch",
+   "fakt": "Delfine sind Säugetiere: Sie atmen mit Lungen, müssen zum Luftholen auftauchen und säugen ihre Jungen."
+  },
+  {
+   "n": 8,
+   "kat": "Weltall",
+   "thema": "Sonne",
+   "q": "Die Sonne ist ein Stern.",
+   "a": "wahr",
+   "fakt": "Die Sonne ist der Stern in der Mitte unseres Sonnensystems. Sie enthält über 99 Prozent seiner gesamten Masse."
+  },
+  {
+   "n": 9,
+   "kat": "Alltag",
+   "thema": "Kartoffel",
+   "q": "Die Kartoffel stammt ursprünglich aus Deutschland.",
+   "a": "falsch",
+   "fakt": "Die Kartoffel stammt aus den Anden in Südamerika. Im 16. Jahrhundert brachten die Spanier sie nach Europa."
+  },
+  {
+   "n": 10,
+   "kat": "Musik",
+   "thema": "Klavier",
+   "q": "Ein Klavier hat üblicherweise 88 Tasten.",
+   "a": "wahr",
+   "fakt": "Davon sind 52 Tasten weiß und 36 schwarz. Zusammen umfassen sie etwas mehr als sieben Oktaven."
+  },
+  {
+   "n": 11,
+   "kat": "Erdkunde",
+   "thema": "Nil",
+   "q": "Der Nil mündet ins Mittelmeer.",
+   "a": "wahr",
+   "fakt": "Der Nil fließt von Süden nach Norden und mündet in Ägypten mit einem großen Delta ins Mittelmeer."
+  },
+  {
+   "n": 12,
+   "kat": "Weltall",
+   "thema": "Chinesische Mauer",
+   "q": "Die Chinesische Mauer ist vom Mond aus mit bloßem Auge zu erkennen.",
+   "a": "falsch",
+   "fakt": "Vom Mond aus ist kein einzelnes Bauwerk mit bloßem Auge zu sehen. Die Mauer ist sehr lang, aber nur wenige Meter breit."
+  },
+  {
+   "n": 13,
+   "kat": "Natur",
+   "thema": "Stier",
+   "q": "Stiere werden von der Farbe Rot gereizt.",
+   "a": "falsch",
+   "fakt": "Stiere reizt vermutlich die Bewegung des Tuchs, nicht die Farbe. Rinder können Rot kaum von Grün unterscheiden."
+  },
+  {
+   "n": 14,
+   "kat": "Körper",
+   "thema": "Oberschenkelknochen",
+   "q": "Der Oberschenkelknochen ist der längste Knochen des Menschen.",
+   "a": "wahr",
+   "fakt": "Er ist zugleich der stärkste Knochen des menschlichen Körpers. Fachleute nennen ihn Femur."
+  },
+  {
+   "n": 15,
+   "kat": "Geschichte",
+   "thema": "Eiffelturm",
+   "q": "Der Eiffelturm wurde für die Weltausstellung 1889 in Paris gebaut.",
+   "a": "wahr",
+   "fakt": "Die Weltausstellung erinnerte an 100 Jahre Französische Revolution. Der Turm sollte ursprünglich nur 20 Jahre stehen bleiben."
+  },
+  {
+   "n": 16,
+   "kat": "Wissenschaft",
+   "thema": "Siedepunkt von Wasser",
+   "q": "Auf hohen Bergen kocht Wasser bei weniger als 100 Grad Celsius.",
+   "a": "wahr",
+   "fakt": "Mit der Höhe sinkt der Luftdruck. Auf dem Gipfel des Mount Everest kocht Wasser schon bei rund 70 Grad Celsius."
+  },
+  {
+   "n": 17,
+   "kat": "Erdkunde",
+   "thema": "Kontinente",
+   "q": "Afrika ist der flächengrößte Kontinent der Erde.",
+   "a": "falsch",
+   "fakt": "Der größte Kontinent ist Asien mit rund 44 Millionen Quadratkilometern. Afrika folgt auf Platz zwei."
+  },
+  {
+   "n": 18,
+   "kat": "Sprache",
+   "thema": "Handy",
+   "q": "Das Wort „Handy“ bedeutet auch im Englischen Mobiltelefon.",
+   "a": "falsch",
+   "fakt": "Im Englischen heißt „handy“ praktisch oder griffbereit. Das Mobiltelefon nennt man dort mobile phone oder cell phone."
+  },
+  {
+   "n": 19,
+   "kat": "Natur",
+   "thema": "Kamel",
+   "q": "Kamele speichern in ihren Höckern Wasser.",
+   "a": "falsch",
+   "fakt": "In den Höckern steckt Fett als Energievorrat. Dafür kann ein durstiges Kamel auf einmal über 100 Liter Wasser trinken."
+  },
+  {
+   "n": 20,
+   "kat": "Alltag",
+   "thema": "Erdnuss",
+   "q": "Die Erdnuss gehört botanisch zu den Hülsenfrüchtlern – wie Erbse und Bohne.",
+   "a": "wahr",
+   "fakt": "Die Erdnuss ist mit Erbsen und Bohnen verwandt. Ihre Früchte reifen unter der Erde – daher der Name."
+  },
+  {
+   "n": 21,
+   "kat": "Weltall",
+   "thema": "Sonnenlicht",
+   "q": "Das Licht der Sonne braucht rund acht Minuten bis zur Erde.",
+   "a": "wahr",
+   "fakt": "Genauer sind es etwa 8 Minuten und 20 Sekunden – für rund 150 Millionen Kilometer."
+  },
+  {
+   "n": 22,
+   "kat": "Geschichte",
+   "thema": "Napoleon",
+   "q": "Napoleon Bonaparte war mit rund 1,50 Metern auffallend klein.",
+   "a": "falsch",
+   "fakt": "Napoleon war wohl knapp 1,70 Meter groß – für seine Zeit normal. Den Ruf als Winzling prägten britische Karikaturen."
+  },
+  {
+   "n": 23,
+   "kat": "Erdkunde",
+   "thema": "Istanbul",
+   "q": "Istanbul liegt auf zwei Kontinenten.",
+   "a": "wahr",
+   "fakt": "Der Bosporus teilt die Stadt in einen europäischen und einen asiatischen Teil. Brücken und Tunnel verbinden beide."
+  },
+  {
+   "n": 24,
+   "kat": "Körper",
+   "thema": "Gehirn",
+   "q": "Der Mensch nutzt nur zehn Prozent seines Gehirns.",
+   "a": "falsch",
+   "fakt": "Wir nutzen das ganze Gehirn, nur nicht alle Bereiche gleichzeitig. Selbst im Schlaf sind viele Regionen aktiv."
+  },
+  {
+   "n": 25,
+   "kat": "Natur",
+   "thema": "Goldfisch",
+   "q": "Goldfische haben ein Gedächtnis von nur drei Sekunden.",
+   "a": "falsch",
+   "fakt": "Goldfische merken sich Dinge über Wochen und Monate. In Versuchen lernten sie, für Futter einen Hebel zu drücken."
+  },
+  {
+   "n": 26,
+   "kat": "Wissenschaft",
+   "thema": "Diamant",
+   "q": "Diamanten bestehen aus Kohlenstoff.",
+   "a": "wahr",
+   "fakt": "Diamant ist reiner Kohlenstoff, genau wie Graphit in der Bleistiftmine. Nur die Anordnung der Atome ist anders."
+  },
+  {
+   "n": 27,
+   "kat": "Geschichte",
+   "thema": "Albert Einstein",
+   "q": "Albert Einstein erhielt den Nobelpreis für die Relativitätstheorie.",
+   "a": "falsch",
+   "fakt": "Einstein bekam den Physik-Nobelpreis 1921 für das Gesetz des photoelektrischen Effekts. Zuerkannt wurde er erst 1922."
+  },
+  {
+   "n": 28,
+   "kat": "Erdkunde",
+   "thema": "Bodensee",
+   "q": "Der Bodensee grenzt an drei Länder.",
+   "a": "wahr",
+   "fakt": "Am Bodensee liegen Deutschland, Österreich und die Schweiz. Durch den See fließt der Rhein."
+  },
+  {
+   "n": 29,
+   "kat": "Alltag",
+   "thema": "Banane",
+   "q": "Die Banane ist botanisch eine Beere.",
+   "a": "wahr",
+   "fakt": "Botanisch zählt die Banane zu den Beeren, genau wie die Tomate. Die Erdbeere dagegen ist eine Sammelnussfrucht."
+  },
+  {
+   "n": 30,
+   "kat": "Geschichte",
+   "thema": "Wikinger",
+   "q": "Wikinger trugen Helme mit Hörnern.",
+   "a": "falsch",
+   "fakt": "Echte Wikingerhelme hatten keine Hörner. Das Bild entstand erst im 19. Jahrhundert, unter anderem durch Opernkostüme."
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "qz_002",
+ "nr": 2,
+ "datum": "2026-11-12",
+ "titel": "Tier- und Natur-Quiz: 25 Fragen von leicht bis schwer",
+ "format": "quiz",
+ "thema": "Natur und Tiere",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Natur",
+   "thema": "Honigbiene",
+   "q": "Was sammeln Bienen an Blüten, um daraus Honig zu machen?",
+   "a": "Nektar",
+   "fakt": "Aus Nektar wird Honig. Pollen sammeln Bienen auch – er dient als eiweißreiches Futter für die Brut."
+  },
+  {
+   "n": 2,
+   "kat": "Natur",
+   "thema": "Reh",
+   "q": "Wie nennt man ein junges Reh?",
+   "a": "Kitz",
+   "fakt": "Die weißen Flecken tarnen das Kitz im hohen Gras. Bei Gefahr läuft es nicht weg, sondern duckt sich reglos."
+  },
+  {
+   "n": 3,
+   "kat": "Natur",
+   "thema": "Pinguin",
+   "q": "Welcher dieser Vögel kann nicht fliegen?",
+   "a": "Pinguin",
+   "fakt": "Pinguine nutzen ihre Flügel als Flossen. Der Eselspinguin schwimmt bis zu 36 km/h schnell."
+  },
+  {
+   "n": 4,
+   "kat": "Natur",
+   "thema": "Biber",
+   "q": "Welches Tier baut Dämme aus Ästen und staut damit Bäche?",
+   "a": "Biber",
+   "fakt": "Der Biber ist Europas größtes Nagetier. Seine Schneidezähne wachsen ein Leben lang nach."
+  },
+  {
+   "n": 5,
+   "kat": "Natur",
+   "thema": "Eiche",
+   "q": "Wie heißt die Frucht der Eiche?",
+   "a": "Eichel",
+   "fakt": "Der Eichelhäher vergräbt im Herbst Tausende Eicheln als Vorrat. Aus den vergessenen wachsen neue Bäume."
+  },
+  {
+   "n": 6,
+   "kat": "Natur",
+   "thema": "Koala",
+   "q": "Was fressen Koalas fast ausschließlich?",
+   "a": "Eukalyptusblätter",
+   "fakt": "Die Blätter liefern wenig Energie. Deshalb schlafen Koalas bis zu 20 Stunden am Tag."
+  },
+  {
+   "n": 7,
+   "kat": "Natur",
+   "thema": "Blauwal",
+   "q": "Welches ist das größte Tier der Erde?",
+   "a": "Blauwal",
+   "fakt": "Blauwale werden bis zu rund 30 Meter lang. Allein ihre Zunge kann so viel wiegen wie ein Elefant."
+  },
+  {
+   "n": 8,
+   "kat": "Natur",
+   "thema": "Chamäleon",
+   "q": "Welches Tier ist dafür bekannt, seine Hautfarbe zu wechseln?",
+   "a": "Chamäleon",
+   "fakt": "Der Farbwechsel dient vor allem der Verständigung mit Artgenossen. Auch Stimmung, Licht und Temperatur beeinflussen ihn."
+  },
+  {
+   "n": 9,
+   "kat": "Natur",
+   "thema": "Strauß",
+   "q": "Welcher Vogel ist der größte der Erde?",
+   "a": "Strauß",
+   "fakt": "Der Strauß kann nicht fliegen, rennt aber bis zu 70 km/h schnell. Er wird über zwei Meter groß."
+  },
+  {
+   "n": 10,
+   "kat": "Natur",
+   "thema": "Lärche",
+   "q": "Welcher heimische Nadelbaum wirft im Herbst seine Nadeln ab?",
+   "a": "Lärche",
+   "fakt": "Die Lärche ist der einzige heimische Nadelbaum, der im Winter kahl ist. Vorher färben sich ihre Nadeln goldgelb."
+  },
+  {
+   "n": 11,
+   "kat": "Natur",
+   "thema": "Fledermaus",
+   "q": "Welches dieser Säugetiere kann aktiv fliegen?",
+   "a": "Fledermaus",
+   "fakt": "Flughörnchen gleiten nur. Aktiv fliegen können unter den Säugetieren allein Fledermäuse und Flughunde."
+  },
+  {
+   "n": 12,
+   "kat": "Natur",
+   "thema": "Giraffe",
+   "q": "Wie viele Halswirbel hat eine Giraffe?",
+   "a": "Sieben",
+   "fakt": "Sieben – genauso viele wie der Mensch. Ein einzelner Wirbel kann aber rund 25 Zentimeter lang sein."
+  },
+  {
+   "n": 13,
+   "kat": "Erdkunde",
+   "thema": "Großer Panda",
+   "q": "In welchem Land leben Große Pandas in freier Wildbahn?",
+   "a": "China",
+   "fakt": "Wilde Pandas gibt es nur in Bergwäldern Chinas. Sie fressen fast nur Bambus – oft weit über zehn Kilo am Tag."
+  },
+  {
+   "n": 14,
+   "kat": "Natur",
+   "thema": "Walhai",
+   "q": "Welcher Fisch ist der größte der Erde?",
+   "a": "Walhai",
+   "fakt": "Der Walhai wird über zwölf Meter lang und ist harmlos: Er filtert Plankton und kleine Fische aus dem Wasser."
+  },
+  {
+   "n": 15,
+   "kat": "Wissenschaft",
+   "thema": "Fotosynthese",
+   "q": "Welches Gas nehmen Pflanzen bei der Fotosynthese auf?",
+   "a": "Kohlendioxid",
+   "fakt": "Aus Kohlendioxid, Wasser und Licht entstehen Zucker und Sauerstoff – den atmen wir ein."
+  },
+  {
+   "n": 16,
+   "kat": "Erdkunde",
+   "thema": "Amazonas-Regenwald",
+   "q": "In welchem Land liegt der größte Teil des Amazonas-Regenwalds?",
+   "a": "Brasilien",
+   "fakt": "Rund 60 Prozent des Amazonas-Regenwalds liegen in Brasilien. Der Rest verteilt sich auf acht weitere Länder und Gebiete."
+  },
+  {
+   "n": 17,
+   "kat": "Natur",
+   "thema": "Kuckuck",
+   "q": "Welcher Vogel legt seine Eier in die Nester anderer Vogelarten?",
+   "a": "Kuckuck",
+   "fakt": "Der frisch geschlüpfte Kuckuck schiebt die anderen Eier aus dem Nest – und wird von den Wirtseltern gefüttert."
+  },
+  {
+   "n": 18,
+   "kat": "Natur",
+   "thema": "Elefant",
+   "q": "Wie lange ist eine Elefantenkuh ungefähr trächtig?",
+   "a": "22 Monate",
+   "fakt": "Das ist die längste Tragzeit aller Säugetiere. Ein Elefantenkalb wiegt bei der Geburt rund 100 Kilo."
+  },
+  {
+   "n": 19,
+   "kat": "Natur",
+   "thema": "Wanderfalke",
+   "q": "Welches Tier erreicht die höchste Geschwindigkeit im Tierreich?",
+   "a": "Wanderfalke",
+   "fakt": "Im Sturzflug erreicht der Wanderfalke mehr als 300 km/h – damit gilt er als das schnellste Tier der Erde."
+  },
+  {
+   "n": 20,
+   "kat": "Natur",
+   "thema": "Winterstarre",
+   "q": "Wie überwintern Frösche und Eidechsen?",
+   "a": "In Winterstarre",
+   "fakt": "Wechselwarme Tiere fallen in Winterstarre: Ihr Körper kühlt mit der Umgebung ab. Igel halten dagegen Winterschlaf."
+  },
+  {
+   "n": 21,
+   "kat": "Natur",
+   "thema": "Schnabeltier",
+   "q": "Welches dieser Säugetiere legt Eier?",
+   "a": "Schnabeltier",
+   "fakt": "Nur Schnabeltier und Ameisenigel legen als Säugetiere Eier. Ihre Jungen säugen sie trotzdem mit Milch."
+  },
+  {
+   "n": 22,
+   "kat": "Wissenschaft",
+   "thema": "Nashorn",
+   "q": "Woraus besteht das Horn eines Nashorns?",
+   "a": "Keratin",
+   "fakt": "Keratin ist derselbe Stoff, aus dem unsere Haare und Fingernägel bestehen. Ein Knochenkern fehlt dem Horn."
+  },
+  {
+   "n": 23,
+   "kat": "Natur",
+   "thema": "Küstenseeschwalbe",
+   "q": "Welcher Vogel legt jedes Jahr die längste Zugstrecke zurück?",
+   "a": "Küstenseeschwalbe",
+   "fakt": "Die Küstenseeschwalbe pendelt zwischen Arktis und Antarktis – mehr als 70.000 Kilometer im Jahr."
+  },
+  {
+   "n": 24,
+   "kat": "Natur",
+   "thema": "Grönlandhai",
+   "q": "Welches Wirbeltier gilt als das langlebigste der Erde?",
+   "a": "Grönlandhai",
+   "fakt": "Forscher schätzten 2016 ein Grönlandhai-Weibchen auf rund 400 Jahre – mindestens aber 272."
+  },
+  {
+   "n": 25,
+   "kat": "Natur",
+   "thema": "Rafflesie",
+   "q": "Welche Pflanze bildet die größte Einzelblüte der Erde?",
+   "a": "Riesenrafflesie",
+   "fakt": "Die Blüte der Rafflesia arnoldii wird rund einen Meter breit. Die Titanenwurz ist dagegen ein Blütenstand aus vielen Einzelblüten."
+  }
+ ]
+}

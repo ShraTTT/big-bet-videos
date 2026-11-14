@@ -8,13 +8,17 @@ Auftrag: queue/<id>.json = {"id", "branch", "video", "thumb", "sha256", "when", 
 Die Mediendateien holt das Skript selbst aus dem genannten Branch. Nummerierte Branches (handoff-quiz-...) werden nach
 erfolgreichem Upload geloescht, damit das Repository klein bleibt.
 Nur Vorschaubild setzen: {"id", "type": "thumbnail", "videoId", "branch", "thumb"}
+Fragen-Archiv: Zu jedem Video-Auftrag, der oeffentlich wird, muss archiv/<Folge>.json vorliegen (tools/quiz_archiv.py export).
+  Der Eintrag wird vor dem Upload gegen alle frueheren Folgen geprueft; bei einer Dopplung wird nichts hochgeladen.
+  Nur diese Pruefung, ohne Upload: {"id", "type": "archivprobe", "episode": "qz_NNN"} -> Ergebnis mit "archiv": "ok" oder "gesperrt" samt Grund.
 Ergebnis: results/<id>.json (Erfolg, wird nie zweimal hochgeladen) oder results/<id>.fehler.json (Grund des Fehlschlags).
 """
 import hashlib, json, os, re, subprocess, sys, tempfile, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-KANAL = "UCr0YDQrupcIcmU_y8vv67SA"      # @BirdParadiseTube - es wird nur auf diesen Kanal hochgeladen
+KANAL = "UCr0YDQrupcIcmU_y8vv67SA"      # Quiz um Fünf (@quizumfuenf) - es wird nur auf diesen Kanal hochgeladen
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 API = "https://youtube.googleapis.com/youtube/v3"
 UPLOAD = "https://www.googleapis.com/upload/youtube/v3"
 RAW = "https://raw.githubusercontent.com/" + os.environ.get("GITHUB_REPOSITORY", "ShraTTT/big-bet-videos")
@@ -53,7 +57,7 @@ def token():
 def kanal(tok):
     j = json.loads(call(f"{API}/channels?part=snippet,status,contentDetails&mine=true", headers={"Authorization": f"Bearer {tok}"}))
     items = j.get("items") or []
-    if not items: raise Fehler("Der Zugang gehoert zu keinem YouTube-Kanal (bei der Freigabe den Kanal Bird Paradise waehlen)")
+    if not items: raise Fehler("Der Zugang gehoert zu keinem YouTube-Kanal (bei der Freigabe den Kanal Quiz um Fünf waehlen)")
     ch = items[0]
     if ch["id"] != KANAL: raise Fehler(f"Zugang gehoert zu Kanal {ch['id']}, erwartet {KANAL} - nichts hochgeladen")
     return ch["snippet"]["title"], ch["contentDetails"]["relatedPlaylists"]["uploads"], ch.get("status", {}).get("longUploadsStatus", "?")
@@ -138,6 +142,22 @@ def hochladen(tok, job, media):
         subprocess.run(["git", "push", "-q", "origin", "--delete", branch], capture_output=True)
     return res
 
+def archiv_sperre(root, job):
+    """Laesst nur Folgen durch, deren Fragen im Archiv stehen und dort mit keiner frueheren Folge kollidieren."""
+    import quiz_archiv
+    m = re.match(r"(qz_\d+)", str(job.get("episode") or job["id"]))
+    if not m: raise Fehler("Auftrag nennt keine Folge (id qz_NNN) - das Fragen-Archiv kann nicht geprueft werden")
+    eintrag = root / "archiv" / f"{m.group(1)}.json"
+    if not eintrag.exists():
+        raise Fehler(f"Archiv-Eintrag archiv/{m.group(1)}.json fehlt - erst tools/quiz_archiv.py export ausfuehren und mit dem Auftrag einreichen")
+    try:
+        fehler = quiz_archiv.pruefe_eintrag(eintrag, root / "archiv")
+    except (quiz_archiv.ArchivFehler, ValueError) as e:
+        raise Fehler(f"Fragen-Archiv nicht lesbar - nichts hochgeladen: {e}")
+    if fehler:
+        raise Fehler("Fragen-Archiv: " + str(len(fehler)) + " Dopplung(en) mit frueheren Folgen - nichts hochgeladen. " + " || ".join(fehler[:6]))
+    print(f"{job['id']}: Fragen-Archiv ok")
+
 def main():
     root = Path("."); media = Path(tempfile.mkdtemp()); (root / "results").mkdir(exist_ok=True)
     jobs = [p for p in sorted((root / "queue").glob("*.json")) if not (root / "results" / p.name).exists()]
@@ -149,6 +169,17 @@ def main():
         try:
             job = json.loads(p.read_text())
             if job.get("id") != p.stem: raise Fehler("id im Auftrag passt nicht zum Dateinamen")
+            if job.get("type") == "archivprobe":        # nur das Fragen-Archiv pruefen - kein Kontakt zu YouTube, kein Upload
+                try:
+                    archiv_sperre(root, job); res = {"id": job["id"], "archiv": "ok"}
+                except Fehler as e:
+                    res = {"id": job["id"], "archiv": "gesperrt", "grund": str(e)}
+                res["at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                (root / "results" / p.name).write_text(json.dumps(res, ensure_ascii=False, indent=1) + "\n")
+                print(f"{job['id']}: Archiv-Probe {res['archiv']}")
+                continue
+            if job.get("type") != "thumbnail" and job.get("when", "privat") != "privat":
+                archiv_sperre(root, job)                 # vor jedem Kontakt zu YouTube: steht die Folge im Archiv, und ist nichts doppelt?
             if tok is None:
                 tok = token(); title, uploads, long_ok = kanal(tok); print(f"Kanal: {title}, lange Videos: {long_ok}")
             if job.get("type") == "thumbnail":          # nur das Vorschaubild eines vorhandenen Videos (neu) setzen

@@ -1,0 +1,210 @@
+{
+ "id": "qz_001",
+ "nr": 1,
+ "datum": "2026-11-11",
+ "titel": "Allgemeinwissen-Quiz: 25 Fragen – schaffst du 18 Richtige?",
+ "format": "quiz",
+ "thema": "Allgemeinwissen gemischt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Natur",
+   "thema": "Spinne",
+   "q": "Wie viele Beine hat eine Spinne?",
+   "a": "Acht",
+   "fakt": "Acht Beine – daran erkennt man Spinnentiere. Insekten haben dagegen sechs."
+  },
+  {
+   "n": 2,
+   "kat": "Erdkunde",
+   "thema": "Zugspitze",
+   "q": "Wie heißt der höchste Berg Deutschlands?",
+   "a": "Zugspitze",
+   "fakt": "Die Zugspitze ist 2.962 Meter hoch. Über ihren Westgipfel verläuft die Grenze zu Österreich."
+  },
+  {
+   "n": 3,
+   "kat": "Geschichte",
+   "thema": "Berliner Mauer",
+   "q": "In welchem Jahr fiel die Berliner Mauer?",
+   "a": "1989",
+   "fakt": "Am 9. November 1989 öffneten sich die Grenzübergänge. Die Wiedervereinigung folgte am 3. Oktober 1990."
+  },
+  {
+   "n": 4,
+   "kat": "Sprache",
+   "thema": "Alphabet",
+   "q": "Wie viele Buchstaben hat das deutsche Alphabet – ohne Umlaute und ß?",
+   "a": "26",
+   "fakt": "26 Grundbuchstaben. Mit ä, ö, ü und ß sind es 30 – und seit 2017 gibt es das ß offiziell auch als Großbuchstaben."
+  },
+  {
+   "n": 5,
+   "kat": "Wissenschaft",
+   "thema": "Gold",
+   "q": "Welches chemische Zeichen hat Gold?",
+   "a": "Au",
+   "fakt": "Au kommt vom lateinischen Wort „aurum“. Ag steht für Silber – lateinisch „argentum“."
+  },
+  {
+   "n": 6,
+   "kat": "Kultur",
+   "thema": "Mona Lisa",
+   "q": "Wer malte die Mona Lisa?",
+   "a": "Leonardo da Vinci",
+   "fakt": "Leonardo begann das Bild um 1503. Heute hängt es im Louvre in Paris – hinter Panzerglas."
+  },
+  {
+   "n": 7,
+   "kat": "Mathematik",
+   "thema": "Minuten eines Tages",
+   "q": "Wie viele Minuten hat ein Tag?",
+   "a": "1.440",
+   "fakt": "24 Stunden mal 60 Minuten ergeben 1.440. In Sekunden sind es 86.400."
+  },
+  {
+   "n": 8,
+   "kat": "Erdkunde",
+   "thema": "Bayern",
+   "q": "Welches ist das flächenmäßig größte Bundesland Deutschlands?",
+   "a": "Bayern",
+   "fakt": "Bayern nimmt fast ein Fünftel der Fläche Deutschlands ein. Die meisten Einwohner hat allerdings Nordrhein-Westfalen."
+  },
+  {
+   "n": 9,
+   "kat": "Erdkunde",
+   "thema": "Canberra",
+   "q": "Wie heißt die Hauptstadt von Australien?",
+   "a": "Canberra",
+   "fakt": "Canberra wurde eigens als Hauptstadt geplant – als Kompromiss zwischen den Rivalen Sydney und Melbourne."
+  },
+  {
+   "n": 10,
+   "kat": "Natur",
+   "thema": "Gepard",
+   "q": "Welches ist das schnellste Landtier der Erde?",
+   "a": "Gepard",
+   "fakt": "Geparde erreichen im Sprint rund 100 km/h – halten dieses Tempo aber nur wenige Hundert Meter durch."
+  },
+  {
+   "n": 11,
+   "kat": "Geschichte",
+   "thema": "Konrad Adenauer",
+   "q": "Wer war der erste Bundeskanzler der Bundesrepublik Deutschland?",
+   "a": "Konrad Adenauer",
+   "fakt": "Adenauer wurde 1949 mit 73 Jahren gewählt und blieb 14 Jahre im Amt. Theodor Heuss war der erste Bundespräsident."
+  },
+  {
+   "n": 12,
+   "kat": "Weltall",
+   "thema": "Merkur",
+   "q": "Welcher Planet ist der Sonne am nächsten?",
+   "a": "Merkur",
+   "fakt": "Merkur umrundet die Sonne in nur 88 Tagen. Der heißeste Planet ist trotzdem die Venus – wegen ihrer dichten Atmosphäre."
+  },
+  {
+   "n": 13,
+   "kat": "Sprache",
+   "thema": "Palindrom",
+   "q": "Was ist ein Palindrom?",
+   "a": "Vor- und rückwärts gleich",
+   "fakt": "Otto, Anna, Rentner oder Reliefpfeiler: Alle lesen sich von hinten genauso wie von vorn."
+  },
+  {
+   "n": 14,
+   "kat": "Musik",
+   "thema": "Europahymne",
+   "q": "Von welchem Komponisten stammt die Melodie der Europahymne?",
+   "a": "Beethoven",
+   "fakt": "Sie stammt aus Beethovens 9. Sinfonie von 1824. Dort wird Schillers „Ode an die Freude“ gesungen – die Hymne selbst hat keinen Text."
+  },
+  {
+   "n": 15,
+   "kat": "Erdkunde",
+   "thema": "Nachbarländer Deutschlands",
+   "q": "An wie viele Länder grenzt Deutschland?",
+   "a": "Neun",
+   "fakt": "Neun Nachbarn: Dänemark, Polen, Tschechien, Österreich, die Schweiz, Frankreich, Luxemburg, Belgien und die Niederlande."
+  },
+  {
+   "n": 16,
+   "kat": "Technik",
+   "thema": "SMS",
+   "q": "In welchem Jahr wurde die erste SMS verschickt?",
+   "a": "1992",
+   "fakt": "Am 3. Dezember 1992 ging die erste SMS von einem Computer an ein Handy. Ihr Text: „Merry Christmas“ – Frohe Weihnachten."
+  },
+  {
+   "n": 17,
+   "kat": "Natur",
+   "thema": "Oktopus",
+   "q": "Wie viele Herzen hat ein Oktopus?",
+   "a": "Drei",
+   "fakt": "Zwei Herzen pumpen das Blut durch die Kiemen, das dritte versorgt den Körper. Und sein Blut ist blau."
+  },
+  {
+   "n": 18,
+   "kat": "Geschichte",
+   "thema": "Weimarer Republik",
+   "q": "In welcher Stadt wurde 1919 die Verfassung der ersten deutschen Republik beschlossen?",
+   "a": "Weimar",
+   "fakt": "Die Nationalversammlung tagte in Weimar, weil die Lage in Berlin zu unruhig war – daher der Name Weimarer Republik."
+  },
+  {
+   "n": 19,
+   "kat": "Erdkunde",
+   "thema": "Baikalsee",
+   "q": "Welcher See ist der tiefste der Erde?",
+   "a": "Baikalsee",
+   "fakt": "Der Baikalsee in Sibirien ist über 1.600 Meter tief und enthält rund ein Fünftel des flüssigen Süßwassers der Erdoberfläche."
+  },
+  {
+   "n": 20,
+   "kat": "Wissenschaft",
+   "thema": "Hertz",
+   "q": "Was misst man in der Einheit Hertz?",
+   "a": "Frequenz",
+   "fakt": "Ein Hertz ist eine Schwingung pro Sekunde. Benannt ist die Einheit nach dem deutschen Physiker Heinrich Hertz."
+  },
+  {
+   "n": 21,
+   "kat": "Kultur",
+   "thema": "Die Blechtrommel",
+   "q": "Wer schrieb den Roman „Die Blechtrommel“?",
+   "a": "Günter Grass",
+   "fakt": "Der Roman erschien 1959. Vierzig Jahre später erhielt Günter Grass den Literaturnobelpreis."
+  },
+  {
+   "n": 22,
+   "kat": "Sport",
+   "thema": "Marathon",
+   "q": "Wie lang ist die Marathonstrecke?",
+   "a": "42,195 km",
+   "fakt": "Die krumme Zahl stammt von den Olympischen Spielen 1908 in London: Der Lauf führte von Schloss Windsor bis ins Stadion."
+  },
+  {
+   "n": 23,
+   "kat": "Körper",
+   "thema": "Steigbügel",
+   "q": "Welcher Knochen ist der kleinste im menschlichen Körper?",
+   "a": "Steigbügel",
+   "fakt": "Der Steigbügel sitzt im Mittelohr und ist nur etwa drei Millimeter groß."
+  },
+  {
+   "n": 24,
+   "kat": "Erdkunde",
+   "thema": "Donau",
+   "q": "Durch wie viele Länder fließt die Donau?",
+   "a": "Zehn",
+   "fakt": "Zehn Länder durchfließt oder berührt die Donau – das gilt als Weltrekord. Sie entspringt im Schwarzwald und mündet ins Schwarze Meer."
+  },
+  {
+   "n": 25,
+   "kat": "Wissenschaft",
+   "thema": "Quecksilber",
+   "q": "Welches Metall ist bei Zimmertemperatur flüssig?",
+   "a": "Quecksilber",
+   "fakt": "Quecksilber wird erst bei etwa minus 39 Grad fest. Früher steckte es in vielen Fieberthermometern."
+  }
+ ]
+}
