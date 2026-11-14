@@ -195,9 +195,9 @@ class Index:
                 for k in schluessel(t): self.thema.setdefault(k, set()).add(i)
     def kandidaten(self, x):
         """gespeicherte Fragen, die mit x mindestens ein markantes Wort teilen (alle anderen haben Aehnlichkeit 0)"""
-        out = set()
+        out = set(); ohne = not any(markant(t) for t in x["K"])       # Frage ganz ohne markantes Wort: mit allen Woertern suchen
         for t in set(x["K"] + x["F"]):
-            m = markant(t)
+            m = markant(t) or (ohne and t in x["K"])
             for k in schluessel(t):
                 out |= self.mark.get(k, set())
                 if m: out |= self.alle.get(k, set())
@@ -234,6 +234,10 @@ def aehnlichkeit(x, y, W):
     # Kern gegen Kern; Kern gegen den ganzen Text der anderen (Behauptung wiederholt eine Erklaerung); Text gegen Text nur als Hinweis
     kandidaten = [teil(kx, ky, kleiner, 1.0), teil(kx, fy, kx, 0.9, 2), teil(ky, fx, ky, 0.9, 2), teil(fx, fy, voll_kleiner, 0.65, 3)]
     s, g = max(kandidaten, key=lambda k: k[0])
+    p = paare(kx, ky)                                                # fast wortgleich (auch ohne markantes Wort): dieselbe Frage
+    if len(p) >= 2:
+        gem = sum(min(W(t), W(u)) for t, u in p)
+        if gem >= 0.85 * W.summe(kx) and gem >= 0.85 * W.summe(ky): s, g = 1.0, [t for t, _ in p]
     if x["A"] and y["A"] and len(paare(x["A"], y["A"])) == len(x["A"]) == len(y["A"]) and any(markant(t) for t in x["A"]):
         qg = paare(x["Q"], y["Q"])                                   # gleiche Antwort und verwandte Frage
         if sum(min(W(t), W(u)) for t, u in qg) / max(1e-9, min(W.summe(x["Q"]), W.summe(y["Q"]))) >= 0.3: s = max(s, 0.75)
@@ -487,9 +491,16 @@ def selbsttest():
                                                {"n": 2, "kat": "Erdkunde", "thema": "K2", "q": "Wie heißt der zweithöchste Berg der Erde?", "a": "K2", "fakt": "Er ist 8.611 Meter hoch."}]}]
     assert f("Die Oder mündet in die Ostsee.", "wahr", "Oder", archiv=B) and f("Der K2 liegt im Karakorum.", "wahr", "K2", archiv=B), "kurze Namen und Namen wie Fuellwoerter"
     assert not f("Die Elbe mündet in die Nordsee.", "wahr", "Elbe", archiv=B)
+    alt = [{"id": f"qz_{k:03d}", "nr": k, "fragen": [{"n": 1, "kat": "x", "thema": f"Fueller{k}", "q": f"Fuellfrage Nummer {k} zu Dingsda{k}?", "a": f"Antwort{k}", "fakt": ""}]} for k in range(2, 2 + SPERRE)]
+    C = [{"id": "qz_001", "nr": 1, "fragen": [{"n": 1, "kat": "Erdkunde", "thema": "Nachbarländer Deutschlands", "q": "An wie viele Länder grenzt Deutschland?", "a": "Neun", "fakt": "Kein anderes Land in Europa hat mehr Nachbarn."},
+                                               {"n": 2, "kat": "Alltag", "thema": "Stunde", "q": "Wie viele Minuten hat eine Stunde?", "a": "60", "fakt": "Die Einteilung geht auf die Babylonier zurück."}]}] + alt
+    assert f("An wie viele Länder grenzt Deutschland?", "Neun", "Deutschlands Grenzen", archiv=C), "wortgleiche Frage mit nur einem markanten Wort"
+    assert f("Deutschland grenzt an neun Länder.", "wahr", "Grenzen", archiv=C), "dieselbe Tatsache als Behauptung"
+    assert f("Wie viele Minuten hat eine Stunde?", "60", "Uhrzeit", archiv=C), "wortgleiche Frage ganz ohne markantes Wort"
+    assert not f("Der Bodensee grenzt an drei Länder.", "wahr", "Bodensee", "Deutschland, Österreich und die Schweiz.", archiv=C), "anderes Gewaesser, andere Zahl"
+    assert not f("An wie viele Länder grenzt Österreich?", "Acht", "Österreich", archiv=C), "andere Frage nach demselben Muster"
     for a, b in (("wal", "walen"), ("arzt", "arztinnen"), ("vogel", "vogeln"), ("haus", "hauser"), ("sonne", "sonnenlicht"), ("pinguine", "pinguinen")):
         assert gleich(a, b) and set(schluessel(a)) & set(schluessel(b)), f"Suchschluessel fehlt: {a}/{b}"
-    alt = [{"id": f"qz_{k:03d}", "nr": k, "fragen": [{"n": 1, "kat": "x", "thema": f"Fueller{k}", "q": f"Fuellfrage Nummer {k} zu Dingsda{k}?", "a": f"Antwort{k}", "fakt": ""}]} for k in range(2, 2 + SPERRE)]
     spaeter = A + alt
     assert not f("Pinguine leben in freier Wildbahn am Nordpol.", "falsch", "Pinguine", "Pinguine leben fast nur auf der Südhalbkugel.", spaeter), "nach der Sperre darf das Thema mit neuem Inhalt wiederkommen"
     assert f("Ein Oktopus hat drei Herzen.", "wahr", "Krake", archiv=spaeter), "dieselbe Tatsache bleibt fuer immer gesperrt"
