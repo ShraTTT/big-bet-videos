@@ -1,0 +1,210 @@
+{
+ "id": "qz_004",
+ "nr": 4,
+ "datum": "2026-11-16",
+ "titel": "Allgemeinwissen-Quiz: 25 neue Fragen aus 12 Wissensgebieten",
+ "format": "quiz",
+ "thema": "Allgemeinwissen gemischt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Mathematik",
+   "thema": "Dutzend",
+   "q": "Wie viele Stück sind ein Dutzend?",
+   "a": "Zwölf",
+   "fakt": "Zwölf Dutzend ergeben ein Gros, also 144 Stück. Das Wort Dutzend stammt vom lateinischen Wort für zwölf ab."
+  },
+  {
+   "n": 2,
+   "kat": "Kultur",
+   "thema": "Schneewittchen",
+   "q": "Womit vergiftet die Königin Schneewittchen im Märchen der Brüder Grimm zuletzt?",
+   "a": "Mit einem Apfel",
+   "fakt": "Zuvor scheitert die verkleidete Königin zweimal selbst: erst mit einem Schnürriemen, dann mit einem giftigen Kamm."
+  },
+  {
+   "n": 3,
+   "kat": "Sprache",
+   "thema": "Adidas",
+   "q": "Wonach ist die Sportmarke Adidas benannt?",
+   "a": "Nach ihrem Gründer",
+   "fakt": "Adolf Dassler wurde Adi genannt. Sein Bruder Rudolf gründete im selben Ort, Herzogenaurach, den Konkurrenten Puma."
+  },
+  {
+   "n": 4,
+   "kat": "Alltag",
+   "thema": "Euro-Münzen",
+   "q": "Wie viele verschiedene Nennwerte haben die Euro-Münzen?",
+   "a": "Acht",
+   "fakt": "Von 1 Cent bis 2 Euro. Eine Seite ist in allen Ländern gleich, die andere gestaltet jedes Land selbst."
+  },
+  {
+   "n": 5,
+   "kat": "Musik",
+   "thema": "Xylofon",
+   "q": "Woraus bestehen die Klangstäbe eines Xylofons?",
+   "a": "Aus Holz",
+   "fakt": "Xylon ist das griechische Wort für Holz. Mit Klangstäben aus Metall heißt das Instrument Metallofon."
+  },
+  {
+   "n": 6,
+   "kat": "Alltag",
+   "thema": "DIN A4",
+   "q": "Welches Papierformat ist genau doppelt so groß wie DIN A4?",
+   "a": "DIN A3",
+   "fakt": "Ein Bogen DIN A0 hat eine Fläche von einem Quadratmeter. Jede Halbierung ergibt das nächstkleinere Format."
+  },
+  {
+   "n": 7,
+   "kat": "Mathematik",
+   "thema": "Uhrzeiger",
+   "q": "Welchen Winkel bilden die beiden Uhrzeiger um genau drei Uhr?",
+   "a": "90 Grad",
+   "fakt": "Ein rechter Winkel. Der Minutenzeiger dreht sich um 6 Grad pro Minute, der Stundenzeiger nur um ein halbes Grad."
+  },
+  {
+   "n": 8,
+   "kat": "Kultur",
+   "thema": "Gustav Klimt",
+   "q": "Welcher Wiener Maler schuf um 1908 das Gemälde „Der Kuss“?",
+   "a": "Gustav Klimt",
+   "fakt": "Das Bild hängt im Wiener Belvedere und ist quadratisch: 180 mal 180 Zentimeter."
+  },
+  {
+   "n": 9,
+   "kat": "Sport",
+   "thema": "Fritz Walter",
+   "q": "Wer war 1954 Kapitän der deutschen Fußball-Weltmeister?",
+   "a": "Fritz Walter",
+   "fakt": "Regen heißt bis heute Fritz-Walter-Wetter: Auf nassem Platz spielte er besonders stark – und auch im Endspiel 1954 regnete es."
+  },
+  {
+   "n": 10,
+   "kat": "Musik",
+   "thema": "Giuseppe Verdi",
+   "q": "Welche dieser Opern komponierte Giuseppe Verdi?",
+   "a": "Aida",
+   "fakt": "Aida spielt im alten Ägypten und wurde 1871 in Kairo uraufgeführt. Carmen ist von Bizet, Tosca von Puccini."
+  },
+  {
+   "n": 11,
+   "kat": "Sport",
+   "thema": "Judo",
+   "q": "Was bedeutet das japanische Wort Judo auf Deutsch?",
+   "a": "Sanfter Weg",
+   "fakt": "Kanō Jigorō begründete Judo 1882 in Tokio. Olympisch wurde es 1964 – ebenfalls in Tokio."
+  },
+  {
+   "n": 12,
+   "kat": "Kultur",
+   "thema": "Loreley",
+   "q": "An welchem Fluss ragt der sagenumwobene Loreley-Felsen auf?",
+   "a": "Am Rhein",
+   "fakt": "Der Schieferfelsen bei Sankt Goarshausen ragt 132 Meter über den Rhein. Berühmt machte ihn ein Gedicht von Heinrich Heine."
+  },
+  {
+   "n": 13,
+   "kat": "Erdkunde",
+   "thema": "Lissabon",
+   "q": "Welche europäische Hauptstadt liegt an der Mündung des Tejo?",
+   "a": "Lissabon",
+   "fakt": "Der Tejo entspringt in Spanien und ist mit rund 1.000 Kilometern der längste Fluss der Iberischen Halbinsel."
+  },
+  {
+   "n": 14,
+   "kat": "Sport",
+   "thema": "Jesse Owens",
+   "q": "Wie viele Olympiasiege feierte der Leichtathlet Jesse Owens 1936 in Berlin?",
+   "a": "Vier",
+   "fakt": "Er gewann über 100 und 200 Meter, im Weitsprung und mit der Staffel. Silber im Weitsprung holte der Deutsche Luz Long."
+  },
+  {
+   "n": 15,
+   "kat": "Technik",
+   "thema": "Beton",
+   "q": "Woraus wird Beton angemischt?",
+   "a": "Zement, Wasser, Sand, Kies",
+   "fakt": "Schon die Römer bauten mit Beton: Die Kuppel des Pantheons in Rom hält seit rund 1.900 Jahren."
+  },
+  {
+   "n": 16,
+   "kat": "Wissenschaft",
+   "thema": "Hefepilze",
+   "q": "Welches Gas lässt einen Hefeteig aufgehen?",
+   "a": "Kohlendioxid",
+   "fakt": "Hefen sind einzellige Pilze. Sie vergären Zucker zu Kohlendioxid und Alkohol – der verfliegt beim Backen."
+  },
+  {
+   "n": 17,
+   "kat": "Wissenschaft",
+   "thema": "Eisen",
+   "q": "Welches Metall ist der Hauptbestandteil von Stahl?",
+   "a": "Eisen",
+   "fakt": "Stahl ist Eisen mit höchstens rund zwei Prozent Kohlenstoff. Enthält es mehr, spricht man von Gusseisen."
+  },
+  {
+   "n": 18,
+   "kat": "Körper",
+   "thema": "Zwerchfell",
+   "q": "Welcher Muskel leistet beim Atmen die Hauptarbeit?",
+   "a": "Das Zwerchfell",
+   "fakt": "Das Zwerchfell trennt Brust- und Bauchraum. Zieht es sich ruckartig zusammen, entsteht ein Schluckauf."
+  },
+  {
+   "n": 19,
+   "kat": "Wissenschaft",
+   "thema": "Seemeile",
+   "q": "Wie lang ist eine Seemeile?",
+   "a": "1.852 Meter",
+   "fakt": "Sie entspricht einer Bogenminute auf einem Längenkreis der Erde. Ein Knoten ist eine Seemeile pro Stunde."
+  },
+  {
+   "n": 20,
+   "kat": "Weltall",
+   "thema": "Saturnringe",
+   "q": "Woraus bestehen die Ringe des Saturn vor allem?",
+   "a": "Aus Wassereis",
+   "fakt": "Die Brocken sind so klein wie Staubkörner oder so groß wie Häuser. Die Hauptringe sind meist nur rund 10 Meter dick."
+  },
+  {
+   "n": 21,
+   "kat": "Geschichte",
+   "thema": "D-Mark",
+   "q": "In welchem Jahr wurde in Westdeutschland die D-Mark eingeführt?",
+   "a": "1948",
+   "fakt": "Am 20. Juni 1948 erhielt jeder zunächst 40 D-Mark im Tausch gegen Reichsmark. Gedruckt wurden die ersten Scheine in den USA."
+  },
+  {
+   "n": 22,
+   "kat": "Geschichte",
+   "thema": "Hanse",
+   "q": "Welche Stadt galt als „Königin der Hanse“?",
+   "a": "Lübeck",
+   "fakt": "Hamburg, Bremen und Lübeck tragen das H für Hansestadt bis heute im Autokennzeichen: HH, HB und HL."
+  },
+  {
+   "n": 23,
+   "kat": "Alltag",
+   "thema": "Kaffeefilter",
+   "q": "Wer erfand 1908 den Kaffeefilter aus Papier?",
+   "a": "Melitta Bentz",
+   "fakt": "Die Dresdnerin durchlöcherte den Boden eines Messinggefäßes und legte Löschpapier aus einem Schulheft hinein."
+  },
+  {
+   "n": 24,
+   "kat": "Weltall",
+   "thema": "Sigmund Jähn",
+   "q": "Wer flog 1978 als erster Deutscher ins Weltall?",
+   "a": "Sigmund Jähn",
+   "fakt": "Der DDR-Kosmonaut startete mit Sojus 31 zur Raumstation Saljut 6. Ulf Merbold folgte 1983 als erster Westdeutscher."
+  },
+  {
+   "n": 25,
+   "kat": "Sport",
+   "thema": "Gelbe und Rote Karte",
+   "q": "Bei welcher Fußball-WM wurden Gelbe und Rote Karten eingeführt?",
+   "a": "1970 in Mexiko",
+   "fakt": "Die Idee hatte der englische Schiedsrichter Ken Aston – angeregt von den Farben einer Verkehrsampel."
+  }
+ ]
+}

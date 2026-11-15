@@ -1,12 +1,42 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**3 Folgen, 80 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**4 Folgen, 105 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (3 Folgen, 80 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (4 Folgen, 105 Fragen und Behauptungen)
 
-Die neuesten 3 Folgen:
+Die neuesten 4 Folgen:
+
+## Folge 4 · 2026-11-16 · Allgemeinwissen-Quiz: 25 neue Fragen aus 12 Wissensgebieten
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Dutzend | Wie viele Stück sind ein Dutzend? | Zwölf |
+| 2 | Schneewittchen | Womit vergiftet die Königin Schneewittchen im Märchen der Brüder Grimm zuletzt? | Mit einem Apfel |
+| 3 | Adidas | Wonach ist die Sportmarke Adidas benannt? | Nach ihrem Gründer |
+| 4 | Euro-Münzen | Wie viele verschiedene Nennwerte haben die Euro-Münzen? | Acht |
+| 5 | Xylofon | Woraus bestehen die Klangstäbe eines Xylofons? | Aus Holz |
+| 6 | DIN A4 | Welches Papierformat ist genau doppelt so groß wie DIN A4? | DIN A3 |
+| 7 | Uhrzeiger | Welchen Winkel bilden die beiden Uhrzeiger um genau drei Uhr? | 90 Grad |
+| 8 | Gustav Klimt | Welcher Wiener Maler schuf um 1908 das Gemälde „Der Kuss“? | Gustav Klimt |
+| 9 | Fritz Walter | Wer war 1954 Kapitän der deutschen Fußball-Weltmeister? | Fritz Walter |
+| 10 | Giuseppe Verdi | Welche dieser Opern komponierte Giuseppe Verdi? | Aida |
+| 11 | Judo | Was bedeutet das japanische Wort Judo auf Deutsch? | Sanfter Weg |
+| 12 | Loreley | An welchem Fluss ragt der sagenumwobene Loreley-Felsen auf? | Am Rhein |
+| 13 | Lissabon | Welche europäische Hauptstadt liegt an der Mündung des Tejo? | Lissabon |
+| 14 | Jesse Owens | Wie viele Olympiasiege feierte der Leichtathlet Jesse Owens 1936 in Berlin? | Vier |
+| 15 | Beton | Woraus wird Beton angemischt? | Zement, Wasser, Sand, Kies |
+| 16 | Hefepilze | Welches Gas lässt einen Hefeteig aufgehen? | Kohlendioxid |
+| 17 | Eisen | Welches Metall ist der Hauptbestandteil von Stahl? | Eisen |
+| 18 | Zwerchfell | Welcher Muskel leistet beim Atmen die Hauptarbeit? | Das Zwerchfell |
+| 19 | Seemeile | Wie lang ist eine Seemeile? | 1.852 Meter |
+| 20 | Saturnringe | Woraus bestehen die Ringe des Saturn vor allem? | Aus Wassereis |
+| 21 | D-Mark | In welchem Jahr wurde in Westdeutschland die D-Mark eingeführt? | 1948 |
+| 22 | Hanse | Welche Stadt galt als „Königin der Hanse“? | Lübeck |
+| 23 | Kaffeefilter | Wer erfand 1908 den Kaffeefilter aus Papier? | Melitta Bentz |
+| 24 | Sigmund Jähn | Wer flog 1978 als erster Deutscher ins Weltall? | Sigmund Jähn |
+| 25 | Gelbe und Rote Karte | Bei welcher Fußball-WM wurden Gelbe und Rote Karten eingeführt? | 1970 in Mexiko |
 
 ## Folge 3 · 2026-11-14 · Wahr oder falsch? 30 Behauptungen – schaffst du 24?
 
