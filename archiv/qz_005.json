@@ -1,0 +1,202 @@
+{
+ "id": "qz_005",
+ "nr": 5,
+ "datum": "2026-11-17",
+ "titel": "Erdkunde-Quiz: 24 Hauptstädte – wie viele kennst du?",
+ "format": "quiz",
+ "thema": "Erdkunde: Hauptstädte der Welt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Erdkunde",
+   "thema": "Wien",
+   "q": "Wie heißt die Hauptstadt von Österreich?",
+   "a": "Wien",
+   "fakt": "Wien ist zugleich eines der neun Bundesländer Österreichs – und mit rund zwei Millionen Einwohnern die größte Stadt des Landes."
+  },
+  {
+   "n": 2,
+   "kat": "Erdkunde",
+   "thema": "Rom",
+   "q": "In welcher Hauptstadt liegt mit der Vatikanstadt ein eigener Staat?",
+   "a": "Rom",
+   "fakt": "Die Vatikanstadt ist mit 0,44 Quadratkilometern der kleinste Staat der Welt – ganz von Rom umschlossen."
+  },
+  {
+   "n": 3,
+   "kat": "Erdkunde",
+   "thema": "Kopenhagen",
+   "q": "Wie heißt die Hauptstadt von Dänemark?",
+   "a": "Kopenhagen",
+   "fakt": "Kopenhagen liegt auf den Inseln Seeland und Amager. Seit 2000 verbinden Tunnel und Öresundbrücke die Stadt mit Schweden."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Dublin",
+   "q": "Dublin ist die Hauptstadt welches Landes?",
+   "a": "Irland",
+   "fakt": "Der Name stammt vom irischen „Dubh Linn“. Das bedeutet „schwarzer Teich“."
+  },
+  {
+   "n": 5,
+   "kat": "Erdkunde",
+   "thema": "Prag",
+   "q": "An welchem Fluss liegt die tschechische Hauptstadt Prag?",
+   "a": "Moldau",
+   "fakt": "Die Moldau ist der längste Fluss Tschechiens. In Prag überspannt sie die Karlsbrücke, deren Bau 1357 begann."
+  },
+  {
+   "n": 6,
+   "kat": "Erdkunde",
+   "thema": "Amsterdam",
+   "q": "Amsterdam ist die Hauptstadt der Niederlande. Wo sitzt die Regierung?",
+   "a": "Den Haag",
+   "fakt": "In Den Haag arbeiten Regierung und Parlament, auch der König wohnt dort. Hauptstadt ist laut Verfassung trotzdem Amsterdam."
+  },
+  {
+   "n": 7,
+   "kat": "Erdkunde",
+   "thema": "Stockholm",
+   "q": "Welche Hauptstadt ist auf 14 Inseln erbaut?",
+   "a": "Stockholm",
+   "fakt": "Stockholm liegt dort, wo der Mälarsee auf die Ostsee trifft. Mehr als 50 Brücken verbinden die Inseln."
+  },
+  {
+   "n": 8,
+   "kat": "Erdkunde",
+   "thema": "Reykjavík",
+   "q": "Welche ist die nördlichste Hauptstadt eines unabhängigen Staates?",
+   "a": "Reykjavík",
+   "fakt": "Reykjavík liegt auf 64 Grad Nord, südlich des Polarkreises. Rund 90 Prozent der Heizenergie Islands stammen aus Erdwärme."
+  },
+  {
+   "n": 9,
+   "kat": "Erdkunde",
+   "thema": "Ottawa",
+   "q": "Wie heißt die Hauptstadt von Kanada?",
+   "a": "Ottawa",
+   "fakt": "Königin Victoria wählte Ottawa 1857 aus. Die Stadt liegt an der Grenze zwischen englisch- und französischsprachigem Kanada."
+  },
+  {
+   "n": 10,
+   "kat": "Erdkunde",
+   "thema": "Wellington",
+   "q": "Wie heißt die Hauptstadt von Neuseeland?",
+   "a": "Wellington",
+   "fakt": "Wellington liegt im äußersten Süden der Nordinsel. Die mit Abstand größte Stadt des Landes ist aber Auckland."
+  },
+  {
+   "n": 11,
+   "kat": "Geschichte",
+   "thema": "Tokio",
+   "q": "Wie hieß die japanische Hauptstadt Tokio bis 1868?",
+   "a": "Edo",
+   "fakt": "1868 wurde Edo in Tokio umbenannt, das bedeutet „östliche Hauptstadt“. Der Kaiser verlegte seinen Sitz von Kyoto hierher."
+  },
+  {
+   "n": 12,
+   "kat": "Geschichte",
+   "thema": "Brasília",
+   "q": "Welche Stadt löste 1960 Rio de Janeiro als Hauptstadt Brasiliens ab?",
+   "a": "Brasília",
+   "fakt": "Brasília entstand in nur vier Jahren auf dem Reißbrett. Lúcio Costas Grundriss wird oft mit einem Flugzeug verglichen."
+  },
+  {
+   "n": 13,
+   "kat": "Erdkunde",
+   "thema": "Rabat",
+   "q": "Wie heißt die Hauptstadt von Marokko?",
+   "a": "Rabat",
+   "fakt": "Rabat liegt am Atlantik. Deutlich größer ist Casablanca, das wirtschaftliche Zentrum des Landes."
+  },
+  {
+   "n": 14,
+   "kat": "Erdkunde",
+   "thema": "Addis Abeba",
+   "q": "In welcher Hauptstadt hat die Afrikanische Union ihren Sitz?",
+   "a": "Addis Abeba",
+   "fakt": "Der Name der äthiopischen Hauptstadt bedeutet „neue Blume“. Sie liegt rund 2.400 Meter hoch."
+  },
+  {
+   "n": 15,
+   "kat": "Sprache",
+   "thema": "Buenos Aires",
+   "q": "Was bedeutet der Name der argentinischen Hauptstadt Buenos Aires?",
+   "a": "Gute Lüfte",
+   "fakt": "Der Name geht auf eine von Seefahrern verehrte Madonna zurück: die „Heilige Maria der guten Luft“."
+  },
+  {
+   "n": 16,
+   "kat": "Erdkunde",
+   "thema": "Nairobi",
+   "q": "Nairobi ist die Hauptstadt welches Landes?",
+   "a": "Kenia",
+   "fakt": "Nairobi entstand 1899 als Depot einer Eisenbahnlinie. Heute beginnt am Stadtrand ein Nationalpark mit Löwen und Zebras."
+  },
+  {
+   "n": 17,
+   "kat": "Geschichte",
+   "thema": "Oslo",
+   "q": "Wie hieß die norwegische Hauptstadt Oslo bis 1924?",
+   "a": "Kristiania",
+   "fakt": "Namensgeber war König Christian IV. Er ließ die Stadt nach dem Brand von 1624 nahe der Festung Akershus neu anlegen."
+  },
+  {
+   "n": 18,
+   "kat": "Sprache",
+   "thema": "Bratislava",
+   "q": "Unter welchem deutschen Namen ist Bratislava bekannt?",
+   "a": "Pressburg",
+   "fakt": "Den Namen Bratislava trägt die Stadt erst seit 1919. Als Pozsony war sie lange Krönungsort der ungarischen Könige."
+  },
+  {
+   "n": 19,
+   "kat": "Geschichte",
+   "thema": "Valletta",
+   "q": "Welcher Ritterorden gründete 1566 Maltas Hauptstadt Valletta?",
+   "a": "Johanniter",
+   "fakt": "Benannt ist die Stadt nach Großmeister Jean de Valette. Ein Jahr zuvor hatte der Orden eine osmanische Belagerung überstanden."
+  },
+  {
+   "n": 20,
+   "kat": "Erdkunde",
+   "thema": "Vaduz",
+   "q": "Welche Gemeinde in Liechtenstein hat mehr Einwohner als die Hauptstadt Vaduz?",
+   "a": "Schaan",
+   "fakt": "Schaan zählt rund 6.300 Einwohner, Vaduz etwa 6.000. Im Schloss Vaduz wohnt die Fürstenfamilie von Liechtenstein."
+  },
+  {
+   "n": 21,
+   "kat": "Erdkunde",
+   "thema": "Pretoria",
+   "q": "Wie viele Hauptstädte hat Südafrika?",
+   "a": "Drei",
+   "fakt": "Die Regierung sitzt in Pretoria, das Parlament in Kapstadt und das Oberste Berufungsgericht in Bloemfontein."
+  },
+  {
+   "n": 22,
+   "kat": "Erdkunde",
+   "thema": "Astana",
+   "q": "Welche Hauptstadt hieß von 2019 bis 2022 Nur-Sultan?",
+   "a": "Astana",
+   "fakt": "Kasachstans Hauptstadt trug den Vornamen des früheren Präsidenten Nasarbajew. „Astana“ bedeutet schlicht „Hauptstadt“."
+  },
+  {
+   "n": 23,
+   "kat": "Geschichte",
+   "thema": "Neu-Delhi",
+   "q": "Welche Stadt war bis 1911 Hauptstadt von Britisch-Indien?",
+   "a": "Kalkutta",
+   "fakt": "1911 wurde der Umzug nach Delhi verkündet. Die eigens gebaute Stadt Neu-Delhi wurde 1931 eingeweiht."
+  },
+  {
+   "n": 24,
+   "kat": "Sprache",
+   "thema": "Bangkok",
+   "q": "Wie nennen die Thailänder ihre Hauptstadt Bangkok im Alltag?",
+   "a": "Krung Thep",
+   "fakt": "Krung Thep wird meist mit „Stadt der Engel“ übersetzt. Der volle, feierliche Name zählt zu den längsten Ortsnamen der Welt."
+  }
+ ]
+}
