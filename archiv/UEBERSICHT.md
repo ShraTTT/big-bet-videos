@@ -1,12 +1,41 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**5 Folgen, 129 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**6 Folgen, 153 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (5 Folgen, 129 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (6 Folgen, 153 Fragen und Behauptungen)
 
-Die neuesten 5 Folgen:
+Die neuesten 6 Folgen:
+
+## Folge 6 · 2026-11-18 · Deutschland-Quiz: 24 Fragen – wie gut kennst du dein Land?
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Kölner Dom | In welcher Stadt steht der Dom mit den zwei rund 157 Meter hohen Türmen? | Köln |
+| 2 | Schleswig-Holstein | Welches Bundesland liegt als einziges an Nordsee und Ostsee? | Schleswig-Holstein |
+| 3 | Deutsche Einheit | An welchem Datum wird der Tag der Deutschen Einheit gefeiert? | 3. Oktober |
+| 4 | Bremen | Welches Bundesland besteht aus zwei getrennten Städten? | Bremen |
+| 5 | Frankfurt am Main | Welche Stadt trägt wegen ihrer Hochhäuser den Spitznamen „Mainhattan“? | Frankfurt am Main |
+| 6 | Bundestag in Bonn | In welcher Stadt tagte der Bundestag, bevor er nach Berlin umzog? | Bonn |
+| 7 | Dresden | Welche Stadt wird wegen ihrer Kunstschätze „Elbflorenz“ genannt? | Dresden |
+| 8 | Rheinland-Pfalz | Aus welchem Bundesland kommt der meiste deutsche Wein? | Rheinland-Pfalz |
+| 9 | Saarland | Welches ist das kleinste Bundesland, wenn man die Stadtstaaten weglässt? | Saarland |
+| 10 | Brocken | Wie heißt der höchste Berg im Harz? | Brocken |
+| 11 | Schwebebahn Wuppertal | In welcher Stadt fährt seit 1901 eine Schwebebahn? | Wuppertal |
+| 12 | Berliner Luftbrücke | Wie nannten die Berliner die Flugzeuge der Luftbrücke 1948 und 1949? | Rosinenbomber |
+| 13 | Thüringen | Durch welches Bundesland führt der Wanderweg Rennsteig? | Thüringen |
+| 14 | Trier | In welcher Stadt steht das römische Stadttor Porta Nigra? | Trier |
+| 15 | Bundesliga | In welchem Jahr startete die Fußball-Bundesliga? | 1963 |
+| 16 | Usedom | Welche Ostseeinsel teilt sich Deutschland mit Polen? | Usedom |
+| 17 | Niedersachsen | Welches Bundesland grenzt an die meisten anderen Bundesländer? | Niedersachsen |
+| 18 | Reichstag | Welches Künstlerpaar verhüllte 1995 den Berliner Reichstag? | Christo und Jeanne-Claude |
+| 19 | Mecklenburg-Vorpommern | In welchem Bundesland liegt die Müritz? | Mecklenburg-Vorpommern |
+| 20 | Zuse Z3 | Wer stellte 1941 in Berlin den Rechner Z3 vor? | Konrad Zuse |
+| 21 | Eifel | Wie heißen die runden Vulkanseen der Eifel? | Maare |
+| 22 | Reichsgründung 1871 | Wo wurde 1871 das Deutsche Kaiserreich ausgerufen? | Im Schloss Versailles |
+| 23 | Erfurt | In welcher Stadt steht die Krämerbrücke, die ganz mit Häusern bebaut ist? | Erfurt |
+| 24 | Spreewald | Womit wird im Spreewalddorf Lehde seit 1897 im Sommerhalbjahr die Post gebracht? | Mit dem Kahn |
 
 ## Folge 5 · 2026-11-17 · Erdkunde-Quiz: 24 Hauptstädte – wie viele kennst du?
 

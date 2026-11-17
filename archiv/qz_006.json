@@ -1,0 +1,202 @@
+{
+ "id": "qz_006",
+ "nr": 6,
+ "datum": "2026-11-18",
+ "titel": "Deutschland-Quiz: 24 Fragen – wie gut kennst du dein Land?",
+ "format": "quiz",
+ "thema": "Deutschland-Quiz: Bundesländer, Städte, Rekorde",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Kultur",
+   "thema": "Kölner Dom",
+   "q": "In welcher Stadt steht der Dom mit den zwei rund 157 Meter hohen Türmen?",
+   "a": "Köln",
+   "fakt": "Gebaut wurde mit einer langen Pause: Der Grundstein wurde 1248 gelegt, fertig war der Dom erst 1880."
+  },
+  {
+   "n": 2,
+   "kat": "Erdkunde",
+   "thema": "Schleswig-Holstein",
+   "q": "Welches Bundesland liegt als einziges an Nordsee und Ostsee?",
+   "a": "Schleswig-Holstein",
+   "fakt": "Quer durchs Land verbindet der Nord-Ostsee-Kanal beide Meere. Er ist fast 100 Kilometer lang."
+  },
+  {
+   "n": 3,
+   "kat": "Geschichte",
+   "thema": "Deutsche Einheit",
+   "q": "An welchem Datum wird der Tag der Deutschen Einheit gefeiert?",
+   "a": "3. Oktober",
+   "fakt": "Am 3. Oktober 1990 trat die DDR der Bundesrepublik bei. Vorher war im Westen der 17. Juni der Feiertag."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Bremen",
+   "q": "Welches Bundesland besteht aus zwei getrennten Städten?",
+   "a": "Bremen",
+   "fakt": "Zum kleinsten Bundesland gehören Bremen und Bremerhaven. Die Städte liegen gut 60 Kilometer auseinander – dazwischen: Niedersachsen."
+  },
+  {
+   "n": 5,
+   "kat": "Erdkunde",
+   "thema": "Frankfurt am Main",
+   "q": "Welche Stadt trägt wegen ihrer Hochhäuser den Spitznamen „Mainhattan“?",
+   "a": "Frankfurt am Main",
+   "fakt": "In Frankfurt steht Deutschlands höchstes Hochhaus: Der Commerzbank Tower misst 259 Meter – mit Antenne sogar rund 300."
+  },
+  {
+   "n": 6,
+   "kat": "Geschichte",
+   "thema": "Bundestag in Bonn",
+   "q": "In welcher Stadt tagte der Bundestag, bevor er nach Berlin umzog?",
+   "a": "Bonn",
+   "fakt": "Die Entscheidung für Berlin fiel 1991 knapp: 338 Abgeordnete stimmten für den Umzug, 320 für Bonn."
+  },
+  {
+   "n": 7,
+   "kat": "Erdkunde",
+   "thema": "Dresden",
+   "q": "Welche Stadt wird wegen ihrer Kunstschätze „Elbflorenz“ genannt?",
+   "a": "Dresden",
+   "fakt": "Wahrzeichen ist die Frauenkirche. Sie wurde aus den Trümmern wieder aufgebaut und 2005 neu geweiht."
+  },
+  {
+   "n": 8,
+   "kat": "Erdkunde",
+   "thema": "Rheinland-Pfalz",
+   "q": "Aus welchem Bundesland kommt der meiste deutsche Wein?",
+   "a": "Rheinland-Pfalz",
+   "fakt": "Sechs der 13 deutschen Weinanbaugebiete liegen in Rheinland-Pfalz – darunter Rheinhessen, das größte von allen."
+  },
+  {
+   "n": 9,
+   "kat": "Erdkunde",
+   "thema": "Saarland",
+   "q": "Welches ist das kleinste Bundesland, wenn man die Stadtstaaten weglässt?",
+   "a": "Saarland",
+   "fakt": "Das Saarland ist rund 2.570 Quadratkilometer groß. Zur Bundesrepublik gehört es erst seit 1957."
+  },
+  {
+   "n": 10,
+   "kat": "Erdkunde",
+   "thema": "Brocken",
+   "q": "Wie heißt der höchste Berg im Harz?",
+   "a": "Brocken",
+   "fakt": "Der Brocken ist 1.141 Meter hoch. An rund 300 Tagen im Jahr liegt sein Gipfel im Nebel."
+  },
+  {
+   "n": 11,
+   "kat": "Technik",
+   "thema": "Schwebebahn Wuppertal",
+   "q": "In welcher Stadt fährt seit 1901 eine Schwebebahn?",
+   "a": "Wuppertal",
+   "fakt": "Die Bahn hängt an einem gut 13 Kilometer langen Gerüst. Der größte Teil der Strecke führt über die Wupper."
+  },
+  {
+   "n": 12,
+   "kat": "Geschichte",
+   "thema": "Berliner Luftbrücke",
+   "q": "Wie nannten die Berliner die Flugzeuge der Luftbrücke 1948 und 1949?",
+   "a": "Rosinenbomber",
+   "fakt": "Der Pilot Gail Halvorsen warf für Kinder Süßigkeiten an kleinen Taschentuch-Fallschirmen ab. Andere Piloten machten es ihm nach."
+  },
+  {
+   "n": 13,
+   "kat": "Erdkunde",
+   "thema": "Thüringen",
+   "q": "Durch welches Bundesland führt der Wanderweg Rennsteig?",
+   "a": "Thüringen",
+   "fakt": "Der Rennsteig ist rund 170 Kilometer lang und führt über den Kamm des Thüringer Waldes."
+  },
+  {
+   "n": 14,
+   "kat": "Geschichte",
+   "thema": "Trier",
+   "q": "In welcher Stadt steht das römische Stadttor Porta Nigra?",
+   "a": "Trier",
+   "fakt": "Trier wurde vor über 2.000 Jahren von den Römern gegründet und gilt als älteste Stadt Deutschlands."
+  },
+  {
+   "n": 15,
+   "kat": "Sport",
+   "thema": "Bundesliga",
+   "q": "In welchem Jahr startete die Fußball-Bundesliga?",
+   "a": "1963",
+   "fakt": "Die erste Saison begann im August 1963 mit 16 Vereinen. Erster Meister wurde der 1. FC Köln."
+  },
+  {
+   "n": 16,
+   "kat": "Erdkunde",
+   "thema": "Usedom",
+   "q": "Welche Ostseeinsel teilt sich Deutschland mit Polen?",
+   "a": "Usedom",
+   "fakt": "Der Osten der Insel mit der Stadt Swinemünde gehört zu Polen. Der weitaus größere Teil ist deutsch."
+  },
+  {
+   "n": 17,
+   "kat": "Erdkunde",
+   "thema": "Niedersachsen",
+   "q": "Welches Bundesland grenzt an die meisten anderen Bundesländer?",
+   "a": "Niedersachsen",
+   "fakt": "Niedersachsen hat neun Nachbarn unter den Bundesländern. Bremen und Bremerhaven umschließt es sogar wie Inseln."
+  },
+  {
+   "n": 18,
+   "kat": "Kultur",
+   "thema": "Reichstag",
+   "q": "Welches Künstlerpaar verhüllte 1995 den Berliner Reichstag?",
+   "a": "Christo und Jeanne-Claude",
+   "fakt": "Zwei Wochen lang verschwand das Gebäude unter rund 100.000 Quadratmetern silbernem Gewebe. Etwa fünf Millionen Menschen kamen."
+  },
+  {
+   "n": 19,
+   "kat": "Erdkunde",
+   "thema": "Mecklenburg-Vorpommern",
+   "q": "In welchem Bundesland liegt die Müritz?",
+   "a": "Mecklenburg-Vorpommern",
+   "fakt": "Die Müritz ist der größte See, der ganz in Deutschland liegt. Ihr slawischer Name bedeutet „kleines Meer“."
+  },
+  {
+   "n": 20,
+   "kat": "Technik",
+   "thema": "Zuse Z3",
+   "q": "Wer stellte 1941 in Berlin den Rechner Z3 vor?",
+   "a": "Konrad Zuse",
+   "fakt": "Die Z3 gilt als erster funktionsfähiger Computer der Welt. Sie rechnete mit rund 2.000 Relais."
+  },
+  {
+   "n": 21,
+   "kat": "Natur",
+   "thema": "Eifel",
+   "q": "Wie heißen die runden Vulkanseen der Eifel?",
+   "a": "Maare",
+   "fakt": "Maare entstehen, wenn Magma auf Grundwasser trifft und es explosionsartig verdampft. Das jüngste ist rund 11.000 Jahre alt."
+  },
+  {
+   "n": 22,
+   "kat": "Geschichte",
+   "thema": "Reichsgründung 1871",
+   "q": "Wo wurde 1871 das Deutsche Kaiserreich ausgerufen?",
+   "a": "Im Schloss Versailles",
+   "fakt": "Am 18. Januar 1871 wurde Wilhelm I. im Spiegelsaal von Versailles zum Kaiser ausgerufen – vor den Toren von Paris."
+  },
+  {
+   "n": 23,
+   "kat": "Kultur",
+   "thema": "Erfurt",
+   "q": "In welcher Stadt steht die Krämerbrücke, die ganz mit Häusern bebaut ist?",
+   "a": "Erfurt",
+   "fakt": "Auf der rund 120 Meter langen Brücke stehen 32 Fachwerkhäuser. Sie gilt als längste durchgehend bebaute und bewohnte Brücke Europas."
+  },
+  {
+   "n": 24,
+   "kat": "Alltag",
+   "thema": "Spreewald",
+   "q": "Womit wird im Spreewalddorf Lehde seit 1897 im Sommerhalbjahr die Post gebracht?",
+   "a": "Mit dem Kahn",
+   "fakt": "Von Frühjahr bis Herbst stakt die Postbotin ihren Kahn durch die Fließe – viele Häuser sind am besten übers Wasser erreichbar."
+  }
+ ]
+}
