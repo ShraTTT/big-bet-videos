@@ -1,0 +1,202 @@
+{
+ "id": "qz_007",
+ "nr": 7,
+ "datum": "2026-11-19",
+ "titel": "Weltall-Quiz: 24 Fragen von Mond bis Urknall",
+ "format": "quiz",
+ "thema": "Weltall: Planeten, Mond, Sterne und Raumfahrt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Weltall",
+   "thema": "Mars",
+   "q": "Welcher Planet wird auch der Rote Planet genannt?",
+   "a": "Mars",
+   "fakt": "Die rötliche Farbe stammt von Eisenoxid im Staub und Gestein des Mars – im Grunde ist es Rost."
+  },
+  {
+   "n": 2,
+   "kat": "Weltall",
+   "thema": "Jupiter",
+   "q": "Welcher ist der größte Planet unseres Sonnensystems?",
+   "a": "Jupiter",
+   "fakt": "Rund elf Erdkugeln nebeneinander ergeben seinen Durchmesser. Jupiter ist schwerer als alle anderen Planeten zusammen."
+  },
+  {
+   "n": 3,
+   "kat": "Natur",
+   "thema": "Ebbe und Flut",
+   "q": "Welcher Himmelskörper verursacht vor allem Ebbe und Flut?",
+   "a": "Der Mond",
+   "fakt": "Auch die Sonne zieht mit: Stehen Sonne, Mond und Erde in einer Linie, fällt die Flut als Springflut besonders hoch aus."
+  },
+  {
+   "n": 4,
+   "kat": "Weltall",
+   "thema": "Polarstern",
+   "q": "Welche Himmelsrichtung zeigt der Polarstern an?",
+   "a": "Norden",
+   "fakt": "Er steht fast genau über dem Nordpol der Erde. Deshalb scheinen sich die anderen Sterne im Lauf der Nacht um ihn zu drehen."
+  },
+  {
+   "n": 5,
+   "kat": "Weltall",
+   "thema": "Großer Wagen",
+   "q": "Wie viele helle Sterne bilden den Großen Wagen?",
+   "a": "Sieben",
+   "fakt": "Der Große Wagen ist kein eigenes Sternbild: Seine sieben hellen Sterne gehören zum Großen Bären."
+  },
+  {
+   "n": 6,
+   "kat": "Geschichte",
+   "thema": "Sputnik",
+   "q": "Wie hieß der erste künstliche Satellit, der 1957 ins All startete?",
+   "a": "Sputnik 1",
+   "fakt": "Sputnik 1 startete am 4. Oktober 1957. Die Kugel hatte nur 58 Zentimeter Durchmesser und sendete ein Piepsen zur Erde."
+  },
+  {
+   "n": 7,
+   "kat": "Geschichte",
+   "thema": "Laika",
+   "q": "Welches Tier war Laika, die 1957 als erstes Tier die Erde umkreiste?",
+   "a": "Eine Hündin",
+   "fakt": "Laika war eine Straßenhündin aus Moskau. Sie flog im November 1957 an Bord von Sputnik 2."
+  },
+  {
+   "n": 8,
+   "kat": "Technik",
+   "thema": "ISS",
+   "q": "In welcher Höhe umkreist die Raumstation ISS ungefähr die Erde?",
+   "a": "400 Kilometer",
+   "fakt": "Für eine Erdumrundung braucht die ISS rund 90 Minuten. Die Besatzung erlebt so etwa 16 Sonnenaufgänge am Tag."
+  },
+  {
+   "n": 9,
+   "kat": "Weltall",
+   "thema": "Mondphasen",
+   "q": "Wie lange dauert es ungefähr von einem Vollmond bis zum nächsten?",
+   "a": "29,5 Tage",
+   "fakt": "Im Mittel sind es 29 Tage, 12 Stunden und 44 Minuten. Die Wörter Mond und Monat haben denselben Ursprung."
+  },
+  {
+   "n": 10,
+   "kat": "Weltall",
+   "thema": "Sternschnuppen",
+   "q": "Wie heißt der Sternschnuppenstrom, der jedes Jahr im August zu sehen ist?",
+   "a": "Perseiden",
+   "fakt": "Die Perseiden sind Staub des Kometen Swift-Tuttle. Die meisten Sternschnuppen fallen um den 12. August."
+  },
+  {
+   "n": 11,
+   "kat": "Weltall",
+   "thema": "Halleyscher Komet",
+   "q": "Etwa alle wie viele Jahre kommt der Halleysche Komet in Sonnennähe?",
+   "a": "Alle 76 Jahre",
+   "fakt": "Zuletzt war er 1986 zu sehen, das nächste Mal wird er 2061 erwartet. Benannt ist er nach dem Astronomen Edmond Halley."
+  },
+  {
+   "n": 12,
+   "kat": "Weltall",
+   "thema": "Pluto",
+   "q": "Seit welchem Jahr gilt Pluto als Zwergplanet statt als Planet?",
+   "a": "2006",
+   "fakt": "Pluto wurde 1930 entdeckt und ist kleiner als unser Mond. Seit 2006 zählt das Sonnensystem nur noch acht Planeten."
+  },
+  {
+   "n": 13,
+   "kat": "Geschichte",
+   "thema": "Walentina Tereschkowa",
+   "q": "Wer flog 1963 als erste Frau ins Weltall?",
+   "a": "Walentina Tereschkowa",
+   "fakt": "Sie umkreiste die Erde im Juni 1963 mit dem Raumschiff Wostok 6 – in knapp drei Tagen 48-mal."
+  },
+  {
+   "n": 14,
+   "kat": "Weltall",
+   "thema": "Entfernung zum Mond",
+   "q": "Wie weit ist der Mond im Durchschnitt von der Erde entfernt?",
+   "a": "384.000 Kilometer",
+   "fakt": "Der Mond entfernt sich jedes Jahr um knapp vier Zentimeter von der Erde. Das zeigen Messungen mit Laserstrahlen."
+  },
+  {
+   "n": 15,
+   "kat": "Weltall",
+   "thema": "Venus",
+   "q": "Welcher Planet wird auch Morgenstern oder Abendstern genannt?",
+   "a": "Venus",
+   "fakt": "Die Venus ist nach Sonne und Mond das hellste Gestirn. Für eine Drehung um sich selbst braucht sie länger als für einen Sonnenumlauf."
+  },
+  {
+   "n": 16,
+   "kat": "Weltall",
+   "thema": "Sirius",
+   "q": "Welcher Stern ist der hellste am Nachthimmel?",
+   "a": "Sirius",
+   "fakt": "Sirius steht im Sternbild Großer Hund und ist nur rund 8,6 Lichtjahre entfernt. Nach ihm sind die Hundstage benannt."
+  },
+  {
+   "n": 17,
+   "kat": "Technik",
+   "thema": "Saturn V",
+   "q": "Mit welcher Rakete starteten die Apollo-Astronauten zum Mond?",
+   "a": "Saturn V",
+   "fakt": "Die Saturn V war rund 111 Meter hoch und startete zwischen 1967 und 1973 insgesamt 13-mal."
+  },
+  {
+   "n": 18,
+   "kat": "Geschichte",
+   "thema": "Apollo 13",
+   "q": "Welche Mondmission wurde 1970 nach einer Explosion an Bord abgebrochen?",
+   "a": "Apollo 13",
+   "fakt": "Ein Sauerstofftank war explodiert. Die drei Astronauten umrundeten den Mond und wasserten nach knapp sechs Tagen sicher im Pazifik."
+  },
+  {
+   "n": 19,
+   "kat": "Weltall",
+   "thema": "Neptun",
+   "q": "Welcher Planet wurde 1846 erst berechnet und dann am Himmel gefunden?",
+   "a": "Neptun",
+   "fakt": "Johann Gottfried Galle fand Neptun in Berlin – nur rund ein Grad neben der Stelle, die der Franzose Le Verrier berechnet hatte."
+  },
+  {
+   "n": 20,
+   "kat": "Weltall",
+   "thema": "Uranus",
+   "q": "Welcher Planet läuft gewissermaßen auf der Seite liegend um die Sonne?",
+   "a": "Uranus",
+   "fakt": "Seine Achse ist um rund 98 Grad gekippt. Entdeckt hat ihn 1781 der aus Hannover stammende Wilhelm Herschel."
+  },
+  {
+   "n": 21,
+   "kat": "Wissenschaft",
+   "thema": "Mondgestein",
+   "q": "Wie viel Mondgestein brachten die Apollo-Astronauten insgesamt zur Erde?",
+   "a": "Rund 380 Kilogramm",
+   "fakt": "Es waren 382 Kilogramm aus sechs Landungen – mehr als 2.000 einzelne Proben, die bis heute erforscht werden."
+  },
+  {
+   "n": 22,
+   "kat": "Weltall",
+   "thema": "Andromeda",
+   "q": "Wie weit ist die Andromedagalaxie ungefähr von uns entfernt?",
+   "a": "2,5 Millionen Lichtjahre",
+   "fakt": "Trotz der Entfernung ist sie in dunklen Herbstnächten mit bloßem Auge als blasser Nebelfleck zu sehen."
+  },
+  {
+   "n": 23,
+   "kat": "Technik",
+   "thema": "James-Webb-Teleskop",
+   "q": "Wie weit ist das James-Webb-Teleskop von der Erde entfernt?",
+   "a": "1,5 Millionen Kilometer",
+   "fakt": "Es startete am 25. Dezember 2021. Sein goldbeschichteter Spiegel misst 6,5 Meter und fängt Infrarotlicht ein."
+  },
+  {
+   "n": 24,
+   "kat": "Wissenschaft",
+   "thema": "Urknall",
+   "q": "Wie alt ist das Universum nach heutigem Wissensstand?",
+   "a": "13,8 Milliarden Jahre",
+   "fakt": "So lange liegt der Urknall zurück. Unsere Erde entstand erst viel später – vor gut 4,5 Milliarden Jahren."
+  }
+ ]
+}

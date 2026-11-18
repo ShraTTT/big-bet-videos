@@ -1,12 +1,41 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**6 Folgen, 153 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**7 Folgen, 177 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (6 Folgen, 153 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (7 Folgen, 177 Fragen und Behauptungen)
 
-Die neuesten 6 Folgen:
+Die neuesten 7 Folgen:
+
+## Folge 7 · 2026-11-19 · Weltall-Quiz: 24 Fragen von Mond bis Urknall
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Mars | Welcher Planet wird auch der Rote Planet genannt? | Mars |
+| 2 | Jupiter | Welcher ist der größte Planet unseres Sonnensystems? | Jupiter |
+| 3 | Ebbe und Flut | Welcher Himmelskörper verursacht vor allem Ebbe und Flut? | Der Mond |
+| 4 | Polarstern | Welche Himmelsrichtung zeigt der Polarstern an? | Norden |
+| 5 | Großer Wagen | Wie viele helle Sterne bilden den Großen Wagen? | Sieben |
+| 6 | Sputnik | Wie hieß der erste künstliche Satellit, der 1957 ins All startete? | Sputnik 1 |
+| 7 | Laika | Welches Tier war Laika, die 1957 als erstes Tier die Erde umkreiste? | Eine Hündin |
+| 8 | ISS | In welcher Höhe umkreist die Raumstation ISS ungefähr die Erde? | 400 Kilometer |
+| 9 | Mondphasen | Wie lange dauert es ungefähr von einem Vollmond bis zum nächsten? | 29,5 Tage |
+| 10 | Sternschnuppen | Wie heißt der Sternschnuppenstrom, der jedes Jahr im August zu sehen ist? | Perseiden |
+| 11 | Halleyscher Komet | Etwa alle wie viele Jahre kommt der Halleysche Komet in Sonnennähe? | Alle 76 Jahre |
+| 12 | Pluto | Seit welchem Jahr gilt Pluto als Zwergplanet statt als Planet? | 2006 |
+| 13 | Walentina Tereschkowa | Wer flog 1963 als erste Frau ins Weltall? | Walentina Tereschkowa |
+| 14 | Entfernung zum Mond | Wie weit ist der Mond im Durchschnitt von der Erde entfernt? | 384.000 Kilometer |
+| 15 | Venus | Welcher Planet wird auch Morgenstern oder Abendstern genannt? | Venus |
+| 16 | Sirius | Welcher Stern ist der hellste am Nachthimmel? | Sirius |
+| 17 | Saturn V | Mit welcher Rakete starteten die Apollo-Astronauten zum Mond? | Saturn V |
+| 18 | Apollo 13 | Welche Mondmission wurde 1970 nach einer Explosion an Bord abgebrochen? | Apollo 13 |
+| 19 | Neptun | Welcher Planet wurde 1846 erst berechnet und dann am Himmel gefunden? | Neptun |
+| 20 | Uranus | Welcher Planet läuft gewissermaßen auf der Seite liegend um die Sonne? | Uranus |
+| 21 | Mondgestein | Wie viel Mondgestein brachten die Apollo-Astronauten insgesamt zur Erde? | Rund 380 Kilogramm |
+| 22 | Andromeda | Wie weit ist die Andromedagalaxie ungefähr von uns entfernt? | 2,5 Millionen Lichtjahre |
+| 23 | James-Webb-Teleskop | Wie weit ist das James-Webb-Teleskop von der Erde entfernt? | 1,5 Millionen Kilometer |
+| 24 | Urknall | Wie alt ist das Universum nach heutigem Wissensstand? | 13,8 Milliarden Jahre |
 
 ## Folge 6 · 2026-11-18 · Deutschland-Quiz: 24 Fragen – wie gut kennst du dein Land?
 
