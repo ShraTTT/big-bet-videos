@@ -1,0 +1,194 @@
+{
+ "id": "qz_008",
+ "nr": 8,
+ "datum": "2026-11-20",
+ "titel": "80er-Quiz: 23 Fragen von Zauberwürfel bis MTV",
+ "format": "quiz",
+ "thema": "Jahrzehnte-Quiz: die 80er",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Alltag",
+   "thema": "Zauberwürfel",
+   "q": "Wie viele verschiedene Farben hat ein klassischer Zauberwürfel?",
+   "a": "Sechs",
+   "fakt": "Sechs Seiten, sechs Farben. Der Ungar Ernő Rubik erfand den Würfel 1974 – ab 1980 eroberte er die Welt."
+  },
+  {
+   "n": 2,
+   "kat": "Musik",
+   "thema": "99 Luftballons",
+   "q": "Welche Sängerin landete 1983 mit „99 Luftballons“ einen Welthit?",
+   "a": "Nena",
+   "fakt": "Das Lied kletterte 1984 in den USA bis auf Platz 2 der Hitparade – in der deutschen Fassung."
+  },
+  {
+   "n": 3,
+   "kat": "Kultur",
+   "thema": "Zurück in die Zukunft",
+   "q": "Welches Auto dient im Film „Zurück in die Zukunft“ als Zeitmaschine?",
+   "a": "DeLorean",
+   "fakt": "Für den Zeitsprung muss der DeLorean im Film genau 88 Meilen pro Stunde erreichen – rund 142 km/h."
+  },
+  {
+   "n": 4,
+   "kat": "Sport",
+   "thema": "Boris Becker in Wimbledon",
+   "q": "Wie alt war Boris Becker bei seinem ersten Wimbledon-Sieg 1985?",
+   "a": "17 Jahre",
+   "fakt": "Becker war der erste deutsche und der erste ungesetzte Sieger im Herren-Einzel von Wimbledon."
+  },
+  {
+   "n": 5,
+   "kat": "Technik",
+   "thema": "Video-Recorder",
+   "q": "Welches Videosystem setzte sich in den 80ern gegen Betamax durch?",
+   "a": "VHS",
+   "fakt": "VHS stammt vom japanischen Hersteller JVC und kam 1976 auf den Markt. Die Abkürzung steht für Video Home System."
+  },
+  {
+   "n": 6,
+   "kat": "Kultur",
+   "thema": "Die unendliche Geschichte",
+   "q": "Wer schrieb den Roman „Die unendliche Geschichte“?",
+   "a": "Michael Ende",
+   "fakt": "Das Buch erschien 1979 und ist zweifarbig gedruckt: Rot für die Menschenwelt, Grün für Phantásien."
+  },
+  {
+   "n": 7,
+   "kat": "Kultur",
+   "thema": "Dirty Dancing",
+   "q": "Wer spielte 1987 in „Dirty Dancing“ den Tanzlehrer Johnny?",
+   "a": "Patrick Swayze",
+   "fakt": "Der Filmsong „(I’ve Had) The Time of My Life“ gewann bei der Oscar-Verleihung 1988 den Preis als bester Song."
+  },
+  {
+   "n": 8,
+   "kat": "Technik",
+   "thema": "Pac-Man",
+   "q": "Welches Essen brachte den Erfinder von Pac-Man nach eigener Aussage auf die Form der Figur?",
+   "a": "Eine angeschnittene Pizza",
+   "fakt": "Toru Iwatani erzählt, eine Pizza mit fehlendem Stück habe ihn angeregt. Sein Spiel erschien 1980 bei Namco in Japan."
+  },
+  {
+   "n": 9,
+   "kat": "Kultur",
+   "thema": "E.T. – Der Außerirdische",
+   "q": "Wer führte 1982 Regie bei „E.T. – Der Außerirdische“?",
+   "a": "Steven Spielberg",
+   "fakt": "E.T. löste „Krieg der Sterne“ als bis dahin erfolgreichsten Kinofilm ab."
+  },
+  {
+   "n": 10,
+   "kat": "Musik",
+   "thema": "Neue Deutsche Welle",
+   "q": "Welche Band der Neuen Deutschen Welle sang 1982 „Da Da Da“?",
+   "a": "Trio",
+   "fakt": "Trio kam aus Großenkneten in Niedersachsen. Den Rhythmus von „Da Da Da“ lieferte ein kleines Casio-Keyboard."
+  },
+  {
+   "n": 11,
+   "kat": "Musik",
+   "thema": "Nicole (Ein bisschen Frieden)",
+   "q": "In welchem Jahr gewann Nicole mit „Ein bisschen Frieden“ den Grand Prix Eurovision?",
+   "a": "1982",
+   "fakt": "Erster deutscher Sieg beim Grand Prix. Nicole war 17; die Musik schrieb Ralph Siegel, den Text Bernd Meinunger."
+  },
+  {
+   "n": 12,
+   "kat": "Technik",
+   "thema": "Apple Macintosh",
+   "q": "Welches Eingabegerät machte der Apple Macintosh ab 1984 allgemein bekannt?",
+   "a": "Maus",
+   "fakt": "Der Werbespot „1984“ lief zwei Tage vor der Vorstellung des Macintosh beim Super Bowl. Regie führte Ridley Scott."
+  },
+  {
+   "n": 13,
+   "kat": "Technik",
+   "thema": "Tetris",
+   "q": "In welchem Land wurde das Computerspiel Tetris erfunden?",
+   "a": "Sowjetunion",
+   "fakt": "Alexei Paschitnow programmierte Tetris in Moskau. Der Name verbindet „tetra“, griechisch für vier, mit Tennis."
+  },
+  {
+   "n": 14,
+   "kat": "Sprache",
+   "thema": "Glasnost und Perestroika",
+   "q": "Was bedeutet das russische Wort „Glasnost“?",
+   "a": "Offenheit",
+   "fakt": "Glasnost und Perestroika – Offenheit und Umbau – waren die Schlagworte der Reformen von Michail Gorbatschow."
+  },
+  {
+   "n": 15,
+   "kat": "Sport",
+   "thema": "Aerobic",
+   "q": "Welche Schauspielerin löste 1982 mit ihrem Fitness-Video einen Aerobic-Boom aus?",
+   "a": "Jane Fonda",
+   "fakt": "„Jane Fonda’s Workout“ wurde eine der meistverkauften Videokassetten ihrer Zeit."
+  },
+  {
+   "n": 16,
+   "kat": "Wissenschaft",
+   "thema": "Ozonloch",
+   "q": "Über welcher Region wurde 1985 das Ozonloch nachgewiesen?",
+   "a": "Antarktis",
+   "fakt": "Schon 1987 einigten sich Staaten im Montrealer Protokoll darauf, die schädlichen FCKW schrittweise zu verringern."
+  },
+  {
+   "n": 17,
+   "kat": "Kultur",
+   "thema": "Privatfernsehen",
+   "q": "Welcher Privatsender ging am 1. Januar 1984 unter dem Namen PKS auf Sendung?",
+   "a": "Sat.1",
+   "fakt": "PKS sendete aus Ludwigshafen und heißt seit 1985 Sat.1. Nur einen Tag später startete RTL plus."
+  },
+  {
+   "n": 18,
+   "kat": "Musik",
+   "thema": "Live Aid",
+   "q": "In welchen zwei Städten fand 1985 das Benefizkonzert Live Aid statt?",
+   "a": "London und Philadelphia",
+   "fakt": "Phil Collins trat an einem Tag in beiden Städten auf – dazwischen flog er mit der Concorde über den Atlantik."
+  },
+  {
+   "n": 19,
+   "kat": "Technik",
+   "thema": "Commodore 64",
+   "q": "Wofür steht die Zahl im Namen des Heimcomputers Commodore 64?",
+   "a": "64 Kilobyte Speicher",
+   "fakt": "Der C64 kam 1982 heraus und hieß wegen seiner Form „Brotkasten“. Er gilt als meistverkaufter Heimcomputer."
+  },
+  {
+   "n": 20,
+   "kat": "Geschichte",
+   "thema": "Solidarność",
+   "q": "In welcher Stadt entstand 1980 die polnische Gewerkschaft Solidarność?",
+   "a": "Danzig",
+   "fakt": "Anführer der Streikenden auf der Danziger Lenin-Werft war der Elektriker Lech Wałęsa, später Präsident Polens."
+  },
+  {
+   "n": 21,
+   "kat": "Sport",
+   "thema": "Bernhard Langer",
+   "q": "Welches große Golfturnier gewann Bernhard Langer 1985 als erster Deutscher?",
+   "a": "Masters in Augusta",
+   "fakt": "Der Masters-Sieger bekommt das berühmte grüne Jackett. Langer holte es 1993 ein zweites Mal."
+  },
+  {
+   "n": 22,
+   "kat": "Technik",
+   "thema": "Compact Disc",
+   "q": "Wo begann 1982 die weltweit erste Serienfertigung von CDs?",
+   "a": "Langenhagen bei Hannover",
+   "fakt": "Im Polygram-Werk Langenhagen lief als eine der ersten CDs das ABBA-Album „The Visitors“ vom Band."
+  },
+  {
+   "n": 23,
+   "kat": "Musik",
+   "thema": "MTV",
+   "q": "Von welcher Band stammte 1981 das erste Musikvideo beim Sender MTV?",
+   "a": "The Buggles",
+   "fakt": "Passender ging es kaum: Das Lied hieß „Video Killed the Radio Star“. MTV startete am 1. August 1981."
+  }
+ ]
+}

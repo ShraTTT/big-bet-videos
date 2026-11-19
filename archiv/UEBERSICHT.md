@@ -1,12 +1,40 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**7 Folgen, 177 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**8 Folgen, 200 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (7 Folgen, 177 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (8 Folgen, 200 Fragen und Behauptungen)
 
-Die neuesten 7 Folgen:
+Die neuesten 8 Folgen:
+
+## Folge 8 · 2026-11-20 · 80er-Quiz: 23 Fragen von Zauberwürfel bis MTV
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Zauberwürfel | Wie viele verschiedene Farben hat ein klassischer Zauberwürfel? | Sechs |
+| 2 | 99 Luftballons | Welche Sängerin landete 1983 mit „99 Luftballons“ einen Welthit? | Nena |
+| 3 | Zurück in die Zukunft | Welches Auto dient im Film „Zurück in die Zukunft“ als Zeitmaschine? | DeLorean |
+| 4 | Boris Becker in Wimbledon | Wie alt war Boris Becker bei seinem ersten Wimbledon-Sieg 1985? | 17 Jahre |
+| 5 | Video-Recorder | Welches Videosystem setzte sich in den 80ern gegen Betamax durch? | VHS |
+| 6 | Die unendliche Geschichte | Wer schrieb den Roman „Die unendliche Geschichte“? | Michael Ende |
+| 7 | Dirty Dancing | Wer spielte 1987 in „Dirty Dancing“ den Tanzlehrer Johnny? | Patrick Swayze |
+| 8 | Pac-Man | Welches Essen brachte den Erfinder von Pac-Man nach eigener Aussage auf die Form der Figur? | Eine angeschnittene Pizza |
+| 9 | E.T. – Der Außerirdische | Wer führte 1982 Regie bei „E.T. – Der Außerirdische“? | Steven Spielberg |
+| 10 | Neue Deutsche Welle | Welche Band der Neuen Deutschen Welle sang 1982 „Da Da Da“? | Trio |
+| 11 | Nicole (Ein bisschen Frieden) | In welchem Jahr gewann Nicole mit „Ein bisschen Frieden“ den Grand Prix Eurovision? | 1982 |
+| 12 | Apple Macintosh | Welches Eingabegerät machte der Apple Macintosh ab 1984 allgemein bekannt? | Maus |
+| 13 | Tetris | In welchem Land wurde das Computerspiel Tetris erfunden? | Sowjetunion |
+| 14 | Glasnost und Perestroika | Was bedeutet das russische Wort „Glasnost“? | Offenheit |
+| 15 | Aerobic | Welche Schauspielerin löste 1982 mit ihrem Fitness-Video einen Aerobic-Boom aus? | Jane Fonda |
+| 16 | Ozonloch | Über welcher Region wurde 1985 das Ozonloch nachgewiesen? | Antarktis |
+| 17 | Privatfernsehen | Welcher Privatsender ging am 1. Januar 1984 unter dem Namen PKS auf Sendung? | Sat.1 |
+| 18 | Live Aid | In welchen zwei Städten fand 1985 das Benefizkonzert Live Aid statt? | London und Philadelphia |
+| 19 | Commodore 64 | Wofür steht die Zahl im Namen des Heimcomputers Commodore 64? | 64 Kilobyte Speicher |
+| 20 | Solidarność | In welcher Stadt entstand 1980 die polnische Gewerkschaft Solidarność? | Danzig |
+| 21 | Bernhard Langer | Welches große Golfturnier gewann Bernhard Langer 1985 als erster Deutscher? | Masters in Augusta |
+| 22 | Compact Disc | Wo begann 1982 die weltweit erste Serienfertigung von CDs? | Langenhagen bei Hannover |
+| 23 | MTV | Von welcher Band stammte 1981 das erste Musikvideo beim Sender MTV? | The Buggles |
 
 ## Folge 7 · 2026-11-19 · Weltall-Quiz: 24 Fragen von Mond bis Urknall
 
