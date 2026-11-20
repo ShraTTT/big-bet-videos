@@ -1,0 +1,250 @@
+{
+ "id": "qz_009",
+ "nr": 9,
+ "datum": "2026-11-21",
+ "titel": "Wahr oder falsch? 30 Behauptungen über Essen und Trinken",
+ "format": "wahr_falsch",
+ "thema": "Wahr oder falsch – Essen und Trinken",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Alltag",
+   "thema": "Reis",
+   "q": "Reis ist ein Getreide.",
+   "a": "wahr",
+   "fakt": "Reis gehört zu den Süßgräsern wie Weizen und Mais. Für rund die Hälfte der Menschheit ist er das Grundnahrungsmittel."
+  },
+  {
+   "n": 2,
+   "kat": "Natur",
+   "thema": "Ananas",
+   "q": "Ananas wachsen an Palmen.",
+   "a": "falsch",
+   "fakt": "Die Ananas wächst an einer krautigen Staude, die nur rund einen Meter hoch wird. Jeder Trieb trägt eine einzige Frucht."
+  },
+  {
+   "n": 3,
+   "kat": "Alltag",
+   "thema": "Zucker",
+   "q": "In Deutschland wird Zucker vor allem aus Zuckerrohr gewonnen.",
+   "a": "falsch",
+   "fakt": "Hierzulande stammt der Zucker aus der Zuckerrübe. Dass sie Zucker enthält, entdeckte 1747 der Berliner Chemiker Marggraf."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Käse",
+   "q": "Der Emmentaler stammt aus der Schweiz.",
+   "a": "wahr",
+   "fakt": "Namensgeber ist das Tal des Flusses Emme. Die Löcher entstehen durch Gas, das Bakterien beim Reifen bilden."
+  },
+  {
+   "n": 5,
+   "kat": "Natur",
+   "thema": "Gurke",
+   "q": "Gurken bestehen zu mehr als 90 Prozent aus Wasser.",
+   "a": "wahr",
+   "fakt": "Es sind sogar rund 95 Prozent oder etwas mehr. Verwandt ist die Gurke mit Kürbis, Zucchini und Melone."
+  },
+  {
+   "n": 6,
+   "kat": "Kultur",
+   "thema": "Labskaus",
+   "q": "Labskaus ist ein typisches Gericht aus Süddeutschland.",
+   "a": "falsch",
+   "fakt": "Labskaus kommt aus dem Norden und war ein Seefahreressen aus gepökeltem Fleisch – dazu gibt es oft Rote Bete, Hering und Spiegelei."
+  },
+  {
+   "n": 7,
+   "kat": "Kultur",
+   "thema": "Schwarzwälder Kirschtorte",
+   "q": "In eine Schwarzwälder Kirschtorte gehört Kirschwasser.",
+   "a": "wahr",
+   "fakt": "Das Kirschwasser gibt der Torte ihr Aroma. Dazu kommen dunkler Biskuit, Sahne, Kirschen und Schokoladenspäne."
+  },
+  {
+   "n": 8,
+   "kat": "Natur",
+   "thema": "Rhabarber",
+   "q": "Rhabarber ist ein Obst.",
+   "a": "falsch",
+   "fakt": "Rhabarber ist ein Gemüse: Gegessen werden die Blattstiele. Er gehört zu den Knöterichgewächsen – wie der Sauerampfer."
+  },
+  {
+   "n": 9,
+   "kat": "Natur",
+   "thema": "Trüffel",
+   "q": "Trüffel wachsen unter der Erde.",
+   "a": "wahr",
+   "fakt": "Die Pilze reifen im Boden an Baumwurzeln. Aufgespürt werden sie mit Hunden – früher nahm man dafür oft Schweine."
+  },
+  {
+   "n": 10,
+   "kat": "Alltag",
+   "thema": "Senf",
+   "q": "Senf wird aus den Samenkörnern einer Pflanze hergestellt.",
+   "a": "wahr",
+   "fakt": "Die Körner werden gemahlen und mit Wasser und Essig verrührt. Die Schärfe entsteht erst, wenn das Senfmehl feucht wird."
+  },
+  {
+   "n": 11,
+   "kat": "Natur",
+   "thema": "Tee",
+   "q": "Grüner und schwarzer Tee stammen von derselben Pflanze.",
+   "a": "wahr",
+   "fakt": "Beide kommen vom Teestrauch. Für schwarzen Tee lässt man die Blätter oxidieren, bei grünem verhindert Hitze genau das."
+  },
+  {
+   "n": 12,
+   "kat": "Erdkunde",
+   "thema": "Olivenöl",
+   "q": "Das meiste Olivenöl der Welt kommt aus Italien.",
+   "a": "falsch",
+   "fakt": "Der mit Abstand größte Erzeuger ist Spanien – von dort kommt oft mehr als ein Drittel der Welternte."
+  },
+  {
+   "n": 13,
+   "kat": "Kultur",
+   "thema": "Pizza Margherita",
+   "q": "Die Farben der Pizza Margherita entsprechen der italienischen Flagge.",
+   "a": "wahr",
+   "fakt": "Tomate, Mozzarella, Basilikum: Rot, Weiß, Grün. Der Überlieferung nach ist sie nach Königin Margherita benannt."
+  },
+  {
+   "n": 14,
+   "kat": "Sprache",
+   "thema": "Sushi",
+   "q": "Das japanische Wort „Sushi“ bedeutet „roher Fisch“.",
+   "a": "falsch",
+   "fakt": "Der Name bedeutet etwa „sauer“ und meint den mit Essig gesäuerten Reis. Roher Fisch ohne Reis heißt Sashimi."
+  },
+  {
+   "n": 15,
+   "kat": "Erdkunde",
+   "thema": "Paella",
+   "q": "Die Paella stammt aus der spanischen Region Andalusien.",
+   "a": "falsch",
+   "fakt": "Ihre Heimat ist die Region Valencia. Der Name bezeichnet eigentlich die flache Pfanne, in der sie gekocht wird."
+  },
+  {
+   "n": 16,
+   "kat": "Geschichte",
+   "thema": "Reinheitsgebot",
+   "q": "Das Reinheitsgebot für Bier stammt aus dem Jahr 1516.",
+   "a": "wahr",
+   "fakt": "Verkündet wurde es in Ingolstadt. Ins Bier durften danach nur Gerste, Hopfen und Wasser."
+  },
+  {
+   "n": 17,
+   "kat": "Alltag",
+   "thema": "Butter",
+   "q": "Für ein Kilogramm Butter braucht man etwa fünf Liter Milch.",
+   "a": "falsch",
+   "fakt": "Nötig sind rund 20 Liter Milch. Butter besteht zu gut 80 Prozent aus Milchfett."
+  },
+  {
+   "n": 18,
+   "kat": "Alltag",
+   "thema": "Zimt",
+   "q": "Zimt wird aus der Rinde eines Baumes gewonnen.",
+   "a": "wahr",
+   "fakt": "Die dünne Innenrinde rollt sich beim Trocknen ein. Der Ceylon-Zimtbaum ist in Sri Lanka heimisch."
+  },
+  {
+   "n": 19,
+   "kat": "Wissenschaft",
+   "thema": "Sauerkraut",
+   "q": "Sauerkraut wird mit Essig sauer gemacht.",
+   "a": "falsch",
+   "fakt": "Sauer wird es durch Milchsäurebakterien: Sie vergären den Zucker im gesalzenen Weißkohl – ganz ohne Essig."
+  },
+  {
+   "n": 20,
+   "kat": "Kultur",
+   "thema": "Brezel",
+   "q": "Die Brezel ist das Zunftzeichen der Bäcker.",
+   "a": "wahr",
+   "fakt": "Seit dem Mittelalter ziert sie Bäckerwappen. Ihr Name geht wohl auf lateinisch „brachium“ (Arm) zurück."
+  },
+  {
+   "n": 21,
+   "kat": "Natur",
+   "thema": "Kaffeepflanze",
+   "q": "Kaffeebohnen sind die Samen einer Frucht, der Kaffeekirsche.",
+   "a": "wahr",
+   "fakt": "In jeder Kaffeekirsche stecken meist zwei Samen. Erst das Rösten macht die grünlichen Bohnen braun und aromatisch."
+  },
+  {
+   "n": 22,
+   "kat": "Geschichte",
+   "thema": "Nudeln",
+   "q": "Marco Polo brachte die Nudeln aus China nach Italien.",
+   "a": "falsch",
+   "fakt": "Eine Legende: Nudeln sind auf Sizilien schon im 12. Jahrhundert belegt – lange vor Marco Polos Rückkehr im Jahr 1295."
+  },
+  {
+   "n": 23,
+   "kat": "Alltag",
+   "thema": "Mehl",
+   "q": "Die Typenzahl auf der Mehlpackung gibt an, wie fein das Mehl gemahlen ist.",
+   "a": "falsch",
+   "fakt": "Sie nennt den Mineralstoffgehalt: Type 405 enthält rund 405 Milligramm Mineralstoffe je 100 Gramm Mehl-Trockenmasse."
+  },
+  {
+   "n": 24,
+   "kat": "Kultur",
+   "thema": "Pumpernickel",
+   "q": "Echter Pumpernickel bleibt mindestens 16 Stunden im Ofen.",
+   "a": "wahr",
+   "fakt": "Das westfälische Roggenschrotbrot wird bei niedriger Hitze mehr gedämpft als gebacken – so wird es dunkel und leicht süß."
+  },
+  {
+   "n": 25,
+   "kat": "Sprache",
+   "thema": "Fondue",
+   "q": "Der Name „Fondue“ kommt vom französischen Wort für „geschmolzen“.",
+   "a": "wahr",
+   "fakt": "„Fondre“ heißt schmelzen. Das Käsefondue gilt als Nationalgericht der Schweiz."
+  },
+  {
+   "n": 26,
+   "kat": "Natur",
+   "thema": "Steinpilz",
+   "q": "Steinpilze werden wie Champignons in großen Hallen gezüchtet.",
+   "a": "falsch",
+   "fakt": "Steinpilze lassen sich bisher nicht züchten: Sie leben in enger Gemeinschaft mit Baumwurzeln. Man muss sie sammeln."
+  },
+  {
+   "n": 27,
+   "kat": "Natur",
+   "thema": "Hühnerei",
+   "q": "Die Farbe eines Hühnereis hängt von der Farbe der Federn ab.",
+   "a": "falsch",
+   "fakt": "Die Schalenfarbe ist erblich und hängt von der Rasse ab. Es gibt weiße Hühner, die braune Eier legen – und umgekehrt."
+  },
+  {
+   "n": 28,
+   "kat": "Geschichte",
+   "thema": "Margarine",
+   "q": "Die Margarine wurde in Frankreich erfunden.",
+   "a": "wahr",
+   "fakt": "Ein französischer Chemiker entwickelte sie 1869 als günstigen Butterersatz – der Kaiser hatte dafür einen Preis ausgesetzt."
+  },
+  {
+   "n": 29,
+   "kat": "Wissenschaft",
+   "thema": "Paprika",
+   "q": "Eine Zitrone enthält mehr Vitamin C als eine rote Paprika.",
+   "a": "falsch",
+   "fakt": "Rote Paprika enthält je 100 Gramm rund 140 Milligramm Vitamin C – mehr als doppelt so viel wie eine Zitrone mit etwa 50."
+  },
+  {
+   "n": 30,
+   "kat": "Sprache",
+   "thema": "Salz",
+   "q": "Das Wort „Salär“ für Gehalt geht auf das lateinische Wort für Salz zurück.",
+   "a": "wahr",
+   "fakt": "Lateinisch „sal“ heißt Salz, davon kommt „salarium“ für Sold. Ob Soldaten wirklich Salzgeld bekamen, ist aber umstritten."
+  }
+ ]
+}
