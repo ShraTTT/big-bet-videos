@@ -1,0 +1,194 @@
+{
+ "id": "qz_010",
+ "nr": 10,
+ "datum": "2026-11-23",
+ "titel": "Allgemeinwissen-Quiz: 23 Fragen von Katze bis Neutronenstern",
+ "format": "quiz",
+ "thema": "Allgemeinwissen gemischt",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Natur",
+   "thema": "Katze",
+   "q": "Wozu dienen einer Katze vor allem ihre Schnurrhaare?",
+   "a": "Zum Tasten",
+   "fakt": "Die Tasthaare spüren sogar feine Luftbewegungen. Katzen tragen sie auch über den Augen und an den Vorderbeinen."
+  },
+  {
+   "n": 2,
+   "kat": "Mathematik",
+   "thema": "Quadratzahl",
+   "q": "Welche dieser Zahlen ist eine Quadratzahl?",
+   "a": "64",
+   "fakt": "64 ist acht mal acht. So viele Felder hat ein Schachbrett: acht Reihen mit je acht Feldern."
+  },
+  {
+   "n": 3,
+   "kat": "Erdkunde",
+   "thema": "Yen",
+   "q": "In welchem Land bezahlt man mit dem Yen?",
+   "a": "Japan",
+   "fakt": "Seit 1871 ist der Yen Japans Währung. Sein Name geht auf ein Wort für „rund“ zurück – wie die Form der Münzen."
+  },
+  {
+   "n": 4,
+   "kat": "Alltag",
+   "thema": "ICE",
+   "q": "Wofür steht bei der Deutschen Bahn die Abkürzung ICE?",
+   "a": "Intercity-Express",
+   "fakt": "Seit dem 2. Juni 1991 fährt der ICE im Regelbetrieb. Der erste planmäßige Zug fuhr von Hamburg-Altona nach München."
+  },
+  {
+   "n": 5,
+   "kat": "Sprache",
+   "thema": "Schwein gehabt (Redewendung)",
+   "q": "Was bedeutet die Redewendung „Schwein gehabt“?",
+   "a": "Glück gehabt",
+   "fakt": "Die Herkunft ist ungeklärt. Eine Deutung: Bei Wettkämpfen bekam früher der Letzte ein Schwein – unverdientes Glück."
+  },
+  {
+   "n": 6,
+   "kat": "Musik",
+   "thema": "Wolfgang Amadeus Mozart",
+   "q": "In welcher Stadt wurde Wolfgang Amadeus Mozart geboren?",
+   "a": "Salzburg",
+   "fakt": "Mozart kam 1756 in der Getreidegasse zur Welt. Schon mit fünf Jahren komponierte er seine ersten Stücke."
+  },
+  {
+   "n": 7,
+   "kat": "Kultur",
+   "thema": "Der Struwwelpeter",
+   "q": "Welche Figur aus dem „Struwwelpeter“ will ihre Suppe nicht essen?",
+   "a": "Der Suppenkaspar",
+   "fakt": "Der Arzt Heinrich Hoffmann schrieb das Buch 1844 als Weihnachtsgeschenk für seinen dreijährigen Sohn."
+  },
+  {
+   "n": 8,
+   "kat": "Körper",
+   "thema": "Adern",
+   "q": "Wie heißen die Adern, die das Blut zum Herzen zurückführen?",
+   "a": "Venen",
+   "fakt": "Viele Venen haben Klappen wie Ventile. Sie verhindern, dass das Blut in den Beinen wieder nach unten sackt."
+  },
+  {
+   "n": 9,
+   "kat": "Sport",
+   "thema": "Skat",
+   "q": "Mit wie vielen Karten wird Skat gespielt?",
+   "a": "32",
+   "fakt": "Skat entstand vor gut 200 Jahren in Altenburg. Dort sitzt heute auch das Internationale Skatgericht."
+  },
+  {
+   "n": 10,
+   "kat": "Natur",
+   "thema": "Tanne",
+   "q": "Welche Zapfen findet man fast nie als Ganzes auf dem Waldboden?",
+   "a": "Tannenzapfen",
+   "fakt": "Tannenzapfen stehen aufrecht und zerfallen schon am Baum. Was am Boden liegt, sind meist Fichtenzapfen."
+  },
+  {
+   "n": 11,
+   "kat": "Wissenschaft",
+   "thema": "Newton",
+   "q": "Welche physikalische Größe wird in der Einheit Newton gemessen?",
+   "a": "Kraft",
+   "fakt": "Ein Newton entspricht etwa der Gewichtskraft von 100 Gramm – so viel wiegt eine Tafel Schokolade."
+  },
+  {
+   "n": 12,
+   "kat": "Kultur",
+   "thema": "Schloss Sanssouci",
+   "q": "Was bedeutet der Name des Potsdamer Schlosses Sanssouci?",
+   "a": "Ohne Sorge",
+   "fakt": "Friedrich der Große ließ das Sommerschloss ab 1745 über einem Weinberg bauen – in nur zwei Jahren."
+  },
+  {
+   "n": 13,
+   "kat": "Technik",
+   "thema": "Mikrowelle",
+   "q": "Welche Teilchen im Essen bringt eine Mikrowelle vor allem in Bewegung?",
+   "a": "Wassermoleküle",
+   "fakt": "Der Ingenieur Percy Spencer soll um 1945 an einer Radarröhre bemerkt haben, wie ein Schokoriegel in seiner Tasche schmolz."
+  },
+  {
+   "n": 14,
+   "kat": "Körper",
+   "thema": "Farbenblindheit",
+   "q": "Welche Farben verwechseln Menschen mit der häufigsten Farbsehschwäche?",
+   "a": "Rot und Grün",
+   "fakt": "Etwa jeder zwölfte Mann hat eine Rot-Grün-Schwäche, aber nur etwa eine von 250 Frauen."
+  },
+  {
+   "n": 15,
+   "kat": "Mathematik",
+   "thema": "Maßstab",
+   "q": "Eine Karte hat den Maßstab 1:25.000. Welcher Strecke entspricht 1 Zentimeter?",
+   "a": "250 Meter",
+   "fakt": "25.000 Zentimeter sind 250 Meter. Vier Zentimeter auf der Karte sind also ein Kilometer."
+  },
+  {
+   "n": 16,
+   "kat": "Geschichte",
+   "thema": "Isetta",
+   "q": "Welcher Autohersteller baute ab 1955 den Kleinwagen Isetta?",
+   "a": "BMW",
+   "fakt": "Einsteigen konnte man nur von vorn: Die ganze Front war die Tür. Entworfen wurde die Isetta in Italien."
+  },
+  {
+   "n": 17,
+   "kat": "Erdkunde",
+   "thema": "Ostsee",
+   "q": "Wie viele Staaten grenzen an die Ostsee?",
+   "a": "Neun",
+   "fakt": "Von Dänemark bis Russland sind es neun. Das Wasser der Ostsee ist viel weniger salzig als das der Nordsee."
+  },
+  {
+   "n": 18,
+   "kat": "Sport",
+   "thema": "Fechten",
+   "q": "Welche drei Waffen gibt es im olympischen Fechten?",
+   "a": "Florett, Degen, Säbel",
+   "fakt": "Fechten gehört seit den ersten Spielen der Neuzeit 1896 in Athen ohne Unterbrechung zum olympischen Programm."
+  },
+  {
+   "n": 19,
+   "kat": "Musik",
+   "thema": "Zither",
+   "q": "Welcher Film machte die Zither 1949 weltberühmt?",
+   "a": "Der dritte Mann",
+   "fakt": "Anton Karas schrieb und spielte die Filmmusik auf der Zither. Sein „Harry-Lime-Thema“ wurde ein Welthit."
+  },
+  {
+   "n": 20,
+   "kat": "Wissenschaft",
+   "thema": "Wilhelm Conrad Röntgen",
+   "q": "Wie nannte Wilhelm Conrad Röntgen die 1895 von ihm entdeckten Strahlen?",
+   "a": "X-Strahlen",
+   "fakt": "In vielen Sprachen heißen sie bis heute so. Röntgen erhielt dafür 1901 den ersten Nobelpreis für Physik."
+  },
+  {
+   "n": 21,
+   "kat": "Alltag",
+   "thema": "Strichcode",
+   "q": "Welches Produkt wurde 1974 als erstes mit Strichcode an einer Kasse gescannt?",
+   "a": "Kaugummi",
+   "fakt": "Am 26. Juni 1974 lief in einem Supermarkt in Ohio eine Packung Kaugummi über den Scanner. Preis: 67 Cent."
+  },
+  {
+   "n": 22,
+   "kat": "Wissenschaft",
+   "thema": "Aluminium",
+   "q": "Welches Metall kommt in der Erdkruste am häufigsten vor?",
+   "a": "Aluminium",
+   "fakt": "Rund acht Prozent der Erdkruste sind Aluminium. Rein kommt es in der Natur kaum vor – man gewinnt es aus Bauxit."
+  },
+  {
+   "n": 23,
+   "kat": "Weltall",
+   "thema": "Neutronenstern",
+   "q": "Wie groß ist der Durchmesser eines Neutronensterns ungefähr?",
+   "a": "20 Kilometer",
+   "fakt": "Er ist der Rest einer Sternexplosion. Ein würfelzuckergroßes Stück wöge auf der Erde rund eine Milliarde Tonnen."
+  }
+ ]
+}
