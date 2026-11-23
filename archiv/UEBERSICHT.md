@@ -1,12 +1,40 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**10 Folgen, 253 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**11 Folgen, 276 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (10 Folgen, 253 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (11 Folgen, 276 Fragen und Behauptungen)
 
-Die neuesten 10 Folgen:
+Die neuesten 11 Folgen:
+
+## Folge 11 · 2026-11-24 · Erdkunde-Quiz: 23 Fragen von Sahara bis Himalaya
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Sahara | Auf welchem Kontinent liegt die Sahara? | Afrika |
+| 2 | Hawaii | Zu welchem Staat gehört die Inselgruppe Hawaii? | USA |
+| 3 | Fjorde | Wie heißen die langen, schmalen Meeresarme an Norwegens Küste? | Fjorde |
+| 4 | Niagarafälle | An der Grenze welcher beiden Staaten liegen die Niagarafälle? | USA und Kanada |
+| 5 | Ätna | Auf welcher italienischen Insel liegt der Vulkan Ätna? | Sizilien |
+| 6 | Suezkanal | Welche beiden Meere verbindet der Suezkanal? | Mittelmeer und Rotes Meer |
+| 7 | Plattensee | In welchem Land liegt der Plattensee? | Ungarn |
+| 8 | San Marino | Von welchem Land ist der Zwergstaat San Marino vollständig umgeben? | Italien |
+| 9 | Tasmanien | Zu welchem Land gehört die Insel Tasmanien? | Australien |
+| 10 | Totes Meer | Was macht das Ufer des Toten Meeres einzigartig? | Tiefste Landstelle der Erde |
+| 11 | Schweizer Franken | In welchem Land außer der Schweiz ist der Franken gesetzliches Zahlungsmittel? | Liechtenstein |
+| 12 | Geysire | Aus welcher Sprache stammt das Wort „Geysir“? | Isländisch |
+| 13 | Griechenland | Wie nennen die Griechen ihr eigenes Land? | Hellas |
+| 14 | Jangtse | Welcher ist der längste Fluss Asiens? | Jangtse |
+| 15 | Beringstraße | Welche beiden Kontinente trennt die Beringstraße? | Asien und Nordamerika |
+| 16 | Sri Lanka | Unter welchem Namen war Sri Lanka bis 1972 bekannt? | Ceylon |
+| 17 | Oberer See | Welcher ist der größte der fünf Großen Seen Nordamerikas? | Oberer See |
+| 18 | Kap Hoorn | Wonach ist Kap Hoorn an der Südspitze Südamerikas benannt? | Nach einer Stadt |
+| 19 | Panamakanal | In welchem Jahr wurde der Panamakanal eröffnet? | 1914 |
+| 20 | Kap der Guten Hoffnung | Welcher Seefahrer umsegelte 1488 als erster Europäer das Kap der Guten Hoffnung? | Bartolomeu Dias |
+| 21 | Flagge Brasiliens | Welcher Wahlspruch steht auf der Flagge Brasiliens? | Ordnung und Fortschritt |
+| 22 | Karpaten | In welchem Land liegt der größte Teil der Karpaten? | Rumänien |
+| 23 | Himalaya | Was bedeutet der Name „Himalaya“ auf Deutsch? | Heimat des Schnees |
 
 ## Folge 10 · 2026-11-23 · Allgemeinwissen-Quiz: 23 Fragen von Katze bis Neutronenstern
 

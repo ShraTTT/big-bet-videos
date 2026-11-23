@@ -1,0 +1,194 @@
+{
+ "id": "qz_011",
+ "nr": 11,
+ "datum": "2026-11-24",
+ "titel": "Erdkunde-Quiz: 23 Fragen von Sahara bis Himalaya",
+ "format": "quiz",
+ "thema": "Erdkunde: Berge, Flüsse, Inseln und Meere",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Erdkunde",
+   "thema": "Sahara",
+   "q": "Auf welchem Kontinent liegt die Sahara?",
+   "a": "Afrika",
+   "fakt": "Die Sahara ist die größte heiße Wüste der Erde. Nur etwa ein Viertel ist von Sand bedeckt – der Rest ist vor allem Fels und Geröll."
+  },
+  {
+   "n": 2,
+   "kat": "Erdkunde",
+   "thema": "Hawaii",
+   "q": "Zu welchem Staat gehört die Inselgruppe Hawaii?",
+   "a": "USA",
+   "fakt": "Hawaii ist seit 1959 der 50. Bundesstaat der USA. Die Inseln liegen fast 4.000 Kilometer vom amerikanischen Festland entfernt."
+  },
+  {
+   "n": 3,
+   "kat": "Erdkunde",
+   "thema": "Fjorde",
+   "q": "Wie heißen die langen, schmalen Meeresarme an Norwegens Küste?",
+   "a": "Fjorde",
+   "fakt": "Fjorde wurden von Gletschern ausgeschürft. Der Sognefjord reicht rund 200 Kilometer ins Land und ist bis zu 1.300 Meter tief."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Niagarafälle",
+   "q": "An der Grenze welcher beiden Staaten liegen die Niagarafälle?",
+   "a": "USA und Kanada",
+   "fakt": "Der Niagara-Fluss verbindet den Eriesee mit dem Ontariosee. Am Hufeisenfall stürzt das Wasser mehr als 50 Meter in die Tiefe."
+  },
+  {
+   "n": 5,
+   "kat": "Erdkunde",
+   "thema": "Ätna",
+   "q": "Auf welcher italienischen Insel liegt der Vulkan Ätna?",
+   "a": "Sizilien",
+   "fakt": "Der Ätna ist über 3.300 Meter hoch und einer der aktivsten Vulkane der Erde. Seit 2013 gehört er zum UNESCO-Welterbe."
+  },
+  {
+   "n": 6,
+   "kat": "Erdkunde",
+   "thema": "Suezkanal",
+   "q": "Welche beiden Meere verbindet der Suezkanal?",
+   "a": "Mittelmeer und Rotes Meer",
+   "fakt": "Der Kanal in Ägypten wurde 1869 eröffnet. Er ist rund 193 Kilometer lang und kommt ganz ohne Schleusen aus."
+  },
+  {
+   "n": 7,
+   "kat": "Erdkunde",
+   "thema": "Plattensee",
+   "q": "In welchem Land liegt der Plattensee?",
+   "a": "Ungarn",
+   "fakt": "Auf Ungarisch heißt er Balaton. Der größte See Mitteleuropas ist im Durchschnitt nur gut drei Meter tief."
+  },
+  {
+   "n": 8,
+   "kat": "Erdkunde",
+   "thema": "San Marino",
+   "q": "Von welchem Land ist der Zwergstaat San Marino vollständig umgeben?",
+   "a": "Italien",
+   "fakt": "San Marino gilt als älteste bestehende Republik der Welt. Der Überlieferung nach wurde es im Jahr 301 gegründet."
+  },
+  {
+   "n": 9,
+   "kat": "Erdkunde",
+   "thema": "Tasmanien",
+   "q": "Zu welchem Land gehört die Insel Tasmanien?",
+   "a": "Australien",
+   "fakt": "Benannt ist die Insel nach dem Niederländer Abel Tasman, der sie 1642 als erster Europäer erreichte."
+  },
+  {
+   "n": 10,
+   "kat": "Erdkunde",
+   "thema": "Totes Meer",
+   "q": "Was macht das Ufer des Toten Meeres einzigartig?",
+   "a": "Tiefste Landstelle der Erde",
+   "fakt": "Das Ufer liegt mehr als 430 Meter unter dem Meeresspiegel. Das Wasser ist um ein Vielfaches salziger als das der Ozeane."
+  },
+  {
+   "n": 11,
+   "kat": "Alltag",
+   "thema": "Schweizer Franken",
+   "q": "In welchem Land außer der Schweiz ist der Franken gesetzliches Zahlungsmittel?",
+   "a": "Liechtenstein",
+   "fakt": "Liechtenstein führte den Schweizer Franken 1924 als Währung ein. Zuvor galt dort die österreichische Krone."
+  },
+  {
+   "n": 12,
+   "kat": "Sprache",
+   "thema": "Geysire",
+   "q": "Aus welcher Sprache stammt das Wort „Geysir“?",
+   "a": "Isländisch",
+   "fakt": "Namensgeber ist der Große Geysir auf Island. Sein Name kommt vom Verb „geysa“ – das heißt hervorsprudeln."
+  },
+  {
+   "n": 13,
+   "kat": "Sprache",
+   "thema": "Griechenland",
+   "q": "Wie nennen die Griechen ihr eigenes Land?",
+   "a": "Hellas",
+   "fakt": "Amtlich heißt der Staat Hellenische Republik. Im Alltag sagen die Griechen heute meist „Elláda“ – die neuere Form von Hellas."
+  },
+  {
+   "n": 14,
+   "kat": "Erdkunde",
+   "thema": "Jangtse",
+   "q": "Welcher ist der längste Fluss Asiens?",
+   "a": "Jangtse",
+   "fakt": "Der Jangtse ist rund 6.300 Kilometer lang und fließt nur durch China. An ihm steht die Drei-Schluchten-Talsperre."
+  },
+  {
+   "n": 15,
+   "kat": "Erdkunde",
+   "thema": "Beringstraße",
+   "q": "Welche beiden Kontinente trennt die Beringstraße?",
+   "a": "Asien und Nordamerika",
+   "fakt": "An der engsten Stelle ist sie weniger als 100 Kilometer breit. Benannt ist sie nach dem dänischen Seefahrer Vitus Bering."
+  },
+  {
+   "n": 16,
+   "kat": "Geschichte",
+   "thema": "Sri Lanka",
+   "q": "Unter welchem Namen war Sri Lanka bis 1972 bekannt?",
+   "a": "Ceylon",
+   "fakt": "1972 wurde der Inselstaat zur Republik und nahm den Namen Sri Lanka an. Er liegt vor der Südostküste Indiens."
+  },
+  {
+   "n": 17,
+   "kat": "Erdkunde",
+   "thema": "Oberer See",
+   "q": "Welcher ist der größte der fünf Großen Seen Nordamerikas?",
+   "a": "Oberer See",
+   "fakt": "Mit rund 82.000 Quadratkilometern ist er der flächengrößte Süßwassersee der Erde – fast so groß wie Österreich."
+  },
+  {
+   "n": 18,
+   "kat": "Geschichte",
+   "thema": "Kap Hoorn",
+   "q": "Wonach ist Kap Hoorn an der Südspitze Südamerikas benannt?",
+   "a": "Nach einer Stadt",
+   "fakt": "Niederländische Seefahrer umsegelten das Kap 1616 und benannten es nach der Stadt Hoorn. Heute gehört es zu Chile."
+  },
+  {
+   "n": 19,
+   "kat": "Geschichte",
+   "thema": "Panamakanal",
+   "q": "In welchem Jahr wurde der Panamakanal eröffnet?",
+   "a": "1914",
+   "fakt": "Schleusen heben die Schiffe 26 Meter hoch zum Gatúnsee. Die Durchfahrt erspart den weiten Umweg um Südamerika."
+  },
+  {
+   "n": 20,
+   "kat": "Geschichte",
+   "thema": "Kap der Guten Hoffnung",
+   "q": "Welcher Seefahrer umsegelte 1488 als erster Europäer das Kap der Guten Hoffnung?",
+   "a": "Bartolomeu Dias",
+   "fakt": "Dias soll es „Kap der Stürme“ genannt haben. Der südlichste Punkt Afrikas ist übrigens das Kap Agulhas."
+  },
+  {
+   "n": 21,
+   "kat": "Erdkunde",
+   "thema": "Flagge Brasiliens",
+   "q": "Welcher Wahlspruch steht auf der Flagge Brasiliens?",
+   "a": "Ordnung und Fortschritt",
+   "fakt": "Auf Portugiesisch: „Ordem e Progresso“. Die 27 Sterne stehen für die Bundesstaaten und den Hauptstadtbezirk."
+  },
+  {
+   "n": 22,
+   "kat": "Erdkunde",
+   "thema": "Karpaten",
+   "q": "In welchem Land liegt der größte Teil der Karpaten?",
+   "a": "Rumänien",
+   "fakt": "Rund die Hälfte des Gebirgsbogens liegt in Rumänien. Der höchste Gipfel steht aber in der Slowakei: 2.655 Meter."
+  },
+  {
+   "n": 23,
+   "kat": "Sprache",
+   "thema": "Himalaya",
+   "q": "Was bedeutet der Name „Himalaya“ auf Deutsch?",
+   "a": "Heimat des Schnees",
+   "fakt": "Der Name stammt aus dem Sanskrit: „hima“ heißt Schnee, „alaya“ Heimat. Der Gebirgsbogen ist etwa 2.500 Kilometer lang."
+  }
+ ]
+}
