@@ -1,12 +1,40 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**11 Folgen, 276 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**12 Folgen, 299 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (11 Folgen, 276 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (12 Folgen, 299 Fragen und Behauptungen)
 
-Die neuesten 11 Folgen:
+Die neuesten 12 Folgen:
+
+## Folge 12 · 2026-11-25 · Geschichts-Quiz: 23 Fragen zum 20. Jahrhundert
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Titanic | In welche Stadt sollte die erste Fahrt der Titanic 1912 führen? | New York |
+| 2 | Roald Amundsen | Welchen Ort erreichte Roald Amundsen 1911 als Erster? | Südpol |
+| 3 | Marie Curie | In welchen beiden Fächern erhielt Marie Curie einen Nobelpreis? | Physik und Chemie |
+| 4 | Albert Schweitzer | In welchem heutigen Land baute Albert Schweitzer ab 1913 sein Urwaldspital auf? | Gabun |
+| 5 | Kaiser Wilhelm II. | In welches Land ging Kaiser Wilhelm II. im November 1918 ins Exil? | Niederlande |
+| 6 | Charles Lindbergh | Wo landete Charles Lindbergh 1927 nach seinem Alleinflug über den Atlantik? | Paris |
+| 7 | Penicillin | Wer entdeckte 1928 das Penicillin? | Alexander Fleming |
+| 8 | Mahatma Gandhi | Gegen welche Abgabe protestierte Mahatma Gandhi 1930 mit einem langen Fußmarsch? | Salzsteuer |
+| 9 | Thor Heyerdahl | Womit fuhr Thor Heyerdahl 1947 von Peru aus über den Pazifik? | Mit einem Floß |
+| 10 | Grundgesetz | In welchem Jahr trat das Grundgesetz der Bundesrepublik in Kraft? | 1949 |
+| 11 | Winston Churchill | Welchen Nobelpreis erhielt Winston Churchill 1953? | Literatur |
+| 12 | Gastarbeiter | Mit welchem Land schloss die Bundesrepublik 1955 ihr erstes Anwerbeabkommen? | Italien |
+| 13 | Elvis in Deutschland | In welchem Bundesland war Elvis Presley ab 1958 als Soldat stationiert? | Hessen |
+| 14 | Kubakrise | Was richteten Washington und Moskau 1963 nach der Kubakrise ein? | Den „heißen Draht“ |
+| 15 | Kennedy in Berlin | Vor welchem Rathaus sagte John F. Kennedy 1963 „Ich bin ein Berliner“? | Rathaus Schöneberg |
+| 16 | Farbfernsehen 1967 | Wer startete 1967 in der Bundesrepublik per Knopfdruck das Farbfernsehen? | Willy Brandt |
+| 17 | Woodstock | Auf welchem Gelände fand 1969 das Woodstock-Festival statt? | Auf einer Milchfarm |
+| 18 | Olympia 1972 | Welches Tier war das Maskottchen der Olympischen Spiele 1972 in München? | Ein Dackel |
+| 19 | Autofreier Sonntag | Wie viele autofreie Sonntage gab es Ende 1973 in der Bundesrepublik? | Vier |
+| 20 | Walkman | Welches Unternehmen brachte 1979 den Walkman auf den Markt? | Sony |
+| 21 | Montagsdemonstrationen | In welcher Stadt begannen 1989 die Montagsdemonstrationen? | Leipzig |
+| 22 | Nelson Mandela | Wie viele Jahre saß Nelson Mandela in Haft, bevor er 1990 freikam? | 27 Jahre |
+| 23 | Dolly das Schaf | In welchem Land kam 1996 das Klonschaf Dolly zur Welt? | Schottland |
 
 ## Folge 11 · 2026-11-24 · Erdkunde-Quiz: 23 Fragen von Sahara bis Himalaya
 

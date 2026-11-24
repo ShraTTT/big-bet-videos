@@ -1,0 +1,194 @@
+{
+ "id": "qz_012",
+ "nr": 12,
+ "datum": "2026-11-25",
+ "titel": "Geschichts-Quiz: 23 Fragen zum 20. Jahrhundert",
+ "format": "quiz",
+ "thema": "Geschichte: das 20. Jahrhundert",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Geschichte",
+   "thema": "Titanic",
+   "q": "In welche Stadt sollte die erste Fahrt der Titanic 1912 führen?",
+   "a": "New York",
+   "fakt": "Die Titanic legte am 10. April 1912 in Southampton ab – mit Zwischenhalt in Cherbourg und im irischen Queenstown."
+  },
+  {
+   "n": 2,
+   "kat": "Geschichte",
+   "thema": "Roald Amundsen",
+   "q": "Welchen Ort erreichte Roald Amundsen 1911 als Erster?",
+   "a": "Südpol",
+   "fakt": "Am 14. Dezember 1911 war der Norweger am Ziel – gut einen Monat vor seinem britischen Rivalen Robert Scott."
+  },
+  {
+   "n": 3,
+   "kat": "Wissenschaft",
+   "thema": "Marie Curie",
+   "q": "In welchen beiden Fächern erhielt Marie Curie einen Nobelpreis?",
+   "a": "Physik und Chemie",
+   "fakt": "1903 Physik, 1911 Chemie: Marie Curie war die erste Frau mit einem Nobelpreis – und der erste Mensch mit zweien."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Albert Schweitzer",
+   "q": "In welchem heutigen Land baute Albert Schweitzer ab 1913 sein Urwaldspital auf?",
+   "a": "Gabun",
+   "fakt": "Sein Spital entstand in Lambarene am Fluss Ogowe. Schweitzer war nicht nur Arzt, sondern auch Theologe und Organist."
+  },
+  {
+   "n": 5,
+   "kat": "Geschichte",
+   "thema": "Kaiser Wilhelm II.",
+   "q": "In welches Land ging Kaiser Wilhelm II. im November 1918 ins Exil?",
+   "a": "Niederlande",
+   "fakt": "Ab 1920 lebte er in Haus Doorn bei Utrecht. Dort starb er 1941; das Haus ist heute ein Museum."
+  },
+  {
+   "n": 6,
+   "kat": "Technik",
+   "thema": "Charles Lindbergh",
+   "q": "Wo landete Charles Lindbergh 1927 nach seinem Alleinflug über den Atlantik?",
+   "a": "Paris",
+   "fakt": "Für die Strecke von New York brauchte er rund 33 Stunden und 30 Minuten. Sein Flugzeug hieß „Spirit of St. Louis“."
+  },
+  {
+   "n": 7,
+   "kat": "Wissenschaft",
+   "thema": "Penicillin",
+   "q": "Wer entdeckte 1928 das Penicillin?",
+   "a": "Alexander Fleming",
+   "fakt": "Ein Zufall: Ein Schimmelpilz war in eine Bakterienkultur geraten – rund um ihn wuchsen keine Bakterien mehr."
+  },
+  {
+   "n": 8,
+   "kat": "Geschichte",
+   "thema": "Mahatma Gandhi",
+   "q": "Gegen welche Abgabe protestierte Mahatma Gandhi 1930 mit einem langen Fußmarsch?",
+   "a": "Salzsteuer",
+   "fakt": "Der Salzmarsch führte in 24 Tagen rund 385 Kilometer weit ans Arabische Meer. Am Morgen danach hob Gandhi dort Salz auf."
+  },
+  {
+   "n": 9,
+   "kat": "Geschichte",
+   "thema": "Thor Heyerdahl",
+   "q": "Womit fuhr Thor Heyerdahl 1947 von Peru aus über den Pazifik?",
+   "a": "Mit einem Floß",
+   "fakt": "Das Floß „Kon-Tiki“ aus Balsaholz war 101 Tage unterwegs – von Peru bis zu einem Riff in Polynesien."
+  },
+  {
+   "n": 10,
+   "kat": "Geschichte",
+   "thema": "Grundgesetz",
+   "q": "In welchem Jahr trat das Grundgesetz der Bundesrepublik in Kraft?",
+   "a": "1949",
+   "fakt": "Verkündet wurde es am 23. Mai 1949. Unter den 65 stimmberechtigten Mitgliedern des Parlamentarischen Rates waren vier Frauen."
+  },
+  {
+   "n": 11,
+   "kat": "Kultur",
+   "thema": "Winston Churchill",
+   "q": "Welchen Nobelpreis erhielt Winston Churchill 1953?",
+   "a": "Literatur",
+   "fakt": "Geehrt wurden seine Geschichtswerke und seine Redekunst. Churchill malte außerdem – mehr als 500 Bilder."
+  },
+  {
+   "n": 12,
+   "kat": "Geschichte",
+   "thema": "Gastarbeiter",
+   "q": "Mit welchem Land schloss die Bundesrepublik 1955 ihr erstes Anwerbeabkommen?",
+   "a": "Italien",
+   "fakt": "Es folgten Abkommen mit Spanien und Griechenland 1960 und mit der Türkei 1961. 1973 endete die Anwerbung."
+  },
+  {
+   "n": 13,
+   "kat": "Musik",
+   "thema": "Elvis in Deutschland",
+   "q": "In welchem Bundesland war Elvis Presley ab 1958 als Soldat stationiert?",
+   "a": "Hessen",
+   "fakt": "Seine Kaserne stand in Friedberg, gewohnt hat er im nahen Bad Nauheim. Im März 1960 kehrte er in die USA zurück."
+  },
+  {
+   "n": 14,
+   "kat": "Geschichte",
+   "thema": "Kubakrise",
+   "q": "Was richteten Washington und Moskau 1963 nach der Kubakrise ein?",
+   "a": "Den „heißen Draht“",
+   "fakt": "Die Krise im Oktober 1962 dauerte 13 Tage. Der „heiße Draht“ war kein rotes Telefon, sondern eine Fernschreiber-Verbindung."
+  },
+  {
+   "n": 15,
+   "kat": "Geschichte",
+   "thema": "Kennedy in Berlin",
+   "q": "Vor welchem Rathaus sagte John F. Kennedy 1963 „Ich bin ein Berliner“?",
+   "a": "Rathaus Schöneberg",
+   "fakt": "Das Rathaus Schöneberg war damals Sitz des West-Berliner Senats. Der Platz davor trägt heute Kennedys Namen."
+  },
+  {
+   "n": 16,
+   "kat": "Technik",
+   "thema": "Farbfernsehen 1967",
+   "q": "Wer startete 1967 in der Bundesrepublik per Knopfdruck das Farbfernsehen?",
+   "a": "Willy Brandt",
+   "fakt": "Das war am 25. August 1967 auf der Funkausstellung in Berlin. Das Bild wurde etwas zu früh farbig – der Knopf war eine Attrappe."
+  },
+  {
+   "n": 17,
+   "kat": "Musik",
+   "thema": "Woodstock",
+   "q": "Auf welchem Gelände fand 1969 das Woodstock-Festival statt?",
+   "a": "Auf einer Milchfarm",
+   "fakt": "Die Farm von Max Yasgur lag gar nicht in Woodstock, sondern im Ort Bethel im Bundesstaat New York."
+  },
+  {
+   "n": 18,
+   "kat": "Sport",
+   "thema": "Olympia 1972",
+   "q": "Welches Tier war das Maskottchen der Olympischen Spiele 1972 in München?",
+   "a": "Ein Dackel",
+   "fakt": "Dackel Waldi war das erste offizielle Maskottchen Olympischer Sommerspiele. Das Erscheinungsbild der Spiele prägte der Gestalter Otl Aicher."
+  },
+  {
+   "n": 19,
+   "kat": "Alltag",
+   "thema": "Autofreier Sonntag",
+   "q": "Wie viele autofreie Sonntage gab es Ende 1973 in der Bundesrepublik?",
+   "a": "Vier",
+   "fakt": "Wegen der Ölkrise galt am 25. November und an drei Sonntagen im Dezember ein Fahrverbot. Viele gingen auf der Autobahn spazieren."
+  },
+  {
+   "n": 20,
+   "kat": "Technik",
+   "thema": "Walkman",
+   "q": "Welches Unternehmen brachte 1979 den Walkman auf den Markt?",
+   "a": "Sony",
+   "fakt": "Der erste Walkman kam am 1. Juli 1979 in Japan heraus. Er hatte zwei Kopfhörerbuchsen – zum Hören zu zweit."
+  },
+  {
+   "n": 21,
+   "kat": "Geschichte",
+   "thema": "Montagsdemonstrationen",
+   "q": "In welcher Stadt begannen 1989 die Montagsdemonstrationen?",
+   "a": "Leipzig",
+   "fakt": "Sie gingen von den Friedensgebeten in der Nikolaikirche aus. Am 9. Oktober 1989 zogen rund 70.000 Menschen um den Ring."
+  },
+  {
+   "n": 22,
+   "kat": "Geschichte",
+   "thema": "Nelson Mandela",
+   "q": "Wie viele Jahre saß Nelson Mandela in Haft, bevor er 1990 freikam?",
+   "a": "27 Jahre",
+   "fakt": "Rund 18 dieser Jahre verbrachte er auf der Gefängnisinsel Robben Island. 1994 wurde er Präsident Südafrikas."
+  },
+  {
+   "n": 23,
+   "kat": "Wissenschaft",
+   "thema": "Dolly das Schaf",
+   "q": "In welchem Land kam 1996 das Klonschaf Dolly zur Welt?",
+   "a": "Schottland",
+   "fakt": "Dolly war das erste Säugetier, das aus einer erwachsenen Körperzelle geklont wurde. Ihr Name erinnert an die Sängerin Dolly Parton."
+  }
+ ]
+}
