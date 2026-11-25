@@ -1,12 +1,40 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**12 Folgen, 299 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**13 Folgen, 322 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (12 Folgen, 299 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (13 Folgen, 322 Fragen und Behauptungen)
 
 Die neuesten 12 Folgen:
+
+## Folge 13 · 2026-11-26 · Wissenschafts-Quiz: 23 Fragen von Mammut bis Magnet
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Mammut | Welches Eiszeittier hatte ein zottiges Fell und lange, gebogene Stoßzähne? | Mammut |
+| 2 | Magnetismus | Wie heißen die beiden Pole eines Magneten? | Nord und Süd |
+| 3 | Venusfliegenfalle | Was fängt die Venusfliegenfalle mit ihren Klappblättern? | Insekten |
+| 4 | Erdatmosphäre | Welches Gas macht mit rund 78 Prozent den größten Teil der Luft aus? | Stickstoff |
+| 5 | Birke | Welcher heimische Laubbaum ist an seiner weißen Rinde zu erkennen? | Birke |
+| 6 | Dezibel | In welcher Einheit wird der Schallpegel angegeben – umgangssprachlich die Lautstärke? | Dezibel |
+| 7 | Kupfer | Welches Metall überzieht sich im Freien mit einer grünen Schicht, der Patina? | Kupfer |
+| 8 | Aggregatzustände | Fest, flüssig, gasförmig – wie nennt man diese drei Zustände eines Stoffes? | Aggregatzustände |
+| 9 | Gewitter | Zwischen Blitz und Donner vergehen 3 Sekunden. Wie weit ist das Gewitter entfernt? | Rund 1 Kilometer |
+| 10 | Bernstein | Woraus ist Bernstein entstanden? | Aus Baumharz |
+| 11 | Glas | Welcher Rohstoff ist der Hauptbestandteil von Glas? | Quarzsand |
+| 12 | Tropfsteinhöhlen | Wie heißen Tropfsteine, die von der Höhlendecke herabhängen? | Stalaktiten |
+| 13 | Neandertaler | Wonach ist der Neandertaler benannt? | Nach einem Tal bei Düsseldorf |
+| 14 | Hebelgesetz | Welcher griechische Gelehrte begründete das Hebelgesetz mathematisch? | Archimedes |
+| 15 | PS | Welcher Erfinder führte die Pferdestärke als Maß für Leistung ein? | James Watt |
+| 16 | pH-Wert | Welchen pH-Wert hat reines Wasser bei 25 Grad? | 7 |
+| 17 | Bambus | Zu welcher Pflanzenfamilie gehört der Bambus? | Süßgräser |
+| 18 | Periodensystem | Welcher Chemiker veröffentlichte 1869 sein Periodensystem der Elemente? | Dmitri Mendelejew |
+| 19 | Max Planck | Als Begründer welcher Theorie gilt der Physiker Max Planck? | Quantentheorie |
+| 20 | Tornado | Welche Skala zur Einstufung von Tornados wurde 1971 vorgestellt? | Fujita-Skala |
+| 21 | Eibe | Welcher heimische Nadelbaum trägt rote, beerenartige Früchte statt Zapfen? | Eibe |
+| 22 | Zelle | An welchem Material entdeckte Robert Hooke 1665 unter dem Mikroskop die Zellen? | An Kork |
+| 23 | Lise Meitner | Welchen Vorgang deutete Lise Meitner 1939 mit ihrem Neffen Otto Frisch als Erste richtig? | Die Kernspaltung |
 
 ## Folge 12 · 2026-11-25 · Geschichts-Quiz: 23 Fragen zum 20. Jahrhundert
 
@@ -336,34 +364,4 @@ Die neuesten 12 Folgen:
 | 23 | Küstenseeschwalbe | Welcher Vogel legt jedes Jahr die längste Zugstrecke zurück? | Küstenseeschwalbe |
 | 24 | Grönlandhai | Welches Wirbeltier gilt als das langlebigste der Erde? | Grönlandhai |
 | 25 | Rafflesie | Welche Pflanze bildet die größte Einzelblüte der Erde? | Riesenrafflesie |
-
-## Folge 1 · 2026-11-11 · Allgemeinwissen-Quiz: 25 Fragen – schaffst du 18 Richtige?
-
-| Nr. | Thema | Frage oder Behauptung | Antwort |
-|---|---|---|---|
-| 1 | Spinne | Wie viele Beine hat eine Spinne? | Acht |
-| 2 | Zugspitze | Wie heißt der höchste Berg Deutschlands? | Zugspitze |
-| 3 | Berliner Mauer | In welchem Jahr fiel die Berliner Mauer? | 1989 |
-| 4 | Alphabet | Wie viele Buchstaben hat das deutsche Alphabet – ohne Umlaute und ß? | 26 |
-| 5 | Gold | Welches chemische Zeichen hat Gold? | Au |
-| 6 | Mona Lisa | Wer malte die Mona Lisa? | Leonardo da Vinci |
-| 7 | Minuten eines Tages | Wie viele Minuten hat ein Tag? | 1.440 |
-| 8 | Bayern | Welches ist das flächenmäßig größte Bundesland Deutschlands? | Bayern |
-| 9 | Canberra | Wie heißt die Hauptstadt von Australien? | Canberra |
-| 10 | Gepard | Welches ist das schnellste Landtier der Erde? | Gepard |
-| 11 | Konrad Adenauer | Wer war der erste Bundeskanzler der Bundesrepublik Deutschland? | Konrad Adenauer |
-| 12 | Merkur | Welcher Planet ist der Sonne am nächsten? | Merkur |
-| 13 | Palindrom | Was ist ein Palindrom? | Vor- und rückwärts gleich |
-| 14 | Europahymne | Von welchem Komponisten stammt die Melodie der Europahymne? | Beethoven |
-| 15 | Nachbarländer Deutschlands | An wie viele Länder grenzt Deutschland? | Neun |
-| 16 | SMS | In welchem Jahr wurde die erste SMS verschickt? | 1992 |
-| 17 | Oktopus | Wie viele Herzen hat ein Oktopus? | Drei |
-| 18 | Weimarer Republik | In welcher Stadt wurde 1919 die Verfassung der ersten deutschen Republik beschlossen? | Weimar |
-| 19 | Baikalsee | Welcher See ist der tiefste der Erde? | Baikalsee |
-| 20 | Hertz | Was misst man in der Einheit Hertz? | Frequenz |
-| 21 | Die Blechtrommel | Wer schrieb den Roman „Die Blechtrommel“? | Günter Grass |
-| 22 | Marathon | Wie lang ist die Marathonstrecke? | 42,195 km |
-| 23 | Steigbügel | Welcher Knochen ist der kleinste im menschlichen Körper? | Steigbügel |
-| 24 | Donau | Durch wie viele Länder fließt die Donau? | Zehn |
-| 25 | Quecksilber | Welches Metall ist bei Zimmertemperatur flüssig? | Quecksilber |
 

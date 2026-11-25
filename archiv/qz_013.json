@@ -1,0 +1,194 @@
+{
+ "id": "qz_013",
+ "nr": 13,
+ "datum": "2026-11-26",
+ "titel": "Wissenschafts-Quiz: 23 Fragen von Mammut bis Magnet",
+ "format": "quiz",
+ "thema": "Wissenschaft und Natur: Physik, Chemie, Wetter und Pflanzen",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Wissenschaft",
+   "thema": "Mammut",
+   "q": "Welches Eiszeittier hatte ein zottiges Fell und lange, gebogene Stoßzähne?",
+   "a": "Mammut",
+   "fakt": "Die letzten Mammuts lebten auf der Wrangelinsel im Nordpolarmeer – bis vor rund 4.000 Jahren, als in Ägypten schon Pyramiden standen."
+  },
+  {
+   "n": 2,
+   "kat": "Wissenschaft",
+   "thema": "Magnetismus",
+   "q": "Wie heißen die beiden Pole eines Magneten?",
+   "a": "Nord und Süd",
+   "fakt": "Bricht man einen Magneten durch, hat jedes Stück wieder beide Pole. Ein freies Teilchen mit nur einem Pol fand man bisher nie."
+  },
+  {
+   "n": 3,
+   "kat": "Natur",
+   "thema": "Venusfliegenfalle",
+   "q": "Was fängt die Venusfliegenfalle mit ihren Klappblättern?",
+   "a": "Insekten",
+   "fakt": "Die Falle schnappt erst zu, wenn ihre Fühlhaare zweimal kurz nacheinander berührt werden. Das spart Kraft bei Fehlalarm."
+  },
+  {
+   "n": 4,
+   "kat": "Wissenschaft",
+   "thema": "Erdatmosphäre",
+   "q": "Welches Gas macht mit rund 78 Prozent den größten Teil der Luft aus?",
+   "a": "Stickstoff",
+   "fakt": "Sauerstoff folgt mit rund 21 Prozent. Kohlendioxid macht dagegen nur etwa 0,04 Prozent der Luft aus."
+  },
+  {
+   "n": 5,
+   "kat": "Natur",
+   "thema": "Birke",
+   "q": "Welcher heimische Laubbaum ist an seiner weißen Rinde zu erkennen?",
+   "a": "Birke",
+   "fakt": "Der Stoff Betulin lässt die Rinde weiß leuchten. Birken besiedeln als Pionierbäume oft als Erste kahle Flächen."
+  },
+  {
+   "n": 6,
+   "kat": "Wissenschaft",
+   "thema": "Dezibel",
+   "q": "In welcher Einheit wird der Schallpegel angegeben – umgangssprachlich die Lautstärke?",
+   "a": "Dezibel",
+   "fakt": "Der Name ehrt den Telefon-Pionier Alexander Graham Bell. Ein Dezibel ist der zehnte Teil eines Bel."
+  },
+  {
+   "n": 7,
+   "kat": "Wissenschaft",
+   "thema": "Kupfer",
+   "q": "Welches Metall überzieht sich im Freien mit einer grünen Schicht, der Patina?",
+   "a": "Kupfer",
+   "fakt": "Die Patina schützt das Metall darunter. Auch die Freiheitsstatue in New York ist grün – ihre Hülle besteht aus Kupfer."
+  },
+  {
+   "n": 8,
+   "kat": "Wissenschaft",
+   "thema": "Aggregatzustände",
+   "q": "Fest, flüssig, gasförmig – wie nennt man diese drei Zustände eines Stoffes?",
+   "a": "Aggregatzustände",
+   "fakt": "Der direkte Wechsel von fest zu gasförmig heißt Sublimation. So kann Schnee bei Frost schwinden, ohne zu schmelzen."
+  },
+  {
+   "n": 9,
+   "kat": "Natur",
+   "thema": "Gewitter",
+   "q": "Zwischen Blitz und Donner vergehen 3 Sekunden. Wie weit ist das Gewitter entfernt?",
+   "a": "Rund 1 Kilometer",
+   "fakt": "Der Schall legt in der Luft etwa 340 Meter pro Sekunde zurück. Das Licht des Blitzes ist dagegen praktisch sofort da."
+  },
+  {
+   "n": 10,
+   "kat": "Wissenschaft",
+   "thema": "Bernstein",
+   "q": "Woraus ist Bernstein entstanden?",
+   "a": "Aus Baumharz",
+   "fakt": "Der Name bedeutet ursprünglich „Brennstein“ – vom niederdeutschen Wort für brennen. Bernstein lässt sich tatsächlich anzünden."
+  },
+  {
+   "n": 11,
+   "kat": "Technik",
+   "thema": "Glas",
+   "q": "Welcher Rohstoff ist der Hauptbestandteil von Glas?",
+   "a": "Quarzsand",
+   "fakt": "Dazu kommen vor allem Soda und Kalk. Soda senkt die Schmelztemperatur, Kalk macht das Glas stabil."
+  },
+  {
+   "n": 12,
+   "kat": "Natur",
+   "thema": "Tropfsteinhöhlen",
+   "q": "Wie heißen Tropfsteine, die von der Höhlendecke herabhängen?",
+   "a": "Stalaktiten",
+   "fakt": "Vom Boden wachsen ihnen die Stalagmiten entgegen. Verbinden sich beide zu einer Säule, heißt sie Stalagnat."
+  },
+  {
+   "n": 13,
+   "kat": "Wissenschaft",
+   "thema": "Neandertaler",
+   "q": "Wonach ist der Neandertaler benannt?",
+   "a": "Nach einem Tal bei Düsseldorf",
+   "fakt": "1856 fanden Steinbrucharbeiter dort die Knochen. Das Tal trägt den Namen des Kirchenlied-Dichters Joachim Neander."
+  },
+  {
+   "n": 14,
+   "kat": "Wissenschaft",
+   "thema": "Hebelgesetz",
+   "q": "Welcher griechische Gelehrte begründete das Hebelgesetz mathematisch?",
+   "a": "Archimedes",
+   "fakt": "Ihm wird der Satz zugeschrieben: „Gebt mir einen festen Punkt, und ich werde die Welt aus den Angeln heben.“"
+  },
+  {
+   "n": 15,
+   "kat": "Technik",
+   "thema": "PS",
+   "q": "Welcher Erfinder führte die Pferdestärke als Maß für Leistung ein?",
+   "a": "James Watt",
+   "fakt": "Watt wollte zeigen, wie viele Pferde seine Dampfmaschine ersetzt. Ein PS entspricht rund 735 Watt."
+  },
+  {
+   "n": 16,
+   "kat": "Wissenschaft",
+   "thema": "pH-Wert",
+   "q": "Welchen pH-Wert hat reines Wasser bei 25 Grad?",
+   "a": "7",
+   "fakt": "Sieben gilt als neutral. Zitronensaft liegt bei etwa 2 und ist sauer, Seifenlauge ist mit 9 bis 10 basisch."
+  },
+  {
+   "n": 17,
+   "kat": "Natur",
+   "thema": "Bambus",
+   "q": "Zu welcher Pflanzenfamilie gehört der Bambus?",
+   "a": "Süßgräser",
+   "fakt": "Bambus ist also ein Riesengras. Laut Guinness-Buch schaffen manche Arten bis zu 91 Zentimeter an einem Tag."
+  },
+  {
+   "n": 18,
+   "kat": "Wissenschaft",
+   "thema": "Periodensystem",
+   "q": "Welcher Chemiker veröffentlichte 1869 sein Periodensystem der Elemente?",
+   "a": "Dmitri Mendelejew",
+   "fakt": "Er ließ Lücken für noch unbekannte Elemente und sagte ihre Eigenschaften voraus. Gallium wurde 1875 tatsächlich gefunden."
+  },
+  {
+   "n": 19,
+   "kat": "Wissenschaft",
+   "thema": "Max Planck",
+   "q": "Als Begründer welcher Theorie gilt der Physiker Max Planck?",
+   "a": "Quantentheorie",
+   "fakt": "Im Dezember 1900 stellte er in Berlin seine Idee vor: Energie wird nur in winzigen Portionen abgegeben, den Quanten."
+  },
+  {
+   "n": 20,
+   "kat": "Natur",
+   "thema": "Tornado",
+   "q": "Welche Skala zur Einstufung von Tornados wurde 1971 vorgestellt?",
+   "a": "Fujita-Skala",
+   "fakt": "Sie heißt nach dem Meteorologen Tetsuya Fujita; heute gelten Weiterentwicklungen. In Deutschland gibt es jährlich Dutzende Tornados."
+  },
+  {
+   "n": 21,
+   "kat": "Natur",
+   "thema": "Eibe",
+   "q": "Welcher heimische Nadelbaum trägt rote, beerenartige Früchte statt Zapfen?",
+   "a": "Eibe",
+   "fakt": "Fast alles an der Eibe ist giftig, auch der Samen. Nur der rote, fleischige Mantel um den Samen ist es nicht."
+  },
+  {
+   "n": 22,
+   "kat": "Wissenschaft",
+   "thema": "Zelle",
+   "q": "An welchem Material entdeckte Robert Hooke 1665 unter dem Mikroskop die Zellen?",
+   "a": "An Kork",
+   "fakt": "Die winzigen Kammern erinnerten ihn an kleine Räume, lateinisch „cellula“ – so kam die Zelle zu ihrem Namen."
+  },
+  {
+   "n": 23,
+   "kat": "Wissenschaft",
+   "thema": "Lise Meitner",
+   "q": "Welchen Vorgang deutete Lise Meitner 1939 mit ihrem Neffen Otto Frisch als Erste richtig?",
+   "a": "Die Kernspaltung",
+   "fakt": "Den Nobelpreis für die Kernspaltung erhielt allein Otto Hahn. Element 109 heißt seit 1997 Meitner zu Ehren Meitnerium."
+  }
+ ]
+}
