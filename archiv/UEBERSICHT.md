@@ -1,12 +1,40 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**13 Folgen, 322 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**14 Folgen, 345 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (13 Folgen, 322 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (14 Folgen, 345 Fragen und Behauptungen)
 
 Die neuesten 12 Folgen:
+
+## Folge 14 · 2026-11-27 · Advents-Quiz: 23 Fragen von Nikolaus bis Nussknacker
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Marzipan | Welche norddeutsche Stadt ist für ihr Marzipan weltbekannt? | Lübeck |
+| 2 | Adventskalender | Womit wurde der Münchner Verleger Gerhard Lang Anfang des 20. Jahrhunderts bekannt? | Adventskalender |
+| 3 | Nürnberger Christkindlesmarkt | In welcher Stadt eröffnet das Christkind mit einem Prolog den Christkindlesmarkt? | Nürnberg |
+| 4 | Barbarazweig | An welchem Tag schneidet man nach altem Brauch die Barbarazweige? | 4. Dezember |
+| 5 | Nikolaus | In welchem heutigen Land war der heilige Nikolaus Bischof? | Türkei |
+| 6 | Adventskranz | Wer gilt als Erfinder des Adventskranzes? | Johann Hinrich Wichern |
+| 7 | Stille Nacht | In welchem Land erklang das Lied „Stille Nacht“ 1818 zum ersten Mal? | Österreich |
+| 8 | Nussknacker | Wer komponierte das Ballett „Der Nussknacker“? | Peter Tschaikowski |
+| 9 | Dickens' Weihnachtsgeschichte | Wie heißt der Geizhals in Charles Dickens’ „Weihnachtsgeschichte“? | Ebenezer Scrooge |
+| 10 | Knecht Ruprecht | Wer schrieb das Gedicht „Knecht Ruprecht“ – „Von drauß’ vom Walde komm ich her“? | Theodor Storm |
+| 11 | Drei Haselnüsse für Aschenbrödel | Welche zwei Länder produzierten gemeinsam „Drei Haselnüsse für Aschenbrödel“ (1973)? | ČSSR und DDR |
+| 12 | Jingle Bells | Welches Lied wurde 1965 als erstes im Weltall auf Musikinstrumenten gespielt? | Jingle Bells |
+| 13 | Christstollen | Woran soll die Form des Christstollens erinnern? | Das gewickelte Christkind |
+| 14 | Vanillekipferl | Die Vanille im Vanillekipferl ist die Frucht welcher Pflanze? | Einer Orchidee |
+| 15 | Weihnachtspyramide | Was bringt das Flügelrad einer Weihnachtspyramide zum Drehen? | Warme Luft der Kerzen |
+| 16 | Räuchermännchen | Aus welchem Gebirge stammen die Räuchermännchen? | Erzgebirge |
+| 17 | Schwibbogen | Auf welchen Berufsstand geht der Schwibbogen, der Lichterbogen im Fenster, zurück? | Bergleute |
+| 18 | Weihnachtsmarkt | Welche Stadt im Elsass lädt seit 1570 zum „Christkindelsmärik“? | Straßburg |
+| 19 | Luciafest | In welchem Land ziehen am 13. Dezember Mädchen mit einem Kerzenkranz zum Luciafest? | Schweden |
+| 20 | Mistelzweig | Wie kommt die Mistel an ihr Wasser? | Sie zapft Bäume an |
+| 21 | Weihnachtsstern (Pflanze) | Aus welchem Land stammt der Weihnachtsstern, die beliebte rote Topfpflanze? | Mexiko |
+| 22 | Wichteln | Unter welchem Namen aus Skandinavien ist das Wichteln auch bekannt? | Julklapp |
+| 23 | Weihnachtsoratorium | Aus wie vielen Kantaten besteht das Weihnachtsoratorium von Johann Sebastian Bach? | Sechs |
 
 ## Folge 13 · 2026-11-26 · Wissenschafts-Quiz: 23 Fragen von Mammut bis Magnet
 
@@ -334,34 +362,4 @@ Die neuesten 12 Folgen:
 | 28 | Bodensee | Der Bodensee grenzt an drei Länder. | wahr |
 | 29 | Banane | Die Banane ist botanisch eine Beere. | wahr |
 | 30 | Wikinger | Wikinger trugen Helme mit Hörnern. | falsch |
-
-## Folge 2 · 2026-11-12 · Tier- und Natur-Quiz: 25 Fragen von leicht bis schwer
-
-| Nr. | Thema | Frage oder Behauptung | Antwort |
-|---|---|---|---|
-| 1 | Honigbiene | Was sammeln Bienen an Blüten, um daraus Honig zu machen? | Nektar |
-| 2 | Reh | Wie nennt man ein junges Reh? | Kitz |
-| 3 | Pinguin | Welcher dieser Vögel kann nicht fliegen? | Pinguin |
-| 4 | Biber | Welches Tier baut Dämme aus Ästen und staut damit Bäche? | Biber |
-| 5 | Eiche | Wie heißt die Frucht der Eiche? | Eichel |
-| 6 | Koala | Was fressen Koalas fast ausschließlich? | Eukalyptusblätter |
-| 7 | Blauwal | Welches ist das größte Tier der Erde? | Blauwal |
-| 8 | Chamäleon | Welches Tier ist dafür bekannt, seine Hautfarbe zu wechseln? | Chamäleon |
-| 9 | Strauß | Welcher Vogel ist der größte der Erde? | Strauß |
-| 10 | Lärche | Welcher heimische Nadelbaum wirft im Herbst seine Nadeln ab? | Lärche |
-| 11 | Fledermaus | Welches dieser Säugetiere kann aktiv fliegen? | Fledermaus |
-| 12 | Giraffe | Wie viele Halswirbel hat eine Giraffe? | Sieben |
-| 13 | Großer Panda | In welchem Land leben Große Pandas in freier Wildbahn? | China |
-| 14 | Walhai | Welcher Fisch ist der größte der Erde? | Walhai |
-| 15 | Fotosynthese | Welches Gas nehmen Pflanzen bei der Fotosynthese auf? | Kohlendioxid |
-| 16 | Amazonas-Regenwald | In welchem Land liegt der größte Teil des Amazonas-Regenwalds? | Brasilien |
-| 17 | Kuckuck | Welcher Vogel legt seine Eier in die Nester anderer Vogelarten? | Kuckuck |
-| 18 | Elefant | Wie lange ist eine Elefantenkuh ungefähr trächtig? | 22 Monate |
-| 19 | Wanderfalke | Welches Tier erreicht die höchste Geschwindigkeit im Tierreich? | Wanderfalke |
-| 20 | Winterstarre | Wie überwintern Frösche und Eidechsen? | In Winterstarre |
-| 21 | Schnabeltier | Welches dieser Säugetiere legt Eier? | Schnabeltier |
-| 22 | Nashorn | Woraus besteht das Horn eines Nashorns? | Keratin |
-| 23 | Küstenseeschwalbe | Welcher Vogel legt jedes Jahr die längste Zugstrecke zurück? | Küstenseeschwalbe |
-| 24 | Grönlandhai | Welches Wirbeltier gilt als das langlebigste der Erde? | Grönlandhai |
-| 25 | Rafflesie | Welche Pflanze bildet die größte Einzelblüte der Erde? | Riesenrafflesie |
 

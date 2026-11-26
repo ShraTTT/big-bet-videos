@@ -1,0 +1,194 @@
+{
+ "id": "qz_014",
+ "nr": 14,
+ "datum": "2026-11-27",
+ "titel": "Advents-Quiz: 23 Fragen von Nikolaus bis Nussknacker",
+ "format": "quiz",
+ "thema": "Advent und Weihnachten: Bräuche, Lieder und Gebäck",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Alltag",
+   "thema": "Marzipan",
+   "q": "Welche norddeutsche Stadt ist für ihr Marzipan weltbekannt?",
+   "a": "Lübeck",
+   "fakt": "Der Name „Lübecker Marzipan“ ist seit 1996 in der EU geschützt: Es darf nur in Lübeck und zwei Nachbarorten entstehen."
+  },
+  {
+   "n": 2,
+   "kat": "Geschichte",
+   "thema": "Adventskalender",
+   "q": "Womit wurde der Münchner Verleger Gerhard Lang Anfang des 20. Jahrhunderts bekannt?",
+   "a": "Adventskalender",
+   "fakt": "Langs frühe Kalender hatten noch keine Türchen: Die Kinder schnitten jeden Tag ein Bildchen aus und klebten es auf."
+  },
+  {
+   "n": 3,
+   "kat": "Kultur",
+   "thema": "Nürnberger Christkindlesmarkt",
+   "q": "In welcher Stadt eröffnet das Christkind mit einem Prolog den Christkindlesmarkt?",
+   "a": "Nürnberg",
+   "fakt": "Das Christkind spricht von der Empore der Frauenkirche. Alle zwei Jahre wird eine junge Nürnbergerin dafür gewählt."
+  },
+  {
+   "n": 4,
+   "kat": "Alltag",
+   "thema": "Barbarazweig",
+   "q": "An welchem Tag schneidet man nach altem Brauch die Barbarazweige?",
+   "a": "4. Dezember",
+   "fakt": "Am Barbaratag ins Wasser gestellt, sollen die Zweige – traditionell von der Kirsche – zu Weihnachten blühen."
+  },
+  {
+   "n": 5,
+   "kat": "Geschichte",
+   "thema": "Nikolaus",
+   "q": "In welchem heutigen Land war der heilige Nikolaus Bischof?",
+   "a": "Türkei",
+   "fakt": "Nikolaus war im 4. Jahrhundert Bischof von Myra, dem heutigen Demre. Seine Gebeine kamen 1087 ins italienische Bari."
+  },
+  {
+   "n": 6,
+   "kat": "Geschichte",
+   "thema": "Adventskranz",
+   "q": "Wer gilt als Erfinder des Adventskranzes?",
+   "a": "Johann Hinrich Wichern",
+   "fakt": "Wichern hängte 1839 im Hamburger „Rauhen Haus“ ein Wagenrad auf – mit einer Kerze für jeden Tag vom 1. Advent bis Heiligabend."
+  },
+  {
+   "n": 7,
+   "kat": "Musik",
+   "thema": "Stille Nacht",
+   "q": "In welchem Land erklang das Lied „Stille Nacht“ 1818 zum ersten Mal?",
+   "a": "Österreich",
+   "fakt": "Uraufführung am Heiligabend 1818 in Oberndorf bei Salzburg: Text von Joseph Mohr, Melodie von Franz Xaver Gruber."
+  },
+  {
+   "n": 8,
+   "kat": "Musik",
+   "thema": "Nussknacker",
+   "q": "Wer komponierte das Ballett „Der Nussknacker“?",
+   "a": "Peter Tschaikowski",
+   "fakt": "Uraufführung war 1892 in Sankt Petersburg. Die Geschichte geht auf E. T. A. Hoffmanns „Nussknacker und Mausekönig“ zurück."
+  },
+  {
+   "n": 9,
+   "kat": "Kultur",
+   "thema": "Dickens' Weihnachtsgeschichte",
+   "q": "Wie heißt der Geizhals in Charles Dickens’ „Weihnachtsgeschichte“?",
+   "a": "Ebenezer Scrooge",
+   "fakt": "Die Erzählung erschien 1843. In einer einzigen Nacht bekehren drei Weihnachtsgeister den alten Geizhals."
+  },
+  {
+   "n": 10,
+   "kat": "Sprache",
+   "thema": "Knecht Ruprecht",
+   "q": "Wer schrieb das Gedicht „Knecht Ruprecht“ – „Von drauß’ vom Walde komm ich her“?",
+   "a": "Theodor Storm",
+   "fakt": "Storm schrieb das Gedicht 1862. Der Dichter aus Husum ist auch für seine Novelle „Der Schimmelreiter“ bekannt."
+  },
+  {
+   "n": 11,
+   "kat": "Kultur",
+   "thema": "Drei Haselnüsse für Aschenbrödel",
+   "q": "Welche zwei Länder produzierten gemeinsam „Drei Haselnüsse für Aschenbrödel“ (1973)?",
+   "a": "ČSSR und DDR",
+   "fakt": "Das erste Drehbuch spielte im Sommer. Weil die DEFA nur im Winter Kapazitäten frei hatte, wurde es umgeschrieben."
+  },
+  {
+   "n": 12,
+   "kat": "Musik",
+   "thema": "Jingle Bells",
+   "q": "Welches Lied wurde 1965 als erstes im Weltall auf Musikinstrumenten gespielt?",
+   "a": "Jingle Bells",
+   "fakt": "Wally Schirra spielte Mundharmonika, Tom Stafford kleine Glöckchen – am 16. Dezember 1965 an Bord von Gemini 6."
+  },
+  {
+   "n": 13,
+   "kat": "Alltag",
+   "thema": "Christstollen",
+   "q": "Woran soll die Form des Christstollens erinnern?",
+   "a": "Das gewickelte Christkind",
+   "fakt": "Der weiße Puderzucker soll die Windel darstellen. Urkundlich erwähnt wird Stollen schon 1329 in Naumburg an der Saale."
+  },
+  {
+   "n": 14,
+   "kat": "Natur",
+   "thema": "Vanillekipferl",
+   "q": "Die Vanille im Vanillekipferl ist die Frucht welcher Pflanze?",
+   "a": "Einer Orchidee",
+   "fakt": "Die Gewürzvanille ist eine kletternde Orchidee. Im Anbau werden ihre Blüten meist von Hand bestäubt."
+  },
+  {
+   "n": 15,
+   "kat": "Technik",
+   "thema": "Weihnachtspyramide",
+   "q": "Was bringt das Flügelrad einer Weihnachtspyramide zum Drehen?",
+   "a": "Warme Luft der Kerzen",
+   "fakt": "Warme Luft ist leichter als kalte und steigt auf. An den schräg gestellten Flügeln setzt sie das Rad in Bewegung."
+  },
+  {
+   "n": 16,
+   "kat": "Kultur",
+   "thema": "Räuchermännchen",
+   "q": "Aus welchem Gebirge stammen die Räuchermännchen?",
+   "a": "Erzgebirge",
+   "fakt": "Der Rauch eines Räucherkegels zieht durch den hohlen Bauch und quillt aus dem Mund. Viele Figuren zeigen alte Berufe."
+  },
+  {
+   "n": 17,
+   "kat": "Geschichte",
+   "thema": "Schwibbogen",
+   "q": "Auf welchen Berufsstand geht der Schwibbogen, der Lichterbogen im Fenster, zurück?",
+   "a": "Bergleute",
+   "fakt": "Der älteste bekannte Schwibbogen stammt aus Johanngeorgenstadt. Ein Bergschmied fertigte ihn im 18. Jahrhundert aus Metall."
+  },
+  {
+   "n": 18,
+   "kat": "Erdkunde",
+   "thema": "Weihnachtsmarkt",
+   "q": "Welche Stadt im Elsass lädt seit 1570 zum „Christkindelsmärik“?",
+   "a": "Straßburg",
+   "fakt": "Der Markt zählt zu den ältesten Europas. Straßburg nennt sich selbst „Capitale de Noël“ – Hauptstadt der Weihnacht."
+  },
+  {
+   "n": 19,
+   "kat": "Kultur",
+   "thema": "Luciafest",
+   "q": "In welchem Land ziehen am 13. Dezember Mädchen mit einem Kerzenkranz zum Luciafest?",
+   "a": "Schweden",
+   "fakt": "Zum Fest gehören weiße Gewänder, Lieder und die „Lussekatter“ – ein Gebäck mit Safran."
+  },
+  {
+   "n": 20,
+   "kat": "Natur",
+   "thema": "Mistelzweig",
+   "q": "Wie kommt die Mistel an ihr Wasser?",
+   "a": "Sie zapft Bäume an",
+   "fakt": "Die Mistel ist ein Halbschmarotzer auf Bäumen. Der Kuss unter ihren Zweigen ist erstmals 1784 in England belegt."
+  },
+  {
+   "n": 21,
+   "kat": "Natur",
+   "thema": "Weihnachtsstern (Pflanze)",
+   "q": "Aus welchem Land stammt der Weihnachtsstern, die beliebte rote Topfpflanze?",
+   "a": "Mexiko",
+   "fakt": "Rot sind nicht die Blüten, sondern Hochblätter. In seiner Heimat wächst der Weihnachtsstern als meterhoher Strauch."
+  },
+  {
+   "n": 22,
+   "kat": "Sprache",
+   "thema": "Wichteln",
+   "q": "Unter welchem Namen aus Skandinavien ist das Wichteln auch bekannt?",
+   "a": "Julklapp",
+   "fakt": "„Jul“ heißt Weihnachten, „klappa“ klopfen: Früher klopfte man an und warf das Geschenk unerkannt ins Zimmer."
+  },
+  {
+   "n": 23,
+   "kat": "Musik",
+   "thema": "Weihnachtsoratorium",
+   "q": "Aus wie vielen Kantaten besteht das Weihnachtsoratorium von Johann Sebastian Bach?",
+   "a": "Sechs",
+   "fakt": "Bach schrieb sie für sechs Festtage in Leipzig – vom ersten Weihnachtstag 1734 bis zum Dreikönigstag 1735."
+  }
+ ]
+}
