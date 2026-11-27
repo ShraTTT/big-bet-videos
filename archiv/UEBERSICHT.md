@@ -1,12 +1,47 @@
 # Fragen-Archiv von Quiz um Fünf
 
-**14 Folgen, 345 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
+**15 Folgen, 375 Fragen und Behauptungen.** Was hier steht, kommt nicht noch einmal dran: Vor jeder neuen Folge werden alle Fragen mit diesem Archiv verglichen (auch umformuliert oder als Wahr-oder-falsch-Behauptung), und ein Thema darf frühestens nach 30 Folgen wiederkommen. Ohne bestandene Prüfung wird nichts hochgeladen.
 
 Diese Listen werden automatisch erzeugt (`tools/quiz_archiv.py export`) – nicht von Hand ändern.
 
-Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (14 Folgen, 345 Fragen und Behauptungen)
+Alle Folgen nach Monaten: [2026-11](monate/2026-11.md) (15 Folgen, 375 Fragen und Behauptungen)
 
 Die neuesten 12 Folgen:
+
+## Folge 15 · 2026-11-28 · Wahr oder falsch? 30 Behauptungen über Tiere
+
+| Nr. | Thema | Frage oder Behauptung | Antwort |
+|---|---|---|---|
+| 1 | Schildkröte | Schildkröten können aus ihrem Panzer herausschlüpfen. | falsch |
+| 2 | Pferd | Pferde können im Stehen schlafen. | wahr |
+| 3 | Seepferdchen | Bei den Seepferdchen bringen die Männchen den Nachwuchs zur Welt. | wahr |
+| 4 | Tiger | Tiger leben in freier Wildbahn in Afrika. | falsch |
+| 5 | Marienkäfer | Die Zahl der Punkte verrät, wie alt ein Marienkäfer ist. | falsch |
+| 6 | Flamingo | Flamingos verdanken ihre rosa Farbe ihrer Nahrung. | wahr |
+| 7 | Eisbär | Unter seinem hellen Fell hat der Eisbär schwarze Haut. | wahr |
+| 8 | Der Froschkönig | Im Märchen der Brüder Grimm wird der Froschkönig durch einen Kuss erlöst. | falsch |
+| 9 | Kuh | Eine Kuh gibt erst Milch, nachdem sie ein Kalb geboren hat. | wahr |
+| 10 | Kolibri | Kolibris können rückwärts fliegen. | wahr |
+| 11 | Regenwurm | Ein durchtrennter Regenwurm lebt als zwei Würmer weiter. | falsch |
+| 12 | Hummel | Hummeln können stechen. | wahr |
+| 13 | Truthahn | Der Truthahn stammt ursprünglich aus der Türkei. | falsch |
+| 14 | Löwe | Löwen leben in freier Wildbahn nur in Afrika. | falsch |
+| 15 | Fuchs | Ein weiblicher Fuchs heißt in der Jägersprache Fähe. | wahr |
+| 16 | Schmetterling | Schmetterlinge leben nur einen einzigen Tag. | falsch |
+| 17 | Uhu | Ein Uhu kann seinen Kopf einmal ganz im Kreis drehen. | falsch |
+| 18 | Ziege | Ziegen haben waagerechte, fast rechteckige Pupillen. | wahr |
+| 19 | Walross | Beim Walross tragen nur die Männchen Stoßzähne. | falsch |
+| 20 | Birdie (Golf) | Ein Schlag unter Par heißt beim Golf „Birdie“ – auf Deutsch Vögelchen. | wahr |
+| 21 | Nilpferd | Flusspferde sind eng mit Pferden verwandt. | falsch |
+| 22 | Clownfisch | Clownfische können im Lauf ihres Lebens ihr Geschlecht wechseln. | wahr |
+| 23 | Schimpanse | Ein Schimpanse flog früher ins All als der erste Mensch. | wahr |
+| 24 | Hummer | Lebende Hummer sind leuchtend rot. | falsch |
+| 25 | Gecko | Geckos halten sich mit winzigen Saugnäpfen an glatten Wänden fest. | falsch |
+| 26 | Brieftaube | Der Gründer der Nachrichtenagentur Reuters übermittelte Nachrichten per Brieftaube. | wahr |
+| 27 | Kiwi | Die Kiwi-Frucht ist nach einem Vogel benannt. | wahr |
+| 28 | Tausendfüßer | Ein Tausendfüßer hat in der Regel genau tausend Beine. | falsch |
+| 29 | Koralle | Korallen sind Pflanzen. | falsch |
+| 30 | Peter und der Wolf | In „Peter und der Wolf“ wird jede Figur von eigenen Instrumenten dargestellt. | wahr |
 
 ## Folge 14 · 2026-11-27 · Advents-Quiz: 23 Fragen von Nikolaus bis Nussknacker
 
@@ -327,39 +362,4 @@ Die neuesten 12 Folgen:
 | 23 | Kaffeefilter | Wer erfand 1908 den Kaffeefilter aus Papier? | Melitta Bentz |
 | 24 | Sigmund Jähn | Wer flog 1978 als erster Deutscher ins Weltall? | Sigmund Jähn |
 | 25 | Gelbe und Rote Karte | Bei welcher Fußball-WM wurden Gelbe und Rote Karten eingeführt? | 1970 in Mexiko |
-
-## Folge 3 · 2026-11-14 · Wahr oder falsch? 30 Behauptungen – schaffst du 24?
-
-| Nr. | Thema | Frage oder Behauptung | Antwort |
-|---|---|---|---|
-| 1 | Mount Everest | Der Mount Everest ist der höchste Berg der Erde über dem Meeresspiegel. | wahr |
-| 2 | Pinguin | Pinguine leben in freier Wildbahn am Nordpol. | falsch |
-| 3 | Zähne | Das vollständige Gebiss eines Erwachsenen hat 32 Zähne. | wahr |
-| 4 | Mondlandung | Der erste Mensch betrat den Mond im Jahr 1969. | wahr |
-| 5 | Bern | Die Hauptstadt der Schweiz ist Zürich. | falsch |
-| 6 | Schaltjahr | Ein Schaltjahr hat 366 Tage. | wahr |
-| 7 | Delfin | Delfine sind Fische. | falsch |
-| 8 | Sonne | Die Sonne ist ein Stern. | wahr |
-| 9 | Kartoffel | Die Kartoffel stammt ursprünglich aus Deutschland. | falsch |
-| 10 | Klavier | Ein Klavier hat üblicherweise 88 Tasten. | wahr |
-| 11 | Nil | Der Nil mündet ins Mittelmeer. | wahr |
-| 12 | Chinesische Mauer | Die Chinesische Mauer ist vom Mond aus mit bloßem Auge zu erkennen. | falsch |
-| 13 | Stier | Stiere werden von der Farbe Rot gereizt. | falsch |
-| 14 | Oberschenkelknochen | Der Oberschenkelknochen ist der längste Knochen des Menschen. | wahr |
-| 15 | Eiffelturm | Der Eiffelturm wurde für die Weltausstellung 1889 in Paris gebaut. | wahr |
-| 16 | Siedepunkt von Wasser | Auf hohen Bergen kocht Wasser bei weniger als 100 Grad Celsius. | wahr |
-| 17 | Kontinente | Afrika ist der flächengrößte Kontinent der Erde. | falsch |
-| 18 | Handy | Das Wort „Handy“ bedeutet auch im Englischen Mobiltelefon. | falsch |
-| 19 | Kamel | Kamele speichern in ihren Höckern Wasser. | falsch |
-| 20 | Erdnuss | Die Erdnuss gehört botanisch zu den Hülsenfrüchtlern – wie Erbse und Bohne. | wahr |
-| 21 | Sonnenlicht | Das Licht der Sonne braucht rund acht Minuten bis zur Erde. | wahr |
-| 22 | Napoleon | Napoleon Bonaparte war mit rund 1,50 Metern auffallend klein. | falsch |
-| 23 | Istanbul | Istanbul liegt auf zwei Kontinenten. | wahr |
-| 24 | Gehirn | Der Mensch nutzt nur zehn Prozent seines Gehirns. | falsch |
-| 25 | Goldfisch | Goldfische haben ein Gedächtnis von nur drei Sekunden. | falsch |
-| 26 | Diamant | Diamanten bestehen aus Kohlenstoff. | wahr |
-| 27 | Albert Einstein | Albert Einstein erhielt den Nobelpreis für die Relativitätstheorie. | falsch |
-| 28 | Bodensee | Der Bodensee grenzt an drei Länder. | wahr |
-| 29 | Banane | Die Banane ist botanisch eine Beere. | wahr |
-| 30 | Wikinger | Wikinger trugen Helme mit Hörnern. | falsch |
 

@@ -1,0 +1,250 @@
+{
+ "id": "qz_015",
+ "nr": 15,
+ "datum": "2026-11-28",
+ "titel": "Wahr oder falsch? 30 Behauptungen über Tiere",
+ "format": "wahr_falsch",
+ "thema": "Wahr oder falsch – Tiere",
+ "fragen": [
+  {
+   "n": 1,
+   "kat": "Natur",
+   "thema": "Schildkröte",
+   "q": "Schildkröten können aus ihrem Panzer herausschlüpfen.",
+   "a": "falsch",
+   "fakt": "Der Panzer ist mit Wirbelsäule und Rippen fest verwachsen. Er wächst mit dem Tier mit."
+  },
+  {
+   "n": 2,
+   "kat": "Natur",
+   "thema": "Pferd",
+   "q": "Pferde können im Stehen schlafen.",
+   "a": "wahr",
+   "fakt": "Sehnen und Bänder halten die Beine fast ohne Muskelkraft gestreckt. Für die Traumphase legen sich Pferde aber hin."
+  },
+  {
+   "n": 3,
+   "kat": "Natur",
+   "thema": "Seepferdchen",
+   "q": "Bei den Seepferdchen bringen die Männchen den Nachwuchs zur Welt.",
+   "a": "wahr",
+   "fakt": "Das Weibchen legt die Eier in die Bruttasche des Männchens. Dort reifen sie, bis die Jungen schlüpfen."
+  },
+  {
+   "n": 4,
+   "kat": "Erdkunde",
+   "thema": "Tiger",
+   "q": "Tiger leben in freier Wildbahn in Afrika.",
+   "a": "falsch",
+   "fakt": "Wilde Tiger gibt es nur in Asien – von Indien bis in den Fernen Osten Russlands. Die meisten leben in Indien."
+  },
+  {
+   "n": 5,
+   "kat": "Natur",
+   "thema": "Marienkäfer",
+   "q": "Die Zahl der Punkte verrät, wie alt ein Marienkäfer ist.",
+   "a": "falsch",
+   "fakt": "Die Punkte bleiben ein Leben lang gleich. Ihre Zahl hängt meist von der Art ab – der Siebenpunkt hat sieben."
+  },
+  {
+   "n": 6,
+   "kat": "Wissenschaft",
+   "thema": "Flamingo",
+   "q": "Flamingos verdanken ihre rosa Farbe ihrer Nahrung.",
+   "a": "wahr",
+   "fakt": "Farbstoffe aus Algen und kleinen Krebsen lagern sich in den Federn ein. Die Küken sind noch grau."
+  },
+  {
+   "n": 7,
+   "kat": "Körper",
+   "thema": "Eisbär",
+   "q": "Unter seinem hellen Fell hat der Eisbär schwarze Haut.",
+   "a": "wahr",
+   "fakt": "Die Haare selbst sind durchsichtig und hohl. Weiß wirken sie nur, weil sie das Licht zurückwerfen."
+  },
+  {
+   "n": 8,
+   "kat": "Kultur",
+   "thema": "Der Froschkönig",
+   "q": "Im Märchen der Brüder Grimm wird der Froschkönig durch einen Kuss erlöst.",
+   "a": "falsch",
+   "fakt": "Bei den Brüdern Grimm wirft die Königstochter den Frosch an die Wand – erst da wird er zum Prinzen."
+  },
+  {
+   "n": 9,
+   "kat": "Alltag",
+   "thema": "Kuh",
+   "q": "Eine Kuh gibt erst Milch, nachdem sie ein Kalb geboren hat.",
+   "a": "wahr",
+   "fakt": "Wie alle Säugetiere bildet die Kuh Milch für ihren Nachwuchs. Milchkühe bekommen deshalb etwa jedes Jahr ein Kalb."
+  },
+  {
+   "n": 10,
+   "kat": "Natur",
+   "thema": "Kolibri",
+   "q": "Kolibris können rückwärts fliegen.",
+   "a": "wahr",
+   "fakt": "Ihre Flügel beschreiben eine Acht. So können Kolibris auch auf der Stelle schweben – wie ein Hubschrauber."
+  },
+  {
+   "n": 11,
+   "kat": "Natur",
+   "thema": "Regenwurm",
+   "q": "Ein durchtrennter Regenwurm lebt als zwei Würmer weiter.",
+   "a": "falsch",
+   "fakt": "Bestenfalls überlebt das Vorderende und bildet ein neues Hinterteil. Das abgetrennte Ende stirbt."
+  },
+  {
+   "n": 12,
+   "kat": "Natur",
+   "thema": "Hummel",
+   "q": "Hummeln können stechen.",
+   "a": "wahr",
+   "fakt": "Königinnen und Arbeiterinnen haben einen Stachel, setzen ihn aber selten ein. Nur die Männchen sind stachellos."
+  },
+  {
+   "n": 13,
+   "kat": "Erdkunde",
+   "thema": "Truthahn",
+   "q": "Der Truthahn stammt ursprünglich aus der Türkei.",
+   "a": "falsch",
+   "fakt": "Truthühner stammen aus Nordamerika. In Mexiko wurden sie schon lange vor Kolumbus gezüchtet."
+  },
+  {
+   "n": 14,
+   "kat": "Erdkunde",
+   "thema": "Löwe",
+   "q": "Löwen leben in freier Wildbahn nur in Afrika.",
+   "a": "falsch",
+   "fakt": "Auch in Indien leben mehrere Hundert wilde Löwen – im Bundesstaat Gujarat, rund um den Gir-Wald."
+  },
+  {
+   "n": 15,
+   "kat": "Sprache",
+   "thema": "Fuchs",
+   "q": "Ein weiblicher Fuchs heißt in der Jägersprache Fähe.",
+   "a": "wahr",
+   "fakt": "Das Männchen heißt Rüde, die Jungen sind Welpen – wie beim Hund. Fähe sagt man auch bei Wolf und Dachs."
+  },
+  {
+   "n": 16,
+   "kat": "Natur",
+   "thema": "Schmetterling",
+   "q": "Schmetterlinge leben nur einen einzigen Tag.",
+   "a": "falsch",
+   "fakt": "Manche leben viel länger: Der Zitronenfalter wird zehn bis elf Monate alt – Rekord unter den heimischen Tagfaltern."
+  },
+  {
+   "n": 17,
+   "kat": "Körper",
+   "thema": "Uhu",
+   "q": "Ein Uhu kann seinen Kopf einmal ganz im Kreis drehen.",
+   "a": "falsch",
+   "fakt": "Eulen schaffen etwa 270 Grad, also eine Dreivierteldrehung. Ihre Augen sitzen starr im Schädel."
+  },
+  {
+   "n": 18,
+   "kat": "Körper",
+   "thema": "Ziege",
+   "q": "Ziegen haben waagerechte, fast rechteckige Pupillen.",
+   "a": "wahr",
+   "fakt": "Die Querpupillen geben einen weiten Rundumblick – praktisch für Tiere, die Feinde früh bemerken müssen."
+  },
+  {
+   "n": 19,
+   "kat": "Körper",
+   "thema": "Walross",
+   "q": "Beim Walross tragen nur die Männchen Stoßzähne.",
+   "a": "falsch",
+   "fakt": "Beide Geschlechter haben Stoßzähne – bis zu einen Meter lang. Damit ziehen sich die Tiere auch aufs Eis."
+  },
+  {
+   "n": 20,
+   "kat": "Sport",
+   "thema": "Birdie (Golf)",
+   "q": "Ein Schlag unter Par heißt beim Golf „Birdie“ – auf Deutsch Vögelchen.",
+   "a": "wahr",
+   "fakt": "Zwei Schläge unter Par heißen Eagle, also Adler. Par ist die Schlagzahl, die für eine Bahn vorgesehen ist."
+  },
+  {
+   "n": 21,
+   "kat": "Wissenschaft",
+   "thema": "Nilpferd",
+   "q": "Flusspferde sind eng mit Pferden verwandt.",
+   "a": "falsch",
+   "fakt": "Ihre nächsten lebenden Verwandten sind die Wale. Mit Pferden haben Flusspferde nur den Namen gemeinsam."
+  },
+  {
+   "n": 22,
+   "kat": "Wissenschaft",
+   "thema": "Clownfisch",
+   "q": "Clownfische können im Lauf ihres Lebens ihr Geschlecht wechseln.",
+   "a": "wahr",
+   "fakt": "Clownfische werden zuerst Männchen. Stirbt das Weibchen einer Gruppe, wird das ranghöchste Männchen zum Weibchen."
+  },
+  {
+   "n": 23,
+   "kat": "Weltall",
+   "thema": "Schimpanse",
+   "q": "Ein Schimpanse flog früher ins All als der erste Mensch.",
+   "a": "wahr",
+   "fakt": "Schimpanse Ham flog am 31. Januar 1961 in einer Mercury-Kapsel – zehn Wochen vor Juri Gagarin."
+  },
+  {
+   "n": 24,
+   "kat": "Wissenschaft",
+   "thema": "Hummer",
+   "q": "Lebende Hummer sind leuchtend rot.",
+   "a": "falsch",
+   "fakt": "Lebende Hummer sind meist dunkel, bräunlich bis blau. Rot werden sie erst beim Kochen."
+  },
+  {
+   "n": 25,
+   "kat": "Technik",
+   "thema": "Gecko",
+   "q": "Geckos halten sich mit winzigen Saugnäpfen an glatten Wänden fest.",
+   "a": "falsch",
+   "fakt": "Millionen feinster Härchen an den Füßen haften durch Anziehungskräfte zwischen Molekülen – ganz ohne Saugnapf."
+  },
+  {
+   "n": 26,
+   "kat": "Geschichte",
+   "thema": "Brieftaube",
+   "q": "Der Gründer der Nachrichtenagentur Reuters übermittelte Nachrichten per Brieftaube.",
+   "a": "wahr",
+   "fakt": "1850 überbrückte Paul Julius Reuter mit Tauben die Telegrafenlücke zwischen Aachen und Brüssel. 1851 gründete er in London seine Agentur."
+  },
+  {
+   "n": 27,
+   "kat": "Sprache",
+   "thema": "Kiwi",
+   "q": "Die Kiwi-Frucht ist nach einem Vogel benannt.",
+   "a": "wahr",
+   "fakt": "Die Frucht hieß erst Chinesische Stachelbeere. 1959 tauften Exporteure aus Neuseeland sie nach dem Kiwi-Vogel um."
+  },
+  {
+   "n": 28,
+   "kat": "Natur",
+   "thema": "Tausendfüßer",
+   "q": "Ein Tausendfüßer hat in der Regel genau tausend Beine.",
+   "a": "falsch",
+   "fakt": "Die meisten haben weit weniger. Erst 2021 wurde eine Art mit mehr als tausend beschrieben: 1.306 Beine."
+  },
+  {
+   "n": 29,
+   "kat": "Wissenschaft",
+   "thema": "Koralle",
+   "q": "Korallen sind Pflanzen.",
+   "a": "falsch",
+   "fakt": "Korallen sind Tiere: winzige Polypen, verwandt mit den Quallen. Viele leben mit Algen zusammen, die sie färben."
+  },
+  {
+   "n": 30,
+   "kat": "Musik",
+   "thema": "Peter und der Wolf",
+   "q": "In „Peter und der Wolf“ wird jede Figur von eigenen Instrumenten dargestellt.",
+   "a": "wahr",
+   "fakt": "Sergei Prokofjew schrieb das Stück 1936. Der Vogel ist die Flöte, die Ente die Oboe, den Wolf spielen Hörner."
+  }
+ ]
+}
